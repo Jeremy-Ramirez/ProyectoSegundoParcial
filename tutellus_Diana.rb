@@ -3,7 +3,7 @@ require 'open-uri'
 require 'nokogiri'
 require 'csv'
 
-class Cursos
+class Tutellus
 
     def initialize()
     end
@@ -11,7 +11,7 @@ class Cursos
     def extraer
 
         CSV.open('tutellus.csv', 'wb') do |csv|
-            csv << %w[TítuloCurso Precio Duración Autor Calificación Calificación]
+            csv << %w[TítuloCurso Precio Duración Autor Calificación]
             
             cou=0; pagina=1
             while (pagina<=4)

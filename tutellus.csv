@@ -1,4 +1,4 @@
-TítuloCurso,Precio,Duración,Autor,Calificación,Calificación
+TítuloCurso,Precio,Duración,Autor,Calificación
 Fundamentos de la programación en Java,15 €,8 h,Juan Fernando  Copete Mutis,4.3
 2020 Python Completo: De Cero a Héroe en Python,47 €,13 h,Eric Alexander,4.6
 Curso Completo de Fundamentos de Computación,10 €,15 h,Julio César Fuentes Ochoa,4.8
@@ -35,10 +35,10 @@ Master en Bootstrap 4 de Cero a 100,99 €,15 h,render2web Cursos y tutoriales d
 Arduino e Impresión 3D: crea tu propio Robot,15 €,8 h,Christian Olmedo Regalado Sarmiento,4.8
 Aprende a crear Servicios RestFul con programación reactiva,25 €,2 h,Alex Salomé Pastrana,5
 Unreal Engine 4: crea videojuegos desde cero,99 €,16 h,Juan Gabriel Gomila,4.5
-Aprende C# creando un juego en Unity 5: de cero a experto,99 €,12 h,Juan Gabriel Gomila,4.6
-Curso Completo de Desarrollo Responsive + Proyectos Prácticos,30 €,8 h,render2web Cursos y tutoriales de alta calidad,4.8
 Editor Unity3D: Domínalo y amplíalo creando menús a medida,30 €,3 h,Pedro Muñoz,4.3
 API RESTful con Laravel: Guía Definitiva,29 €,12 h,Juan David Meza González,3.7
+Crea sitios web Responsive en Bootstrap sin programar,15 €,3 h,Raul Martinez,4.3
 Unity3D: Del 2D a la Realidad Virtual,95 €,16 h,Pedro Muñoz,4.7
-Aprende a desarrollar apps para Apple Watch ,99 €,17 h,Juan Gabriel Gomila,4.5
-Crea un API RESTful con Slim PHP y aprende a usarla con AJAX,20 €,2 h,Víctor Robles,4.4
+Aprende a crear sitios web dinámicos en PHP sin programar,30 €,6 h,Raul Martinez,4.4
+Los Pilares del Diseño Web Moderno,9 €,1 h,Alonso Machuca Vargas,4.7
+Fundamentos de la programación en Java,15 €,8 h,Juan Fernando  Copete Mutis,4.3
