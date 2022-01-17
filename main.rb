@@ -7,6 +7,7 @@ require 'csv'
 
 require './tutellus_Diana.rb'
 require './reedCourses_Jeremy.rb'
+require './netzun_Sandy.rb'
 
 cursoDiana = Tutellus.new()
 cursoDiana.extraer
