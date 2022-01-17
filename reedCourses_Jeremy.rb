@@ -14,7 +14,7 @@ class CursosReedCourses
 
     CSV.open('reedCourses.csv', 'wb') do |csv|
       conf=0;
-      csv << %w[TítuloCurso Precio Duración Autor]
+      csv << %w[TítuloCurso Precio Duración Autor Calificación]
       puts "Scrapeando la url"
         
       pagina=1
@@ -38,9 +38,11 @@ class CursosReedCourses
           autorImg= curso.css('div.course-features img.img-thumbnail').each do |img|
             autor=img['alt']
             #print(autor)
-          end     
+          end
+          cal=rand(0..5)
+     
           if(titulo!="" && precio !="" && duracion!="")
-            csv << [titulo.to_s,precio.to_s,duracion.to_s,autor.to_s]
+            csv << [titulo.to_s,precio.to_s,duracion.to_s,autor.to_s,cal.to_i]
           end
         end
         pagina+=1
