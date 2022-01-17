@@ -16,7 +16,7 @@ class Netzun
         
       pagina=1
 
-      while(pagina<=34)
+      while(pagina<=2)
         link="https://netzun.com/cursos-online/categoria/tecnologia-y-digital?pagina=#{pagina}"
         puts(link)
         udemyHTML= URI.open(link)
