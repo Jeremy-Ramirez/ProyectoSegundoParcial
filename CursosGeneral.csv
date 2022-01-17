@@ -1,196 +1,595 @@
 TítuloCurso,Precio,Duración,Autor,Calificación
 Java Programming,£10,15.2 hours,Next Learn Academy,4
-SQL Programming: The SQL Database Programming Essential Training 2022,£10,3.5 hours ,Ahmed Ibrahim,0
-Programming,£10,7 hours   ,Course Cloud,0
-C# Programming: The C# Coding Essential Training in 2022,£10,3.9 hours ,Ahmed Ibrahim,3
-Python Programming: Building Real Apps with Python Programming 2022,£10,3.5 hours ,Ahmed Ibrahim,3
-C# Programming with Ado.net,£10,2.6 hours ,Suprio Dutta,3
-SQL Programming,£10,2 hours   ,Suprio Dutta,4
-Python Programming for Beginners | Python Ultimate Bootcamp 2022,£10,6 hours   ,Ahmed Ibrahim,0
-Python Programming Certification Training,£10,29.4 hours,Uplatz,3
-F# Programming,£71,5 hours   ,Ed-Next (Consult +),3
+SQL Programming: The SQL Database Programming Essential Training 2022,£10,3.5 hours ,Ahmed Ibrahim,2
+Programming,£10,7 hours   ,Course Cloud,3
+C# Programming: The C# Coding Essential Training in 2022,£10,3.9 hours ,Ahmed Ibrahim,2
+Python Programming: Building Real Apps with Python Programming 2022,£10,3.5 hours ,Ahmed Ibrahim,1
+C# Programming with Ado.net,£10,2.6 hours ,Suprio Dutta,5
+SQL Programming,£10,2 hours   ,Suprio Dutta,5
+Python Programming for Beginners | Python Ultimate Bootcamp 2022,£10,6 hours   ,Ahmed Ibrahim,2
+Python Programming Certification Training,£10,29.4 hours,Uplatz,5
+F# Programming,£71,5 hours   ,Ed-Next (Consult +),0
 Java Programming Training Courses,£19,3.4 hours ,EduOlc Team,4
-C# Programming-Beginners To Advanced,£10,5.1 hours ,Suprio Dutta,4
-Coding (Computer Programming),£53,97 hours  ,Apex Learning,1
-SAS Programming,£10,12 hours  ,Course Cloud,4
-GUI Programming in Python using Tkinter Certification Training,£10,25.3 hours,Uplatz,4
-JavaScript Programming for Beginners,£19,2.3 hours ,Zenva Academy,5
-PLC Programming,£13,7 hours   ,Course Cloud,4
-Data Science: Python Programming for Data Analysis 2022 Complete Bootcamp,£10,6.3 hours ,Ahmed Ibrahim,5
-3D Programming Crash Course ,£89,1.2 hours ,Sonar Systems,0
-C++ Programming Course,£35,10 hours  ,Ed-Next (Consult +),1
-Java Programming ,£150,3.4 hours ,Numoni,0
-PLC Programming,£10,7 hours   ,Janets,1
-Python Programming From A-Z: Beginner To Expert Course,£11.99,15.5 hours,Lunes Online Learning,5
+C# Programming-Beginners To Advanced,£10,5.1 hours ,Suprio Dutta,3
+Coding (Computer Programming),£53,97 hours  ,Apex Learning,0
+SAS Programming,£10,12 hours  ,Course Cloud,2
+GUI Programming in Python using Tkinter Certification Training,£10,25.3 hours,Uplatz,1
+JavaScript Programming for Beginners,£19,2.3 hours ,Zenva Academy,4
+PLC Programming,£13,7 hours   ,Course Cloud,2
+Data Science: Python Programming for Data Analysis 2022 Complete Bootcamp,£10,6.3 hours ,Ahmed Ibrahim,2
+3D Programming Crash Course ,£89,1.2 hours ,Sonar Systems,1
+C++ Programming Course,£35,10 hours  ,Ed-Next (Consult +),5
+Java Programming ,£150,3.4 hours ,Numoni,5
+PLC Programming,£10,7 hours   ,Janets,3
+Python Programming From A-Z: Beginner To Expert Course,£11.99,15.5 hours,Lunes Online Learning,0
 R Programming,£59,4.9 hours ,Earn & Excel,2
-Programming in Android,£200,30 hours  ,IT Academy,3
-Python Programming for Beginners,£19,2.8 hours ,Zenva Academy,4
-Python Programming,£59,4.7 hours ,Earn & Excel,2
-Ruby Programming Training,£71,32 hours  ,Ed-Next (Consult +),1
-Scala Programming,£71,9 hours   ,Ed-Next (Consult +),2
-Data Science: The R Programming For Data Science Complete Bootcamp 2022,£10,5.1 hours ,Ahmed Ibrahim,0
-F# Programming Training Course,£99,4 hours   ,EduCBA,4
-SAS Programming,£449,12 hours  ,Amaar School,3
-C# Programming,£15,5 hours   ,The Teachers Training,4
-Java Programming,£449,4 hours   ,Amaar School,5
-Assembly Programming,£550,2 hours   ,Amaar School,4
+Programming in Android,£200,30 hours  ,IT Academy,4
+Python Programming for Beginners,£19,2.8 hours ,Zenva Academy,5
+Python Programming,£59,4.7 hours ,Earn & Excel,4
+Ruby Programming Training,£71,32 hours  ,Ed-Next (Consult +),3
+Scala Programming,£71,9 hours   ,Ed-Next (Consult +),4
+Data Science: The R Programming For Data Science Complete Bootcamp 2022,£10,5.1 hours ,Ahmed Ibrahim,5
+F# Programming Training Course,£99,4 hours   ,EduCBA,0
+SAS Programming,£449,12 hours  ,Amaar School,1
+C# Programming,£15,5 hours   ,The Teachers Training,5
+Java Programming,£449,4 hours   ,Amaar School,1
+Assembly Programming,£550,2 hours   ,Amaar School,1
 Dart Programming,£550,4 hours   ,Amaar School,1
-Python Programming,£21.76,8 hours   ,Simpliv LLC,2
-Mind Programming,£550,1 hour    ,Amaar School,3
-R Programming Certification Training,£10,20.8 hours,Uplatz,0
-C++ Programming Course,£99,          ,EduCBA,1
-Coding (Computer Programming),£100,102 hours ,StudyHub,3
-Julia Programming,£10,4 hours   ,Janets,2
-Java Programming,"£2,100",5 days · F,Verhoef Training Ltd,1
-Java Programming,"£2,100",5 days · F,Verhoef Training Ltd,3
+Python Programming,£21.76,8 hours   ,Simpliv LLC,4
+Mind Programming,£550,1 hour    ,Amaar School,4
+R Programming Certification Training,£10,20.8 hours,Uplatz,2
+C++ Programming Course,£99,          ,EduCBA,3
+Coding (Computer Programming),£100,102 hours ,StudyHub,4
+Julia Programming,£10,4 hours   ,Janets,1
+Java Programming,"£2,100",5 days · F,Verhoef Training Ltd,4
+Java Programming,"£2,100",5 days · F,Verhoef Training Ltd,2
 Python Programming,£10,6 hours   ,Janets,2
-Python Programming,£10,6 hours   ,Janets,5
-C Programming Course,£99,          ,EduCBA,5
+Python Programming,£10,6 hours   ,Janets,4
+C Programming Course,£99,          ,EduCBA,1
 Scala Programming,£99,          ,EduCBA,1
-Python Programming,£21.77,18 hours  ,Simpliv LLC,5
+Python Programming,£21.77,18 hours  ,Simpliv LLC,0
 Python Programming,£21.77,18 hours  ,Simpliv LLC,5
 Java Programming Course,£129,14 hours  ,Course Correct Limited,2
-C Programming Course,£35,10 hours  ,Ed-Next (Consult +),4
-Introduction To Programming,£29,          ,Skill Success,2
+C Programming Course,£35,10 hours  ,Ed-Next (Consult +),2
+Introduction To Programming,£29,          ,Skill Success,1
 Python Programming: Advanced and Important Concepts for Python Programmers,£10,4 hours   ,Ahmed Ibrahim,5
-Julia Programming,£10,4 hours   ,One Education,1
-AutoLISP Programming,£10,7 hours   ,One Education,0
-Scala Programming,£99,          ,EduCBA,4
-PLC Programming,£100,101 hours ,StudyHub,5
+Julia Programming,£10,4 hours   ,One Education,3
+AutoLISP Programming,£10,7 hours   ,One Education,2
+Scala Programming,£99,          ,EduCBA,2
+PLC Programming,£100,101 hours ,StudyHub,4
 Java Programming,£10,9 hours   ,Janets,5
-Java Programming,£29,1 year    ,"",3
+Java Programming,£29,1 year    ,"",2
 AutoCAD Programming,£29,32 hours  ,Course Cloud,5
 Java Programming Course,£39,12 months ,Study247,5
-Programming Fundamentals,£119,15 hours  ,eTrain,4
-Python Programming,£21.76,23 hours  ,Simpliv LLC,2
+Programming Fundamentals,£119,15 hours  ,eTrain,5
+Python Programming,£21.76,23 hours  ,Simpliv LLC,5
 Python Programming,£21.76,20 hours  ,Simpliv LLC,0
-Python Programming,£21.77,9 hours   ,Simpliv LLC,0
-Scheme Programming,£99,          ,EduCBA,4
-Scheme Programming,£99,          ,EduCBA,3
-Python Programming,£21.76,40 hours  ,Simpliv LLC,4
-Python Programming,£21.76,22 hours  ,Simpliv LLC,2
-Python Programming,£10,16 hours  ,Course Central,0
-Programming for Beginners,£55,30 hours  ,Course Cloud,5
-C# Programming Course,£29,          ,Skill Success,4
+Python Programming,£21.77,9 hours   ,Simpliv LLC,2
+Scheme Programming,£99,          ,EduCBA,5
+Scheme Programming,£99,          ,EduCBA,1
+Python Programming,£21.76,40 hours  ,Simpliv LLC,0
+Python Programming,£21.76,22 hours  ,Simpliv LLC,3
+Python Programming,£10,16 hours  ,Course Central,3
+Programming for Beginners,£55,30 hours  ,Course Cloud,2
+C# Programming Course,£29,          ,Skill Success,5
 Python Programming,£119,564 hours ,One Education,2
-Neuro Linguistic Programming (NLP),£12,0.3 hours ,STUDY CRUISE PRIVATE LTD,3
-Computer Programming,£55,67 hours  ,One Education,0
+Neuro Linguistic Programming (NLP),£12,0.3 hours ,STUDY CRUISE PRIVATE LTD,5
+Computer Programming,£55,67 hours  ,One Education,3
 F# Programming,£99,4 hours   ,EduCBA,0
 Python Programming,£21.76,11 hours  ,Simpliv LLC,2
-PERL Programming,£99,5 hours   ,EduCBA,0
-Python Programming,£13,6 hours   ,Course Cloud,0
-Haskell Programming,£99,          ,EduCBA,4
+PERL Programming,£99,5 hours   ,EduCBA,2
+Python Programming,£13,6 hours   ,Course Cloud,4
+Haskell Programming,£99,          ,EduCBA,2
 Shells and Shell Programming Certification Training,£10,10.6 hours,Uplatz,3
-PHP Programming,£21.64,20 hours  ,Simpliv LLC,5
- PHP Programming,£36.07,19 hours  ,Simpliv LLC,3
-Coding Courses : Computer Programming,£30,40 hours  ,Janets,4
-PERL Programming Training Course,£99,5 hours   ,EduCBA,0
-Python Programming,£21.77,25 hours  ,Simpliv LLC,3
-Python Programming,£21.77,18 hours  ,Simpliv LLC,2
-SAS : SAS Programming,£10,4 hours   ,Janets,4
-R Programming,£10,29 hours  ,Course Central,1
-Ruby Programming Training,£99,          ,EduCBA,4
-Python Programming,£10,          ,Lead Academy,5
-PERL Programming,£53,8 hours   ,Ed-Next (Consult +),2
-PLC Programming,£15,36 hours  ,Course Cloud,5
-Java Programming,£22,15 hours  ,Next Learn Academy,3
-Assembly Programming,£13,2 hours   ,Course Cloud,4
-PHP Programming,£29,          ,Skill Success,0
-Python Programming Course,£129,9 hours   ,Course Correct Limited,4
-R Programming Courses,£149,76 hours  ,EduCBA,0
-Scheme Programming Training Course,£169,12 hours  ,EduCBA,1
-Python Programming,"£1,560",3 days · F,Verhoef Training Ltd,3
-Python Programming,"£1,560",3 days · F,Verhoef Training Ltd,4
-R For Beginners: Learn R Programming from Scratch,£15,2.8 hours ,Oak Academy,3
+PHP Programming,£21.64,20 hours  ,Simpliv LLC,0
+ PHP Programming,£36.07,19 hours  ,Simpliv LLC,4
+Coding Courses : Computer Programming,£30,40 hours  ,Janets,1
+Python Programming,£21.77,25 hours  ,Simpliv LLC,5
+Python Programming,£21.77,18 hours  ,Simpliv LLC,1
+PERL Programming Training Course,£99,5 hours   ,EduCBA,2
+SAS : SAS Programming,£10,4 hours   ,Janets,3
+R Programming,£10,29 hours  ,Course Central,3
+Ruby Programming Training,£99,          ,EduCBA,2
+Python Programming,£10,          ,Lead Academy,0
+PERL Programming,£53,8 hours   ,Ed-Next (Consult +),5
+PLC Programming,£15,36 hours  ,Course Cloud,4
+Java Programming,£22,15 hours  ,Next Learn Academy,5
+Assembly Programming,£13,2 hours   ,Course Cloud,1
+PHP Programming,£29,          ,Skill Success,3
+Python Programming Course,£129,9 hours   ,Course Correct Limited,3
+R Programming Courses,£149,76 hours  ,EduCBA,5
+Scheme Programming Training Course,£169,12 hours  ,EduCBA,3
+Python Programming,"£1,560",3 days · F,Verhoef Training Ltd,0
+Python Programming,"£1,560",3 days · F,Verhoef Training Ltd,0
+R For Beginners: Learn R Programming from Scratch,£15,2.8 hours ,Oak Academy,0
 Introduction to Programming,£149,12 hours  ,eTrain,0
-Programming Basics Course,£99,1 month   ,StudyOnline247,4
-Computer Programming Complete Bundle,£15,80 hours  ,Janets,5
-Microsoft 70-483: Programming in C# .NET,£99,26 hours  ,eTrain,3
-R For Beginners: Learn R Programming from Scratch,£10,2.8 hours ,Oak Academy,1
-Modern C++ Programming,£10,1.3 hours ,EduOlc Team,4
-Coding in Java Programming,£10,0.9 hours ,EduOlc Team,2
-Functional Programming In Java,£10,1.1 hours ,EduOlc Team,0
-Computer Programming and Python,£16,15 hours  ,Academy for Health & Fitness,5
-C++ Computer Programming,£10,1.3 hours ,EduOlc Team,5
+Programming Basics Course,£99,1 month   ,StudyOnline247,1
+Computer Programming Complete Bundle,£15,80 hours  ,Janets,0
+Microsoft 70-483: Programming in C# .NET,£99,26 hours  ,eTrain,5
+R For Beginners: Learn R Programming from Scratch,£10,2.8 hours ,Oak Academy,2
+Modern C++ Programming,£10,1.3 hours ,EduOlc Team,1
+Coding in Java Programming,£10,0.9 hours ,EduOlc Team,3
+Functional Programming In Java,£10,1.1 hours ,EduOlc Team,1
+Computer Programming and Python,£16,15 hours  ,Academy for Health & Fitness,1
+C++ Computer Programming,£10,1.3 hours ,EduOlc Team,4
 SAS DS2 Programming,£71,5 hours   ,Ed-Next (Consult +),1
-C Programming For Beginners,£49.99,5 hours   ,Dragon Zap,1
-C++ Programming Fundamentals,£19,2.8 hours ,EduOlc Team,4
-Neuro Linguistic Programming,£10,50 hours  ,Brentwood Open learning College,4
-"Python Programming: Databases with Python | Learn MySQL, SQLite & MongoDB ",£10,3.2 hours ,Ahmed Ibrahim,5
-Computer Science and Programming,£119,420 hours ,Janets,3
-Bundle Multi (2-in-1) - R Programming,£15,29.4 hours,Uplatz,2
-C++ for Competitive Programming,£10,2.8 hours ,EduOlc Team,3
+C Programming For Beginners,£49.99,5 hours   ,Dragon Zap,0
+C++ Programming Fundamentals,£19,2.8 hours ,EduOlc Team,3
+Neuro Linguistic Programming,£10,50 hours  ,Brentwood Open learning College,2
+"Python Programming: Databases with Python | Learn MySQL, SQLite & MongoDB ",£10,3.2 hours ,Ahmed Ibrahim,1
+Computer Science and Programming,£119,420 hours ,Janets,4
+Bundle Multi (2-in-1) - R Programming,£15,29.4 hours,Uplatz,1
+C++ for Competitive Programming,£10,2.8 hours ,EduOlc Team,4
 Computer Science & Programming,£32,13 hours  ,StudyHub,4
-Coding : Computer Programming,£75,90 hours  ,StudyHub,1
-AutoCAD: AutoCAD Programming,£53,69 hours  ,Apex Learning,2
-Python 3 Programming,£10,          ,Knowledge Door,2
-Programming Language Training Bundle Course,£99,44 hours  ,EduCBA,5
-Learn Programming in C++,£10,1.5 hours ,EduOlc Team,5
+Coding : Computer Programming,£75,90 hours  ,StudyHub,5
+AutoCAD: AutoCAD Programming,£53,69 hours  ,Apex Learning,0
+Python 3 Programming,£10,          ,Knowledge Door,4
+Programming Language Training Bundle Course,£99,44 hours  ,EduCBA,3
+Learn Programming in C++,£10,1.5 hours ,EduOlc Team,1
 Mastering C++ Programming,£10,2.8 hours ,EduOlc Team,2
-The Complete Introduction to C++ Programming,£12,5 hours   ,Yassin Marco,4
-Programming Language Training Bundle,£71,61 hours  ,Ed-Next (Consult +),3
-IT : Online R Programming Course | R Programming Language,£10,69 hours  ,Simpliv LLC,2
-Complete Java Programming,£35,10 hours  ,Ed-Next (Consult +),3
+The Complete Introduction to C++ Programming,£12,5 hours   ,Yassin Marco,5
+Programming Language Training Bundle,£71,61 hours  ,Ed-Next (Consult +),2
+IT : Online R Programming Course | R Programming Language,£10,69 hours  ,Simpliv LLC,3
+Complete Java Programming,£35,10 hours  ,Ed-Next (Consult +),4
 .NET Programming,£499,          ,Fortray Networks Ltd,5
-HTML5 Programming Course,£10,1 hour    ,Edplx,3
-Python Programming,£119,10 hours  ,eTrain,4
-PLC Programming Diploma,£32,24 hours  ,StudyHub,4
-Programming Language Training Bundle,£99,          ,EduCBA,3
-Python: Python Programming,£15,16 hours  ,Janets,4
-Python Programming for Beginners Certification Training,£10,30.8 hours,Uplatz,5
-Computer Programming Diploma,£10,6 hours   ,Academy for Health & Fitness,4
-R Programming Basics,£10,2.2 hours ,T.Hema,5
-C# Basics for Beginners: Introduction to Programming with C#,£10,1.8 hours ,Victor Gorinov,0
-Python Programming - Comprehensive Training,£71,29 hours  ,Ed-Next (Consult +),0
-C# Programming Crash Course,£10,9.7 hours ,Stone River eLearning,2
-SQL- The Complete Introduction to SQL programming,£12,3.4 hours ,Yassin Marco,1
-SQL : SQL Programming,£10,625 hours ,Janets,0
-Advanced C++ Programming,£499,3 hours   ,Guardian Academy,0
-Advanced SAS programming ,£449,4 hours   ,Amaar School,5
-VR Programming Tutorial ,£550,2 hours   ,Amaar School,5
-Dart Masterclass Programming Course,£499,4 hours   ,Guardian Academy,5
-Neuro-Linguistic Programming,£35,10 hours  ,Ed-Next (Consult +),3
-Python Programming for Beginners,£250,10 hours ·,London Academy of IT,1
-Functional Programming In JavaScript,£29,          ,Skill Success,2
-Java AWT Programming,£499,2 hours   ,Guardian Academy,4
-Java Programming Language,£499,4 hours   ,Guardian Academy,5
-Embedded Systems and MATLAB Programming Certification Training,£10,28.2 hours,Uplatz,1
-Computer Science and Programming,£18,325 hours ,Janets,5
+HTML5 Programming Course,£10,1 hour    ,Edplx,1
+Python Programming,£119,10 hours  ,eTrain,5
+PLC Programming Diploma,£32,24 hours  ,StudyHub,1
+Programming Language Training Bundle,£99,          ,EduCBA,1
+Python: Python Programming,£15,16 hours  ,Janets,3
+Python Programming for Beginners Certification Training,£10,30.8 hours,Uplatz,4
+Computer Programming Diploma,£10,6 hours   ,Academy for Health & Fitness,0
+R Programming Basics,£10,2.2 hours ,T.Hema,3
+C# Basics for Beginners: Introduction to Programming with C#,£10,1.8 hours ,Victor Gorinov,2
+Python Programming - Comprehensive Training,£71,29 hours  ,Ed-Next (Consult +),3
+C# Programming Crash Course,£10,9.7 hours ,Stone River eLearning,4
+SQL- The Complete Introduction to SQL programming,£12,3.4 hours ,Yassin Marco,5
+SQL : SQL Programming,£10,625 hours ,Janets,4
+Advanced C++ Programming,£499,3 hours   ,Guardian Academy,2
+Advanced SAS programming ,£449,4 hours   ,Amaar School,2
+VR Programming Tutorial ,£550,2 hours   ,Amaar School,1
+Dart Masterclass Programming Course,£499,4 hours   ,Guardian Academy,3
+Python Programming for Beginners,£250,10 hours ·,London Academy of IT,2
+Neuro-Linguistic Programming,£35,10 hours  ,Ed-Next (Consult +),2
+Functional Programming In JavaScript,£29,          ,Skill Success,1
+Java AWT Programming,£499,2 hours   ,Guardian Academy,3
+Java Programming Language,£499,4 hours   ,Guardian Academy,0
+Embedded Systems and MATLAB Programming Certification Training,£10,28.2 hours,Uplatz,2
+Computer Science and Programming,£18,325 hours ,Janets,2
 R Programming Comprehensive Training Course,£369,22 hours  ,EduCBA,4
-C++ Programming Online Course,£99,          ,EduCBA,1
-Python Programming for Beginners  ,£39,4 hours   ,Study365,0
-Statistics - Programming in R,£600 - £833,2 days · F,Royal Statistical Society,1
-Haskell Programming online Training Course,£149,7 hours   ,EduCBA,4
-Ruby Programming Fundamentals  ,£37,6 hours   ,Study365,0
-Python Programming - Comprehensive Training,£99,          ,EduCBA,0
-Python Programming Online Courses,£99,          ,EduCBA,5
-Programming for Data Science,"£1,150",3 months  ,Udacity,2
+C++ Programming Online Course,£99,          ,EduCBA,0
+Python Programming for Beginners  ,£39,4 hours   ,Study365,5
+Statistics - Programming in R,£600 - £833,2 days · F,Royal Statistical Society,3
+Haskell Programming online Training Course,£149,7 hours   ,EduCBA,2
+Ruby Programming Fundamentals  ,£37,6 hours   ,Study365,5
+Python Programming - Comprehensive Training,£99,          ,EduCBA,3
+Python Programming Online Courses,£99,          ,EduCBA,1
+Programming for Data Science,"£1,150",3 months  ,Udacity,1
 IT: C Programming For Beginners,£49.99,8.7 hours ,Dark Neon,3
- Introduction To Ruby Programming,£29,          ,Skill Success,5
-AutoCAD VBA Programming,£10,4 hours   ,Janets,4
+ Introduction To Ruby Programming,£29,          ,Skill Success,1
+AutoCAD VBA Programming,£10,4 hours   ,Janets,1
 C Programming Online Course,£99,          ,EduCBA,1
-Python Programming for Beginners,£27.95,2 hours   ,e-courses4you,2
-SQL Programming with MySQL Database Certification Training,£10,8 hours   ,Uplatz,3
-SQL : SQL Programming,£119,697 hours ,Janets,5
-C Programming 101,£25,21 hours  ,Ed-Next (Consult +),3
+Python Programming for Beginners,£27.95,2 hours   ,e-courses4you,3
+SQL Programming with MySQL Database Certification Training,£10,8 hours   ,Uplatz,0
+SQL : SQL Programming,£119,697 hours ,Janets,0
+C Programming 101,£25,21 hours  ,Ed-Next (Consult +),0
 Python Programming for Beginners,£299,4 hours   ,Stone River eLearning,2
-Java Programming Fundamentals,£37,5 hours   ,Study365,1
-Haskell Programming Online Training,£99,7 hours   ,EduCBA,5
+Java Programming Fundamentals,£37,5 hours   ,Study365,4
+Haskell Programming Online Training,£99,7 hours   ,EduCBA,0
 Introduction to Programming Nanodegree,"£1,192",4 months  ,Udacity,0
-Computer Programming Diploma,£19,7 hours   ,One Education,3
+Computer Programming Diploma,£19,7 hours   ,One Education,4
 Advanced Python Programming with NumPy Certification Training,£10,24.5 hours,Uplatz,5
 AutoCAD VBA Programming,£10,4 hours   ,One Education,2
-Online Courses To Learn Go programming Language- Golang Programming,£99,          ,EduCBA,3
-Statistics - Programming with SAS,£10,12 hours  ,One Education,0
-Java programming online training course,£149,1 hour    ,Online Courses Learning,4
-Ruby Programming For Everyone,£29,          ,Skill Success,2
-Python 3 Programming,£10,17 hours  ,One Education,1
-Python Programming for Beginners,£99,3 hours   ,eTrain,2
-Bundle Course - Programming Languages,£15,250 hours ,Uplatz,1
-C++ Programming for Beginners,£10,3 hours   ,Course Cloud,3
-Scratch Programming - Basic to Expert,£20,7.2 hours ,Abdullah Shabbir,0
+Online Courses To Learn Go programming Language- Golang Programming,£99,          ,EduCBA,5
+Statistics - Programming with SAS,£10,12 hours  ,One Education,3
+Python 3 Programming,£10,17 hours  ,One Education,2
+Java programming online training course,£149,1 hour    ,Online Courses Learning,2
+Ruby Programming For Everyone,£29,          ,Skill Success,3
+Python Programming for Beginners,£99,3 hours   ,eTrain,4
+Bundle Course - Programming Languages,£15,250 hours ,Uplatz,4
+C++ Programming for Beginners,£10,3 hours   ,Course Cloud,4
+Scratch Programming - Basic to Expert,£20,7.2 hours ,Abdullah Shabbir,2
 Java Programming Fundamentals Certification Training,£10,22.9 hours,Uplatz,4
-Python : Python Programming,£10,6 hours   ,Course Cloud,1
+Python : Python Programming,£10,6 hours   ,Course Cloud,0
+Branding y Estrategia de Marca,US$ 3.90 ,1hr 39mins,Mariana Ripoll - Gerente de Marketing - Ripley Perú,4.7
+Adobe Photoshop - Básico,US$ 3.90 ,5hrs 54min,Luis Alarcon - Experto Diseño Gráfico,4.7
+Amar lo que haces,US$ 12.90,2hrs 37min,"Wendy Ramos - Conferencista, actriz, clown, comunicadora",4.9
+Gestión del Tiempo y Productividad,US$ 3.90 ,1hr 38mins,Javier Benitez - CEO,4.8
+Estrategias de crecimiento en Instagram para tu marca,US$ 23.90,1hr 12mins,"Carolina García - Consultora de Marketing Digital, Experta en negocios digitales",5.0
+Entrevistas por competencias,US$ 23.90, 58mins4.5,Jorge Cerna - Experto en reclutamiento,4.5
+Atracción y selección por medios digitales,US$ 23.90,1hr 21mins,GROWTOP  - Diego Chavez y Bryan Ascaño - Socios y Co-Founders,5.0
+El poder de la Resiliencia,US$ 23.90,1hr 11mins,Mayra Casas - Coach Ontológico Profesional,4.5
+Canales y plataformas para tu primer e-commerce,US$ 23.90,2hrs 14min,Vanessa Chávez - Experta en marketing digital,5.0
+Soy analítico y desarrollo el pensamiento crítico,US$ 23.90,1hr 21mins,Diego Andrade - Coach y Consultor en Recursos Humanos,5.0
+Como operar y ganar en el mercado de divisas Forex y Criptos,US$ 9.90 ,3hrs 23min,Gianfranco Binda - Gerente general de operaciones,5.0
+Detección de necesidades de capacitación,US$ 9.90 ,1hr 39mins,Paula Franco - Co-fundadora,4.5
+"Análisis, descripción y valoración de puestos",US$ 9.90 ,1hr 07mins,Daniel Ortiz - Area Compensation Manager,4.5
+Introducción al Deep Learning,US$ 23.90,1hr 29mins,Nephtalí Garrido - Consultor de Ciencia de Datos e Inteligencia Artificial,5.0
+Introducción a las técnicas de presupuesto,US$ 9.90 ,2hrs 31min,Iván Araya - Profesor de Finanzas,5.0
+Marketing Funnel y la importancia del video,US$ 9.90 ,1hr 02mins,Ursula Rodriguez - Magíster en Gestión Comercial,5.0
+Cómo dirigir un equipo con éxito,US$ 9.90 ,1hr 37mins,Francisco Galdos - Gerente General,4.5
+Analítica relacional,US$ 3.90 ,1hr 07mins,Alejandro Sotomayor - Director Ejecutivo y Co-Fundador,5.0
+KPI's en la venta online,US$ 3.90 ,1hr 10mins,Carlo Rodriguez - CEO y VP Regional de Transformación Digital,4.5
+¿Qué medir en mi e-commerce con Google Analytics?,US$ 3.90 ,1hr 14mins,Julio J. López - Digital Marketing Planning E-commerce,5.0
+El líder y la tecnología,US$ 3.90 ,1hr 13mins,Diego Andrade - Coach y Consultor en Recursos Humanos,4.5
+Los primeros pasos de eCommerce para mi negocio,US$ 3.90 ,1hr 08mins,Fanny Lozano - Ecommerce Lead,5.0
+Crea tu sitio web fácilmente con Wordpress,US$ 3.90 ,2hrs 45min,Phillipe Calmet - Desarrollador Web,5.0
+Innovación: ¿Cómo impulsarla en los equipos de trabajo?,US$ 3.90 ,1hr 26mins,"Rebeca Smursz - Especialista en Psicología Positiva, coach y mentora",4.5
+Cómo armar una tienda en Shopify desde cero,US$ 3.90 ,4hrs 34min,Marco Barreto - Shopify Partner en Latinoamérica y Empresario,5.0
+Introducción a Python para ciencia de datos,US$ 3.90 ,1hr 47mins,Tanya Ramirez - Científica de datos,4.5
+Introducción a la gestión de riesgos de crédito,US$ 3.90 ,1hr 15mins,Mauricio Hilbck - Consultor en servicios financieros,5.0
+Comunicación altamente efectiva para vender,US$ 3.90 ,2hrs 10min,Daniel Iriarte - Director General,5.0
+Introducción a la gestión de riesgo de mercado,US$ 3.90 ,1hr 06mins,Mauricio Hilbck - Consultor en servicios financieros,5.0
+Estrategias de Marketing Digital en el ecommerce,US$ 3.90 ,1hr 17mins,Sebastián Moglia - Managing Director y Partner en Shake Again,5.0
+Inteligencia emocional: Conectando con mi ser,US$ 3.90 ,1hr 13mins,Carmín Briceño - CEO-Founder,4.5
+Personalidad creativa,US$ 3.90 ,1hr 13mins,"Gabriel Rodríguez - Comunicador, diseñador y docente",5.0
+Transformar y exponer el talento,US$ 3.90 ,1hr 20mins,Salvador Ortega - Director de Recursos Humanos,5.0
+Transformación digital y social media aplicado a las marcas,US$ 3.90 ,1hr 37mins,Engel Fonseca - CEO,4.8
+El mercado financiero y la gestión de riesgos,US$ 3.90 ,1hr 12mins,Mauricio Hilbck - Consultor en servicios financieros,4.7
+Evaluación de proyectos de inversión,US$ 3.90 ,1hr 12mins,Angelo Toledo - Jefe de Control de Gestión,4.5
+Facebook Ads: Cómo crear una estrategia de retargeting,US$ 3.90 ,1hr 39mins,Gabriela Benítez - Especialista en Marketing Digital,4.5
+Storytelling para People Analytics,US$ 3.90 ,1hr 28mins,Natanael Ochoa - Especialista en Comunicación Organizacional,4.5
+Desarrollo de talento: La clave para retener y comprometer,US$ 3.90 ,1hr 57mins,Salvador Ortega - Director de Recursos Humanos,5.0
+Prospección en un entorno digital,US$ 3.90 ,2hrs 05min,Daniel Iriarte - Director General,5.0
+Business Manager de Facebook,US$ 3.90 ,1hr 42mins,Diego Lara - Planificador de medios digitales,4.6
+Plan de marketing digital desde cero,US$ 3.90 ,1hr 34mins,José Alberto López Aguilar - Especialista en branding y marketing estratégico,4.6
+Packaging: Conceptos básicos,US$ 3.90 ,1hr 29mins,"Claudia Torres Duncker - Asesora Gráfica Estratégica, Fundadora de Frida Kipp y Docente Universitaria",4.5
+Negociación de impacto,US$ 11.90,2hrs 20min,Daniel Iriarte - Director General,5.0
+Organizaciones ágiles con SAFe,US$ 3.90 ,1hr 02mins,Oscar Contreras - Technical Program Manager,4.5
+TikTok para emprendedores,US$ 3.90 , 53mins4.5,Tatiana Rengifo - Planeamiento Estratégico Digital,4.5
+EndoBTL,US$ 3.90 , 52mins4.8,Julio Chirinos - GeFe (Gestor de Felicidad),4.8
+App Marketing: El panorama de la publicidad móvil,Obtener gratisOb,1hr 41mins,Gabriela Benítez - Especialista en Marketing Digital,4.5
+Power Query y Power Pivot,US$ 3.90 ,3hrs 21min,Sergio Bazo - Consultor e Instructor,4.5
+People Analytics para disminuir la rotación,US$ 3.90 ,1hr 54mins,Federico Barcos von der Heide - Founder & CEO,5.0
+Data Science desde la perspectiva People Analytics,US$ 3.90 ,1hr 29mins,Dante Tellez - Head Data & Analytics,5.0
+Matemática financiera básica,US$ 3.90 ,5hrs 10min,David Exebio - Contador Público con Especialización en temas financieros,5.0
+Potencia tu sitio web con SEO,US$ 3.90 ,1hr 08mins,Roberto Argandoña - Consultor y Docente de Marketing Digital,4.5
+Introducción a Google Ads: Tu primera campaña,US$ 3.90 ,1hr 34mins,Julián Aguilar - Consultor de Publicidad Digital,4.5
+Cybersecurity Ethical Hacker Fundamentals,US$ 3.90 ,1hr 10mins,Luis Fernando Estrada - Head of Network Security,5.0
+People Analytics para optimizar la gestión del desempeño,US$ 3.90 ,1hr 52mins,Federico Barcos von der Heide - Founder & CEO,5.0
+Transformación cultural,US$ 3.90 ,1hr 17mins,Mariella Hague - CEO – Founder,4.7
+Diseño de servicios e ideación co-creativa,US$ 3.90 ,1hr 27mins,Priscila Williams - Head de Diseño de Servicios en una entidad Financiera,5.0
+Marketing de Reputación,US$ 3.90 ,2hrs 37min,Milton Vela - Director,5.0
+Rebranding: Una herramienta de cambio,US$ 3.90 ,1hr 03mins,Daniel Alvarez Noriega - Experto en Marketing y Negocios,5.0
+Técnicas creativas para solucionar problemas,US$ 3.90 ,1hr 25mins,"Gabriel Rodríguez - Comunicador, diseñador y docente",4.5
+Métricas aplicadas a la Gestión del Talento,US$ 3.90 ,1hr 20mins,Laura Lozano - Especialista en Dirección del Capital Humano,4.7
+Publicidad Digital,US$ 3.90 ,4hrs 53min,Beatriz Calzada - Experta en Marketing Digital,4.5
+Zero Trust,US$ 3.90 ,1hr 12mins,Nicolas Reyes - Consultor,5.0
+Los videojuegos como trabajo,US$ 3.90 ,1hr 55mins,"Juan Pablo Robles - Académico experto en educación, periodismo y videojuegos",5.0
+Gestiona tu imagen personal y profesional,US$ 3.90 ,1hr 26mins,Ingrid Moscoso - Asesora de Imagen & Personal Shopper Profesional,5.0
+Fotografía para proyectos artísticos y documentales,US$ 3.90 ,1hr 41mins,Tom Griggs - Docente de Fotografía,5.0
+Financiamiento inmobiliario,US$ 3.90 ,2hrs 09min,Ayme Urbina - Gerente de Finanzas,4.6
+Crea estrategias de contenido ganadoras,US$ 3.90 ,3hrs 02min,Iván Fanego - Fundador,4.8
+Salario Emocional,US$ 3.90 ,1hr 22mins,Karla García - CEO & Founder,4.6
+El rol del Talent Management,US$ 3.90 ,2hrs 13min,Karla García - CEO & Founder,5.0
+El posicionamiento como identidad de un negocio,US$ 3.90 ,2hrs 28min,Victor Salazar - Gerente de Negocios en Sodimac,5.0
+Transformación cultural con prácticas de Management 3.0,US$ 3.90 ,3hrs 04min,Erick Masgo - Gerente de Gestión Humana,5.0
+Utiliza OKRs y haz que tu equipo logre sus metas,US$ 3.90 ,1hr 34mins,Paulina Rangel - Senior Consultant,4.5
+Excel aplicado a la evaluación de proyectos de inversión,US$ 3.90 ,1hr 32mins,Angelo Toledo - Jefe de Control de Gestión,4.5
+Coolhunting,US$ 3.90 ,1hr 08mins,Erick Paulet - Profesor de la Maestría de Marketing en ESAN,5.0
+Los videojuegos como herramienta profesional,US$ 3.90 ,1hr 45mins,"Juan Pablo Robles - Académico experto en educación, periodismo y videojuegos",5.0
+Diseño Editorial desde cero,US$ 3.90 ,1hr 20mins,Raúl Farías - Experto en Diseño Gráfico,5.0
+Evaluación del desempeño laboral en modalidad remota,US$ 3.90 ,1hr 17mins,Karla Casas - Experta en Atracción de Talento,5.0
+Reputación Interna: Fidelizar al colaborador,US$ 3.90 ,1hr 54mins,Grissel Chávez De la Puente - Especialista en Comunicación Interna,4.5
+Inteligencia Comercial: Clave para convertir a ventas,US$ 3.90 , 52mins5.0,José Oropeza - Director Comercial,5.0
+Segmentación de clientes,US$ 3.90 ,2hrs 18min,Mercedes Torres - Gerente de Marketing,5.0
+Instagram para negocios y emprendimientos,US$ 3.90 ,1hr 01min4,Tatiana Rengifo - Planeamiento Estratégico Digital,4.6
+Power BI Intermedio-Avanzado,US$ 3.90 ,1hr 50mins,Sergio Bazo - Consultor e Instructor,4.5
+Introducción al marketing de empresa a empresa (B2B),US$ 3.90 ,1hr 52mins,Rodrigo Cerón - Director de Mercadotecnia,5.0
+Home Office: ¿Una realidad definitiva?,US$ 3.90 ,2hrs 01min,Vanessa Delgado - Fundadora,4.5
+Cybersecurity Fundamentals,US$ 3.90 ,1hr 27mins,Nicolas Reyes - Consultor,5.0
+Gestión de evaluación del desempeño,US$ 3.90 ,1hr 46mins,Giovanni Beltran - Associate Manager,5.0
+Diseña tu futuro exponencial,US$ 17.90,7hrs 4.567,Agustina Paz - Cofundadora,567
+Introducción a las tecnologías exponenciales,US$ 17.90,7hrs 5.064,Agustina Paz - Cofundadora,064
+Introducción al Mindset Exponencial,US$ 17.90,7hrs 4.664,Agustina Paz - Cofundadora,664
+Introducción a Blockchain,US$ 17.90,7hrs 5.065,Carlos Bittrich Ramírez - Asesor en Tecnologías Emergentes,065
+Edge Computing: Acercando la Nube al Usuario,US$ 17.90,7hrs 5.064,Carlos Bittrich Ramírez - Asesor en Tecnologías Emergentes,064
+IOT: Conectando cosas,US$ 17.90,7hrs 5.065,"Hayashi Mateo - Ing. Mecatrónico, especialista en patentes e investigador",065
+Smart Manufacturing,US$ 17.90,7hrs 5.065,Benito Juárez - Presidente,065
+Quantum Computing,US$ 17.90,7hrs 5.065,Natalie Gil - Gerente Corporativa de Arquitectura y estrategia de AUNA,065
+Fabricando mis ideas,US$ 17.90,7hrs 5.064,Henry Sánchez - Creador Educativo,064
+Color Vision,US$ 14.90, 56mins5.0,Yiriane Kahn - Artista plástica,5.0
+Gestión del tiempo: Una herramienta para reducir el estrés,US$ 9.90 ,1hr 03mins,Jorge Monsalve - Fundador y Coach de Productividad,4.7
+Cómo hacer contenido relevante para mi marca,US$ 23.90,7hrs 4.618,Jimena Villavicencio - Comunicadora. Editora General de ContentLab,618
+Desarrollo de productos y campañas digitales,US$ 23.90,7hrs 4.618,José Díaz - Coordinador de Productos Digitales,618
+Fundamentos de la publicidad programática,US$ 23.90,7hrs 4.518,Manuel Olivero - Jefe de Programática & Adserving,518
+Planificación digital desde cero,US$ 23.90,7hrs 4.519,Gian Carlo Valdizán Cassinelli - Director de Canales Digitales,519
+Optimiza el performance de tus campañas digitales,US$ 23.90,7hrs 4.718,Eduardo Zani Tobalina - Account Manager en el área digital,718
+Community Management,US$ 3.90 ,2hrs 20min,Alejandro Salem - Comunicador y experto en redes sociales,4.7
+La estrategia de medios publicitarios,US$ 3.90 ,1hr 47mins,Gabriela Benítez - Especialista en Marketing Digital,5.0
+Administración de Riesgo Financiero,US$ 3.90 ,1hr 18mins,Felipe Acencio - Urgo Medical Lego Success Manager (Global),5.0
+Marca empleadora: Posicionando al talento,US$ 3.90 ,1hr 40mins,Salvador Ortega - Director de Recursos Humanos,4.5
+Ecommerce,US$ 3.90 ,4hrs 13min,Oscar Arévalo - Head of Finance,4.5
+Empieza a Importar de China,US$ 11.90,1hr 20mins,Aldo Girao Kosaka - General Manager,4.5
+Las Emociones: ¿Qué nos limita?,US$ 3.90 ,2hrs 39min,Katherine Solangel Diaz Uriarte - Psicóloga,4.7
+Clima Laboral y Diversidad Generacional,US$ 3.90 , 56mins4.7,GROWTOP  - Diego Chavez y Bryan Ascaño - Socios y Co-Founders,4.7
+Elaboración de Estados Financieros,US$ 3.90 ,3hrs 39min,Javier Alonso Aguirre Diaz - Assurance Manager,4.8
+Liderazgo Holístico,US$ 3.90 ,1hr 10mins,Oscar Corcuera - Coach,4.5
+El entorno del Retail Management,US$ 3.90 ,1hr 53mins,Victor Hugo Sotelo - Asesor de Tiendas,5.0
+Cómo crear y administrar un ecosistema digital,US$ 3.90 ,1hr 13mins,Javier Sandoval - UX Content Lead,4.8
+La estrategia y el diseño sostenible de un negocio,US$ 3.90 ,2hrs 45min,Victor Salazar - Gerente de Negocios en Sodimac,5.0
+Retail Management:Misiones de compra y formatos de retailers,US$ 3.90 ,1hr 52mins,Victor Hugo Sotelo - Asesor de Tiendas,5.0
+CSS Intermedio,US$ 3.90 ,4hrs 03min,Daniel Salamanca - Profesor Asociado de Diseño Interactivo,5.0
+Fashion Management,US$ 20.90,7hrs 5.010,Cecilia Adrianzen - Facilitadora en innovación y emprendimiento,010
+CSS Básico,US$ 3.90 ,3hrs 38min,Daniel Salamanca - Profesor Asociado de Diseño Interactivo,5.0
+Estilismo de moda: De la fantasía a la realidad,US$ 20.90,7hrs 4.510,"Pepe Torrejón - Diseñador de indumentaria, fashion stylist y analista de tendencias",510
+Introducción al diseño de moda,US$ 20.90,7hrs 5.010,Giancarlo Vassallo - Diseñador de modas,010
+Colaboración en el trabajo remoto,US$ 3.90 ,1hr 58mins,Alejandro López Flores - Co Fundador,4.7
+Ilustración de moda,US$ 20.90,7hrs 5.010,Reycel Tintaya - Artista plástico,010
+Liderar el cambio,US$ 3.90 ,2hrs 03min,Christian Ketterer - Facilitador Harvard Business School Publishing,5.0
+La Polisemia del Marketing y sus Implicaciones,US$ 3.90 ,1hr 15mins,Miguel Torres - Director de la Licenciatura en Mercadotecnia y Publicidad,4.8
+Gestión de inventarios,Obtener gratisOb,2hrs 28min,Luis Fernando González Espinoza - Especialista de Gestión de Inventarios y Cadena de Suministro,4.5
+Papercraft: El arte en papel,US$ 20.90,7hrs 5.095,Rubén Gamarra Becerra - Diseñador Gráfico en Publicidad y de Moda,095
+Tendencias de moda,US$ 20.90,7hrs 5.097,"Pepe Torrejón - Diseñador de indumentaria, fashion stylist y analista de tendencias",097
+Fundamentos del EndoMarketing,Obtener gratisOb,1hr 33mins,Julio Chirinos - GeFe (Gestor de Felicidad),4.6
+Cómo ser más empático,US$ 3.90 ,1hr 50mins,"Mónica Madueño - Comunicadora, actriz e improvisadora",4.8
+EndoBranding,US$ 3.90 ,1hr 06mins,Julio Chirinos - GeFe (Gestor de Felicidad),4.5
+PNL: La relación con los demás,US$ 3.90 , 58mins4.5,Marco Antonio Pareja Sánchez - Coach en PNL - Docente,4.5
+Cómo mantener la lealtad de tus clientes,US$ 3.90 ,2hrs 46min,Salvador Diaz de la Cerda - Asesor de Empresas,5.0
+Change Management,US$ 3.90 ,2hrs 02min,"Roberto Mogollón - Gerente de Insights, Analytics & Estrategia de Precios",5.0
+Gestión de tesorería,US$ 3.90 ,1hr 59mins,Ismael Valencia Bustamante - Jefe de Transacciones Financieras,4.8
+Cambiando el mundo a través de la inclusión,US$ 3.90 , 50mins5.0,Marcela Lovat - Human Capital Business Partner,5.0
+Fotografía para tu emprendimiento,US$ 9.90 ,1hr 07mins,Valeria Chavez - Fotógrafa profesional en Valeria + Joshua,4.6
+Gestión de marca para emprendimientos nuevos y no tan nuevos,US$ 3.90 , 44mins4.6,José Oropeza - Director Comercial,4.6
+PNL para principiantes,US$ 3.90 ,1hr 24mins,Marco Antonio Pareja Sánchez - Coach en PNL - Docente,4.8
+People Analytics: ¿Cómo convertir los datos en insights?,US$ 3.90 ,4hrs 02min,Federico Barcos von der Heide - Founder & CEO,4.7
+Big Data Fundamentals,US$ 3.90 ,1hr 49mins,Jumled León - Big Data Architect Senior,4.7
+Fotografía con smartphone,US$ 9.90 ,1hr 10mins,Valeria Chavez - Fotógrafa profesional en Valeria + Joshua,4.6
+Business Analytics en Big Data,US$ 3.90 ,1hr 38mins,Jumled León - Big Data Architect Senior,4.6
+Content Marketing,Obtener gratisOb,2hrs 15min,Pedro Tucto - Director de Social Media,4.5
+Conectar para crecer,US$ 3.90 ,1hr 26mins,Jahir Lopez - Gerente Corporativo de Atracción de Talento,4.7
+Habilidades blandas para perfiles IT,US$ 3.90 ,2hrs 03min,Astrid Neustadtl - Career Success Manager,4.9
+Cómo importar productos y vender a través de marketplaces,US$ 3.90 , 44mins4.5,Erick Paulet - Profesor de la Maestría de Marketing en ESAN,4.5
+Arquitectura Empresarial,US$ 3.90 , 25mins4.5,"Bruno Botteri - Gerente Senior de Finanzas Corporativas, Estrategia & Innovación",4.5
+Datos en RR.HH: Storytelling y visualización,US$ 3.90 ,2hrs 51min,Sergio Garcia Mora - Subject Matter Expert de People Analytics,4.8
+Tendencias y tecnologías disruptivas,Obtener gratisOb,1hr 32mins,Jumled León - Big Data Architect Senior,4.6
+Técnicas creativas para innovación,US$ 3.90 ,1hr 54mins,Jhon Cano Silva - Fundador de la Consultora RPM y Disrupt People,4.8
+Innovación de negocios,US$ 3.90 ,1hr 13mins,Jhon Cano Silva - Fundador de la Consultora RPM y Disrupt People,4.5
+Investigación de mercados para emprendedores,US$ 3.90 ,1hr 07mins,José Oropeza - Director Comercial,4.5
+Marketing con poco presupuesto,US$ 3.90 ,2hrs 03min,Mercedes Torres - Gerente de Marketing,4.5
+Inbound Marketing para el E-Commerce,Obtener gratisOb,2hrs 18min,Giuliana Bruno - Directora de Marketing y Clientes,4.5
+Feedback Power: Conversaciones que inspiran,US$ 3.90 ,1hr 57mins,Jorge Urrutia Carbajal - Especialista en Gestión del Talento,4.7
+¿Cómo lograr una validación del producto en el mercado?,US$ 9.90 ,1hr 17mins,Daniel Bonifaz - Cofundador y CEO,5.0
+Microhabilidades para liderar equipos,Obtener gratisOb, 56mins4.8,Giancarlo Saettone - Psicólogo Organizacional,4.8
+Workforce Analytics en RR.HH.,US$ 3.90 ,2hrs 54min,Sebastian Marquez - HRBP Manager,4.5
+Los 3 pasos para la autosostenibilidad,Obtener gratisOb,3hrs 26min,Christian Briceño Weiss - Co-Fundador,4.5
+Principios de un acercamiento comercial,US$ 3.90 , 47mins4.5,Henry Sanchez - Partnership Manager,4.5
+Publicidad en Facebook,US$ 9.90 ,1hr 05mins,Francisco Landa - Creador de contenido y Emprendedor,4.5
+Influencer Marketing,US$ 9.90 ,1hr 06mins,Francisco Landa - Creador de contenido y Emprendedor,4.6
+¿Cómo emprender un negocio con ayuda de las redes sociales?,US$ 9.90 ,1hr 13mins,Francisco Landa - Creador de contenido y Emprendedor,4.8
+¿Cómo escalar tu negocio?,US$ 9.90 ,1hr 22mins,Daniel Bonifaz - Cofundador y CEO,4.8
+Gamificación: El aprendizaje a través del juego,US$ 3.90 ,2hrs 36min,Javier Saladino - Licenciado en Psicología y Coach Profesional,4.5
+Introducción a HTML,US$ 3.90 ,4hrs 18min,Daniel Salamanca - Profesor Asociado de Diseño Interactivo,4.8
+Cultura ágil en entornos remotos,US$ 3.90 ,1hr 32mins,Jerry Lynch - CEO en Agencia Watson y Fundador de PURPLE People,5.0
+Tendencias en RR.HH: de la Tradición a la Innovación,US$ 3.90 , 48mins4.7,Mariella Hague - CEO – Founder,4.7
+Materializa una idea de negocio a través del Lean Canvas,US$ 9.90 ,1hr 37mins,Daniel Bonifaz - Cofundador y CEO,4.9
+El rol de Gestión Humana en la transformación digital,US$ 3.90 ,1hr 47mins,Rodolfo Rodas - Jefe de procesos y proyectos de Gestión Humana,4.8
+Encuentra tu genio: Creatividad en eventos,US$ 12.90,1hr 35mins,Arturo de Noriega - CEO/Fundador,4.8
+Reuniones Efectivas,US$ 3.90 ,1hr 07mins,Giancarlo Saettone - Psicólogo Organizacional,4.6
+Coaching para el liderazgo y trabajo en equipo,US$ 3.90 ,2hrs 48min,Javier Saladino - Licenciado en Psicología y Coach Profesional,4.6
+Retrato para Redes Sociales,US$ 3.90 , 44mins4.5,Edinson Guerreros - Director de fotografía,4.5
+Digital Audio Marketing,US$ 3.90 ,2hrs 18min,Javier Barraza - Profesional en Marketing y Medios Publicitarios Digitales,4.6
+Finanzas personales: Plan de vuelo para soñadores,US$ 3.90 ,1hr 42mins,Adriana Flesher - Coach y mentora de bienestar financiero,4.6
+HR Agile en la transformación interna,Obtener gratisOb,1hr 33mins,Sofía Badino - Transformation & Change Engagement Leader,4.5
+Mejora el rendimiento del reclutamiento IT en tu empresa,US$ 3.90 ,1hr 01min4,Alan Gosiker - CEO y Co-Fundador,4.5
+"Microsoft Power Point, de principiante a experto 2020",US$ 3.90 ,4hrs 34min,Sergio Bazo - Consultor e Instructor,4.7
+Marketing Verde,US$ 3.90 ,2hrs 4.517,Flavia Posada - Licenciada en Marketing,517
+Liderando equipos en modo home office,US$ 3.90 , 24mins4.6,Victoria Florez - Chapter Chair Women Presidents’ Organization y Directora General,4.6
+Kit de Redacción Creativa y Copywriting,US$ 3.90 , 49mins4.6,Nathaly Bosch - Especialista en redacción creativa y marketing de contenidos,4.6
+Gestión estratégica y transformación del Fútbol,US$ 3.90 ,3hrs 06min,"Pablo Vega Buccicardi - Gerente General CIVE y Carlos José Benavides, Gerente General Club Bolívar",5.0
+¡Mujeres convirtiendo ideas en negocio!,US$ 14.90,2hrs 39min,PEPPERMINT  - Mirian Lau: Co-Founder & CEO y Maria Camino: Co-Founder & DT Specialist,4.7
+Reclutamiento y selección de perfiles IT para freelancers,US$ 3.90 ,1hr 04mins,Alan Gosiker - CEO y Co-Fundador,5.0
+Visual Merchandising: Experiencia en el PDV,US$ 3.90 ,1hr 39mins,Alfredo Yong - Director Retail Asociación Peruana de Visual Merchandising VIME,4.8
+"Escribir bien, no correctamente",US$ 9.90 , 53mins4.7,Cristina Garcia Calderón - Coordinadora de Expresión Escrita,4.7
+Cómo realizar promociones de impacto,US$ 3.90 ,1hr 37mins,Mercedes Torres - Gerente de Marketing,4.5
+Realización Publicitaria,US$ 3.90 ,2hrs 12min,Cecilia De Souza Ferreira - Directora de Producción y Directora de Cuentas,5.0
+Quién es quién en tecnología: Definición de perfiles IT,US$ 3.90 , 55mins4.8,Alan Gosiker - CEO y Co-Fundador,4.8
+Rendimiento y productividad en gestión humana,US$ 3.90 ,1hr 01min4,GROWTOP  - Diego Chavez y Bryan Ascaño - Socios y Co-Founders,4.5
+Diseño de indicadores para gestión de organizaciones (KPIs),US$ 3.90 ,1hr 01min4,Michell Solari - Director de Desarrollo de Proyectos,4.5
+Dirección de cuentas,US$ 3.90 ,1hr 56mins,Cecilia De Souza Ferreira - Directora de Producción y Directora de Cuentas,4.7
+Experiencia del candidato: Los 7 componentes claves,US$ 3.90 ,1hr 35mins,Maria Fernanda Carreras - Recruiting Team Leader Regional,5.0
+Técnicas y estrategias para reclutar perfiles IT,US$ 3.90 , 45mins4.5,Alan Gosiker - CEO y Co-Fundador,4.5
+Planning creativo e innovación digital,US$ 3.90 ,2hrs 10min,Alessandra Tipiani - Publicista especializada en Marketing Digital,4.7
+Mi primera Importación,US$ 3.90 ,1hr 16mins,Juan Carlo Muñoz - Gerente General y Docente universitario,4.5
+Generando Aprendizaje Ágil,US$ 3.90 , 55mins4.7,Milagros Agurto - Asesora de Talento- Agile Consultant,4.7
+Comunicación interna como base de la cultura corporativa,US$ 3.90 ,1hr 04mins,Tomás Moreno - Especialista en RR.HH,4.5
+Scrum de la teoría a la práctica,US$ 3.90 ,1hr 53mins,Ana Gabriela Granados - Agile Coach en Mibanco,4.5
+¿Cómo crear un proceso de onboarding exitoso?,US$ 3.90 , 52mins4.5,Tomás Moreno - Especialista en RR.HH,4.5
+Financiamiento de un emprendimiento,US$ 3.90 ,1hr 58mins,Ayme Urbina - Gerente de Finanzas,4.5
+Consigue trabajo remoto como desarrollador web,US$ 3.90 ,2hrs 02min,Astrid Neustadtl - Career Success Manager,5.0
+Gestión de Front Office para hotelería,US$ 3.90 ,1hr 31mins,Gonzalo Chue - Gerente de operaciones,4.5
+El ABC de la Responsabilidad Social,US$ 3.90 , 57mins4.8,Julio Pino - Especialista en Responsabilidad Social .,4.8
+Gestión de áreas operativas en hotelería,US$ 3.90 ,1hr 31mins,Gonzalo Chue - Gerente de operaciones,4.5
+Reclutamiento y Selección Paso a Paso,US$ 3.90 ,1hr 01min4,Alvaro Goyenechea - Gerente General en HRB,4.7
+Introducción a la locución,US$ 3.90 ,1hr 59mins,Micky  Bane - Socio co-fundador y vocal coach de Torre A Doblaje,4.7
+Producción audiovisual,US$ 3.90 ,2hrs 58min,Cecilia De Souza Ferreira - Directora de Producción y Directora de Cuentas,4.7
+Aprendizaje Organizacional : De la teoría a la práctica,US$ 3.90 ,1hr 42mins,Alain Lira Morales - CEO & Co- founder de Heroes Talks,4.5
+Aprende a poner en práctica la agilidad en tus proyectos,US$ 3.90 ,1hr 36mins,Lochy Adrianzén - Gerente de Transformación Digital,4.6
+Organizaciones de primera generación,US$ 3.90 ,1hr 10mins,Michell Solari - Director de Desarrollo de Proyectos,4.5
+Ventas consultivas entre empresas,US$ 3.90 ,1hr 35mins,Germán Eguiguren - Profesor de Desarrollo de Proyectos Internacionales,4.6
+Cómo entender lo que leo,US$ 3.90 ,1hr 17mins,"Rafael Robles Olivos - Periodista, Docente e Investigador Científico",4.5
+Marketing emocional: el lado humano de las marcas,US$ 3.90 ,1hr 26mins,Flavia Posada - Licenciada en Marketing,5.0
+Comunicaciones Integradas para el Marketing,US$ 3.90 ,1hr 40mins,Flavia Posada - Licenciada en Marketing,4.5
+Gestión de Alimentos y Bebidas para hotelería,US$ 3.90 ,1hr 39mins,Gonzalo Chue - Gerente de operaciones,4.7
+Hacer una tesis sin enloquecer en el intento,US$ 3.90 ,1hr 51mins,"Rafael Robles Olivos - Periodista, Docente e Investigador Científico",4.9
+Flexibilidad en Nuevos Entornos,US$ 3.90 , 45mins4.6,Sussy De Los Rios Botteri - Líder de Talento Humano,4.6
+Técnicas de venta con enfoque digital,US$ 3.90 ,1hr 44mins,Dan Patiño - Co-CEO de Digifianz y Head of Growth,4.5
+Cómo mejorar mi habilidad negociadora,US$ 3.90 ,1hr 01min4,María Rosa Morán - Consultora Internacional y profesora universitaria,4.7
+Microsoft Word de principiante a experto 2020,US$ 3.90 ,4hrs 03min,Sergio Bazo - Consultor e Instructor,4.8
+Estrategias de marca y negocios Post-Pandemia,US$ 3.90 ,2hrs 18min,Ximena Vega - Fundadora y CEO de Claridad Coaching Estratégico.,4.8
+Redes sociales para emprendedores,US$ 3.90 , 45mins4.5,Maria Teresa Valencia - Máster en Dirección de Comunicación y Publicidad,4.5
+La diversidad como ventaja competitiva,US$ 3.90 , 45mins4.8,Marcela Lovat - Human Capital Business Partner,4.8
+Elevator Pitch : Destaca con tu video CV,US$ 3.90 , 54mins4.8,Gissella Miuccio - People Director,4.8
+"No más drama, aprende a vivir en calma.",US$ 3.90 ,1hr 06mins,Lorena Salmón - Escritora y Editora de Que seas muy feliz.,4.6
+Gestión del comportamiento para líderes de equipo,US$ 3.90 ,2hrs 09min,Miguel Figueroa - Director de La Neurona Reina,4.9
+Estrategias de comunicación en el equipo de trabajo,US$ 3.90 , 45mins4.5,Natalia Tafur - Psicóloga y Coach Ontológico,4.5
+Neuromarketing aplicado a los negocios,US$ 3.90 , 39mins4.6,Karin Miljanovich - Consultora de marketing para negocios digitales y docente,4.6
+Reinvéntate con un Modelo de Negocio Personal,US$ 3.90 ,1hr 36mins,Gonzalo Raffo - Docente y comunicador,4.6
+Presupuesto personal para el éxito,US$ 3.90 , 48mins4.7,Arantxa Layseca - Blogger de Finanzas Personales,4.7
+Gestión de la experiencia del candidato,US$ 3.90 ,1hr 26mins,Maria Fernanda Carreras - Recruiting Team Leader Regional,4.8
+Offboarding : Creando un proceso de valor,US$ 3.90 ,1hr 09mins,Tomás Moreno - Especialista en RR.HH,4.7
+Doblaje: Caracterización de Personajes,US$ 3.90 ,1hr 29mins,Yuval Benamú - Socio co-fundador y vocal coach de Torre A Doblaje,5.0
+Cómo empezar una estrategia de Customer Experience,US$ 3.90 ,1hr 25mins,Camila Freire - Gestora de Innovación,4.6
+Cómo encontrar tu siguiente trabajo : Herramientas Claves,US$ 3.90 , 59mins4.9,Bertha Zuñiga - Headhunter y Profesora de Empleabilidad,4.9
+Contabilidad para todos,US$ 3.90 ,1hr 4.6794,Edú Solano - Senior Accountant,794
+Desarrollo y Lanzamiento de nuevos productos,US$ 3.90 ,2hrs 30min,Johana Trelles - Gerente Comercial & Marketing,4.6
+Mindset del líder para el nuevo entorno,US$ 3.90 ,1hr 20mins,Nicole Perret - Socio – Consultor en Gnosis Coaching & Consulting,5.0
+Productividad en Trabajos Remotos,US$ 3.90 , 30mins4.5,Rony Durand - Psicólogo – Hipnoterapeuta – Coach Emocional,4.5
+Principios de Negocios Internacionales,US$ 3.90 ,1hr 59mins,Germán Eguiguren - Profesor de Desarrollo de Proyectos Internacionales,5.0
+Estrategias de Comunicación Publicitaria,US$ 3.90 ,2hrs 31min,Max Vidal - Socio y Director de Axer Consultores,4.8
+Comunicación y Manejo Emocional del Talento Humano,US$ 3.90 ,1hr 24mins,"Aris Yupanqui - Coach Asesor en Voz, Arquetipos de Comunicación y Relaciones Sociales.",4.7
+Liderazgo Adaptativo: Potenciando mis habilidades,US$ 3.90 , 46mins4.8,Fernando Gil - Gerente General de Jamming,4.8
+Excel - Tablas Dinámicas 2020,US$ 3.90 ,1hr 53mins,Sergio Bazo - Consultor e Instructor,4.8
+Liderazgo en Tiempos Digitales,US$ 3.90 , 46mins5.0,Pamela Abdala - Coach Ontológico y Natalia Tafur Psicóloga y Coach Ontológico,5.0
+Liderazgo Colaborativo: Generando trabajo en equipo,US$ 3.90 , 40mins4.7,Fernando Gil - Gerente General de Jamming,4.7
+Conecta contigo y nutre tu cuerpo,US$ 3.90 ,1hr 10mins,Melissa Berger - Health Coach,4.8
+Fotografia para E-Commerce,Obtener gratisOb, 38mins4.5,Edinson Guerreros - Director de fotografía,4.5
+Cultura Organizacional: Experiencia y comunicación interna,US$ 3.90 ,1hr 45mins,Ivan Quiñones - Director Digital,4.8
+¿Cómo emprender bien? Consejos legales para emprendedores,US$ 11.90,3hrs 40min,LegalCore   - E-learning legal,5.0
+Cultura interna y propósito de marca,US$ 3.90 ,1hr 04mins,Ivan Quiñones - Director Digital,4.6
+Doblaje: Dicción y acento neutro,US$ 3.90 ,1hr 14mins,Micky  Bane - Socio co-fundador y vocal coach de Torre A Doblaje,4.6
+Introducción a las ventas,US$ 3.90 , 37mins4.5,Daniel Jauregui - Magister en Dirección de Marketing,4.5
+Introducción al Marketing,US$ 3.90 , 44mins4.5,Daniel Jauregui - Magister en Dirección de Marketing,4.5
+Doblaje de voz desde 0,US$ 3.90 ,1hr 15mins,Victor Luperdi - Socio co-fundador y vocal coach de Torre A Doblaje,4.8
+Recursos Humanos para Dummies,US$ 3.90 , 57mins4.7,Alvaro Goyenechea - Gerente General en HRB,4.7
+Introducción a la Gestión de Ventas,US$ 3.90 , 51mins4.5,Ursula Rodriguez - Magíster en Gestión Comercial,4.5
+Introducción a la edición de video,US$ 3.90 ,1hr 08mins,Nicolas Salazar - Profesor de Ciencias de la Comunicación,4.5
+Intención y Lectura Narrativa,Obtener gratisOb, 35mins4.5,Juan Diego Polanco - Socio co-fundador y vocal coach de Torre A Doblaje,4.5
+Gestionando la experiencia del Gerente Contratante,US$ 3.90 ,1hr 35mins,Maria Fernanda Carreras - Recruiting Team Leader Regional,4.9
+Introducción al Guion,US$ 3.90 , 49mins4.7,Nicolas Salazar - Profesor de Ciencias de la Comunicación,4.7
+Liderazgo Persuasivo para Equipos Eficientes,US$ 3.90 ,2hrs 03min,Miguel Figueroa - Director de La Neurona Reina,4.8
+Agilidad y Mindset Ágil,US$ 3.90 ,1hr 04mins,Ana Gabriela Granados - Agile Coach en Mibanco,4.7
+Running,US$ 11.90,2hrs 06min,Gladys Tejeda - Atleta Olímpica,4.7
+Excel Avanzado 2020,US$ 3.90 ,5hrs 25min,Sergio Bazo - Consultor e Instructor,4.6
+¿Cómo dejar tu huella personal?,US$ 3.90 , 42mins4.8,Viviana Morales - Consultora en Marca Personal,4.8
+Excel Intermedio 2020,US$ 3.90 ,7hrs 50min,Sergio Bazo - Consultor e Instructor,4.8
+Introducción a la grabación de video,Obtener gratisOb, 50mins4.8,Nicolas Salazar - Profesor de Ciencias de la Comunicación,4.8
+SQL Para Principiantes,US$ 3.90 ,4hrs 32min,Sebastien Polis - Científico de Datos,4.5
+Herramientas para la Autogestión de Emociones,US$ 3.90 ,1hr 4.5200,Natalia Tafur - Psicóloga y Coach Ontológico,200
+KPI's de Reclutamiento y Selección,US$ 3.90 , 43mins4.5,Juan Ramos - Mágister en Dirección y Organización de Personas.,4.5
+Emprendiendo con Design Thinking: Innovación aterrizada,US$ 14.90,1hr 18mins,PEPPERMINT  - Mirian Lau: Co-Founder & CEO y Maria Camino: Co-Founder & DT Specialist,4.9
+Comunicación Asertiva,US$ 3.90 ,2hrs 04min,Miguel Figueroa - Director de La Neurona Reina,4.9
+DRAMÁTICA (ortografía y gramática básica),US$ 11.90,2hrs 4.646,Marisol Benavides - Comunicadora,646
+PR: Convierte en noticia tu idea,US$ 14.90, 58mins4.5,Luciana Olivares - Fundadora - CEO de Boost,4.5
+Propósito de Marca,US$ 14.90,1hr 13mins,Luciana Olivares - Fundadora - CEO de Boost,4.5
+Construye tu marca,US$ 14.90,1hr 17mins,Luciana Olivares - Fundadora - CEO de Boost,4.5
+Conceptos básicos para mejorar el discurso en público,US$ 3.90 , 17mins4.6,"Francisco Cabrera - Coach, Actor y Director.",4.6
+Desarrollo de la Inteligencia Emocional,US$ 14.90,2hrs 12min,"Fiorella Cayo - Coach, Promotora y productora de Talentos.",4.7
+Marca Personal,"", 12mins4.7,Luciana Olivares - Fundadora - CEO de Boost,4.7
+Excel Básico 2020,US$ 3.90 ,5hrs 07min,Sergio Bazo - Consultor e Instructor,4.8
+Resolver conflictos en entornos digitales,US$ 3.90 , 30mins4.5,Rony Durand - Psicólogo – Hipnoterapeuta – Coach Emocional,4.5
+Introducción al Lenguaje Audiovisual,US$ 3.90 , 57mins4.9,Nicolas Salazar - Profesor de Ciencias de la Comunicación,4.9
+Relación entre el dinero y la felicidad,US$ 3.90 , 51mins4.7,Javier Benitez - CEO,4.7
+Desapego y Libertad,US$ 3.90 , 52mins4.8,Javier Benitez - CEO,4.8
+Diseño Organizacional: Herramientas de Gestión en RR.HH,US$ 3.90 , 50mins4.6,Martín Vergara Pinto - Consultor principal en Compensación y Organización,4.6
+Compensación y Beneficios para principiantes,US$ 3.90 , 52mins4.7,Martín Vergara Pinto - Consultor principal en Compensación y Organización,4.7
+Gestión del estrés,US$ 3.90 , 51mins4.8,Javier Benitez - CEO,4.8
+Reducir el ego y ser más solidario,US$ 3.90 ,1hr 12mins,Javier Benitez - CEO,4.5
+Trucos para ser más eficiente,Obtener gratisOb,1hr 01min4,Javier Benitez - CEO,4.8
+Paz Mental,US$ 3.90 , 46mins5.0,Javier Benitez - CEO,5.0
+Power BI Básico,US$ 3.90 ,1hr 14mins,Sergio Bazo - Consultor e Instructor,4.5
+Cómo empezar a emprender,US$ 3.90 ,1hr 16mins,Javier Benitez - CEO,4.9
+Reinventarse en tiempo de crisis,US$ 3.90 ,1hr 51mins,Solangel Santiago - Coach Transformacional,4.7
+Teletrabajo,US$ 3.90 , 56mins4.5,Javier Benitez - CEO,4.5
+Gestión del Cambio,US$ 3.90 ,1hr 05mins,Javier Benitez - CEO,4.8
+Gestión de preocupaciones,US$ 3.90 ,1hr 28mins,Javier Benitez - CEO,4.8
+Consejos y frases de vida,US$ 3.90 , 55mins4.7,Javier Benitez - CEO,4.7
+Cómo ayudar a tus hijos a ser mejores,US$ 3.90 , 56mins4.9,Javier Benitez - CEO,4.9
+Pensar y hablar en positivo para mejorar tu vida,US$ 3.90 ,1hr 10mins,Javier Benitez - CEO,5.0
+Cómo hacer amigos y tener relaciones exitosas,US$ 3.90 ,1hr 24mins,Javier Benitez - CEO,4.5
+Desarrolla tu intuición y atrae lo que desees,US$ 3.90 ,1hr 19mins,Javier Benitez - CEO,4.9
+Aumenta tu creatividad y amplía tus posibilidades,US$ 3.90 ,1hr 05mins,Javier Benitez - CEO,4.7
+"Amor, agradecimiento y perdón",US$ 3.90 ,1hr 02mins,Javier Benitez - CEO,4.8
+Empoderamiento y superación del fracaso,US$ 3.90 ,1hr 26mins,Javier Benitez - CEO,4.9
+Mindfulness y Meditación,US$ 3.90 ,1hr 02mins,Javier Benitez - CEO,4.8
+Los 6 elementos para tu vida plena,US$ 3.90 ,1hr 08mins,Javier Benitez - CEO,4.7
+Actitud y Propósito,US$ 3.90 ,1hr 03mins,Javier Benitez - CEO,4.8
+Cómo ejecutar una Transformación Digital,US$ 3.90 , 56mins4.7,Samuel Sanchez - Ex CEO,4.7
+Cómo encontrar tu pasión y vivir de ello,US$ 3.90 ,2hrs 15min,Mateo Garrido Lecca - Comediante,4.8
+Cómo hacer de tu hobby un negocio exitoso,US$ 3.90 ,1hr 14mins,Diego Rodriguez - Co-Fundador Cervecería Barbarian,4.5
+Cómo innovar y diversificar para crecer,US$ 3.90 ,1hr 03mins,Martin Bedoya - Director - Edifica,4.7
+Del mundo corporativo a emprendedora,US$ 14.90,1hr 22mins,Luciana Olivares - Fundadora - CEO de Boost,4.8
+Cómo confiar en ti mismo para ser el mejor,US$ 3.90 ,1hr 12mins,Sofia Mulanovich - Surfista profesional - Campeona Mundial,4.5
+Cómo emprender con éxito desde cero,US$ 3.90 ,1hr 30mins,Miguel Valladares - Fundador y Gerente General,4.5
+Cómo recuperarse ante la adversidad y lograr el éxito,US$ 3.90 ,1hr 49mins,Cecilia Tait - La Zurda de Oro,4.8
+Cómo ejecutar un emprendimiento social con éxito,US$ 3.90 ,2hrs 24min,Vania Masias - Emprendedora Social. Fundadora y Presidenta,4.8
+Cómo fortalecernos como sociedad,US$ 3.90 ,1hr 38mins,Salvador del Solar - Abogado y Actor,4.9
+Aprende a Trabajar en Equipo,US$ 3.90 ,2hrs 33min,Javier Benitez - CEO,4.7
+Networking y Relaciones Fructíferas,US$ 3.90 , 48mins4.7,Javier Benitez - CEO,4.7
+Superación del Miedo a Hablar en Público,US$ 3.90 ,1hr 40mins,Javier Benitez - CEO,4.8
+Gestión de Emociones,US$ 3.90 ,1hr 22mins,Javier Benitez - CEO,4.8
+Persuasión e Influencia,US$ 3.90 ,1hr 33mins,Javier Benitez - CEO,4.8
+Habilidades de Comunicación,US$ 3.90 ,1hr 42mins,Javier Benitez - CEO,4.6
+Negociación y Resolución de Conflictos,US$ 3.90 ,2hrs 58min,Javier Benitez - CEO,4.6
+Manejo de Objeciones,US$ 3.90 ,1hr 31mins,Victor Zegarra - Coach y Conferencista,4.5
+Neuroventas,US$ 3.90 ,2hrs 11min,Victor Zegarra - Coach y Conferencista,4.5
+Foodstyling y Fotografía de Alimentos,US$ 3.90 ,1hr 37mins,Lizza Miranda & Max Claux - Ecónoma y Fotográfo,4.5
+Introducción a la Dirección de Arte,US$ 3.90 ,2hrs 16min,Romina Ortega - Directora de Arte,4.7
+After Effects para Redes Sociales,US$ 3.90 ,4hrs 37min,Daniel A. Silva Jasaui - Post Productor,4.5
+Premiere para Redes Sociales,US$ 3.90 ,3hrs 57min,Daniel A. Silva Jasaui - Post Productor,4.5
+Fotomontaje y Post Producción Digital,US$ 3.90 ,3hrs 37min,John Zavala - Director de Arte,4.5
+Fotografía Publicitaria,US$ 3.90 ,1hr 16mins,Alvaro Palacios - Fotógrafo Publicitario y Director de Fotografía,4.5
+Habilidades Esenciales para Mejorar tu Vida,US$ 3.90 ,3hrs 33min,Javier Benitez - CEO,4.8
+Aprende a Ser Feliz,US$ 3.90 ,3hrs 24min,Javier Benitez - CEO,4.8
+Photoshop: Dibujo avanzado con pinceles y retrato,US$ 3.90 ,2hrs 26min,Luis Jiménez - Artista digital y retocador fotográfico,4.9
+Fanart: Ilustración Digital en Photoshop,US$ 3.90 ,1hr 47mins,Luis Jiménez - Artista digital y retocador fotográfico,4.5
+Modelado de Personaje con 3D Studio Max,US$ 3.90 ,4hrs 13min,Aldo Barrera - Diseñador Gráfico Senior 3D,5.0
+Fotografía Básica,US$ 3.90 ,1hr 08mins,Daniel Bengoa - Fotógrafo Profesional,4.6
+Photoshop: Retoque Digital para Fotógrafos,US$ 3.90 ,3hrs 05min,Oswaldo Cépeda - Docente de Diseño Gráfico,4.7
+Photoshop para Fotógrafos,US$ 3.90 ,5hrs 08min,Oswaldo Cépeda - Docente de Diseño Gráfico,4.5
+Excel - Tablas Dinámicas 2016,US$ 3.90 ,3hrs 38min,Sergio Bazo - Consultor e Instructor,4.7
+Técnicas Profesionales de Retoque Facial,US$ 3.90 ,2hrs 38min,Oswaldo Cépeda - Docente de Diseño Gráfico,4.5
+Iluminación y Fotomontaje 3D en 3D Studio Max,US$ 3.90 ,1hr 07mins,Aldo Barrera - Diseñador Gráfico Senior 3D,4.5
+"3D Studio Max y Photoshop- Modelado, Renderizado y Post Prod",US$ 3.90 ,1hr 39mins,Aldo Barrera - Diseñador Gráfico Senior 3D,4.5
+Creación y Diseño de Personajes,US$ 3.90 ,1hr 05mins,Redak Anderson - Director de Arte,4.5
+Illustrator - Domina la Ilustración Digital,US$ 3.90 ,1hr 13mins,Redak Anderson - Director de Arte,4.5
+InDesign: Integración y Diseño para Retail,US$ 3.90 ,1hr 36mins,Rodolfo Villar - Docente,4.7
+Administración de color y perfiles de Color ICC,US$ 3.90 , 52mins4.5,Rodolfo Villar - Docente,4.5
+Adobe Lightroom y Revelado RAW,Obtener gratisOb,1hr 26mins,Rodolfo Villar - Docente,4.5
+Postproducción y Retoque Fotográfico,US$ 3.90 ,1hr 13mins,Rodolfo Villar - Docente,4.5
+Introducción a Adobe InDesign,US$ 3.90 ,2hrs 19min,Rodolfo Villar - Docente,4.7
+Adobe Photoshop: Herramientas y Usos,US$ 3.90 ,2hrs 16min,George Benites - Docente,4.5
+Adobe Photoshop Social Media,US$ 3.90 ,3hrs 27min,Luis Alarcon - Experto Diseño Gráfico,4.9
+Adobe Illustrator Social Media,US$ 3.90 ,3hrs 03min,Luis Alarcon - Experto Diseño Gráfico,4.6
+Implementación y Desarrollo de Marcas,US$ 3.90 , 31mins4.6,Juan Jose Tirado - CEO,4.6
+Una mirada al trabajo del actor,US$ 3.90 ,2hrs 44min,Giovanni Ciccia - Actor - Director,4.9
+Construcción de Lovemarks a través de Insights,US$ 3.90 ,4hrs 40min,Mariana Ripoll - Gerente de Marketing - Ripley Perú,4.5
+Big Data y Monetización,US$ 3.90 ,2hrs 46min,Carlos Calderon - CEO,4.6
+Lean StartUp,US$ 3.90 ,2hrs 47min,Ricardo Espinoza - Profesor,4.5
+E-mail Marketing,US$ 3.90 ,2hrs 55min,Miguel Cachay - CEO,4.5
+Experiencia de Usuario (UX),US$ 3.90 ,3hrs 57min,Juan Francisco (Paco) Reyes - Director,4.5
+Aspectos Legales del Marketing Digital,US$ 3.90 ,1hr 31mins,Oscar Montezuma - Socio,4.5
+Branding y Propósito de Marca,US$ 3.90 ,2hrs 31min,Juan Jose Tirado - CEO,4.6
+Gestión e Inteligencia del Consumidor,US$ 3.90 ,3hrs 58min,Gonzalo Abad - Sales Effectiveness Lead,4.5
+Fidelización Online,US$ 3.90 ,5hrs 44min,Iván Fanego - Fundador,4.5
+Efectividad Personal,US$ 3.90 ,1hr 28mins,César Montoya Ramírez - CEO - Head Coach,4.6
+Analítica Digital,US$ 3.90 ,2hrs 58min,Alberto Arellano - Gerente de Negocios Online,4.5
+Mobile Marketing,US$ 3.90 ,2hrs 18min,Alberto Arellano - Gerente de Negocios Online,4.5
+Marketing para Emprendedores,US$ 3.90 ,5hrs 4.574,Luis Lodeiros - Profesor Posgrado - ESAN,574
+Illustrator - Intermedio,Obtener gratisOb,6hrs 15min,Luis Alarcon - Experto Diseño Gráfico,4.8
+Illustrator - Avanzado,US$ 3.90 ,9hrs 48min,Luis Alarcon - Experto Diseño Gráfico,4.7
+Adobe Illustrator - Básico,US$ 3.90 ,6hrs 51min,Luis Alarcon - Experto Diseño Gráfico,4.8
+Inteligencia Emocional,US$ 3.90 ,1hr 46mins,César Montoya Ramírez - CEO - Head Coach,4.6
+Transmedia Storytelling,US$ 3.90 ,4hrs 22min,Eduardo Prádanos - CEO y Director General Creativo - FLUOR Lifestyle,4.5
+Fundamentos y Estrategia Digital de Marketing,US$ 3.90 ,5hrs 45min,Pedro González - Director Estrategia Digital & Social Paid Media - Good Rebels,4.5
+"Monitorización, Reputación Digital y Manejo de Crisis",US$ 3.90 ,6hrs 44min,Iván Fanego - Fundador,4.5
+Fundamentos y Estrategias Tecnológicas,US$ 3.90 ,3hrs 40min,David Lastra - Gerente Desarrollo de Negocio Canales Digitales - Minsait,4.5
+Transformación Digital,US$ 3.90 ,3hrs 18min,Gonzalo Martin - Socio Director - Good Rebels,4.5
+Design Thinking,US$ 3.90 ,3hrs 31min,Amelia Hernández - Innovation Strategist - Opinno,4.5
+Creatividad Digital,US$ 3.90 ,5hrs 19min,Alejandro Ditrolio - Director creativo ejecutivo de Cheil Worldwide (Spain),4.5
+Experiencia del Cliente,US$ 3.90 ,6hrs 30min,Alfredo De Paz - Head of Social - IPG Mediabrands,4.5
+Liderazgo Organizacional,US$ 3.90 ,2hrs 15min,Carlos Paulet - CEO - X-Factor Consulting,4.8
+Adobe Photoshop - Avanzado,US$ 3.90 ,8hrs 13min,Luis Alarcon - Experto Diseño Gráfico,4.8
+Adobe Photoshop - Intermedio,US$ 3.90 ,7hrs 21min,Luis Alarcon - Experto Diseño Gráfico,4.8
+Microsoft PowerPoint - De Principiante a Experto 2016,US$ 3.90 ,6hrs 30min,Sergio Bazo - Consultor e Instructor,4.7
+Microsoft Word - De Principiante a Experto 2016,US$ 3.90 ,8hrs 30min,Sergio Bazo - Consultor e Instructor,4.7
+Investigación de Mercados,US$ 3.90 ,7hrs 10min,Luis Lodeiros - Profesor Posgrado - ESAN,4.5
+Excel - Avanzado 2016,US$ 3.90 ,4hrs 30min,Sergio Bazo - Consultor e Instructor,4.7
+Excel - Intermedio 2016,US$ 3.90 ,5hrs 30min,Sergio Bazo - Consultor e Instructor,4.8
+Excel - Básico 2016,US$ 3.90 ,5hrs 12min,Sergio Bazo - Consultor e Instructor,4.7
+Marketing Personal para encontrar tu 1er trabajo,US$ 3.90 ,1hr 10mins,Ana Romero - Licenciada - TEDxLIMA,4.5
+Presentaciones Efectivas,US$ 3.90 , 45mins4.6,"Roberto Mogollón - Gerente de Insights, Analytics & Estrategia de Precios",4.6
+Análisis Financiero,US$ 3.90 ,1hr 40mins,Emyko Osorio - Gerente Zonal de Mid Market - Scotiabank,4.5
 2020 Python Completo: De Cero a Héroe en Python,47 €,13 h,Eric Alexander,4.6
 "Linux para principiantes, pero bien explicado y con demo",18 €,3 h,Alejandro Guzman Castellanos,4.5
 Introducción a la base de datos MongoDB,10 €,7 h,Francisco Arce,4
@@ -203,21 +602,19 @@ Aprende Java desde cero y paso a paso,35 €,4 h,Grover Pablo Vásquez Rengifo,4
 Introducción a NodeJS,10 €,6 h,Francisco Arce,4.7
 Arduino e Impresión 3D: crea tu propio Robot,15 €,8 h,Christian Olmedo Regalado Sarmiento,4.8
 Creando Proyectos con React JS,50 €,8 h,Juan Jose Ortiz del Toro,4.4
-Iniciación a Angular 9. App desde 0,10 €,2 h,Paco Gomez Arnal,4.8
-Aprende Unity 5: de cero a experto,59 €,21 h,Juan Gabriel Gomila,4.8
-HTML5+CSS+Intro Javascript para Principiantes,18 €,5 h,Alejandro Guzman Castellanos,4.7
-Master en Bootstrap 4 de Cero a 100,99 €,15 h,render2web Cursos y tutoriales de alta calidad,5
+"Crear una tienda virtual con Bootstrap, PHP y MySQL",15 €,14 h,Francisco Arce,4.6
 "Universidad Java: Experto en Java, desde Cero a Master",169 €,53 h,Global Mentoring,4.6
-Curso de Linux: todo lo necesario para ser administrador,100 €,9 h,Proyecto Oforte,4.5
+Aprende Unity 5: de cero a experto,59 €,21 h,Juan Gabriel Gomila,4.8
+Empieza a crear tus primeros juegos en Roblox Studio,19 €,2 h,irene pallares,0
+Introducción a la base de datos MongoDB,10 €,7 h,Francisco Arce,4
+Creando Proyectos con React JS,50 €,8 h,Juan Jose Ortiz del Toro,4.4
+"NodeJS + MongoDB, para RestFul APIs",29 €,9 h,Nahuel Lema,5
 "Programa hoy en MongoDB con Mongoose, Node y Express",9 €,1 h,Nahuel Lema,0
 Herramientas para el desarrollador web,10 €,7 h,Francisco Arce,4.5
-Aprende a desarrollar apps para Apple Watch ,99 €,17 h,Juan Gabriel Gomila,4.5
-Unreal Engine 4: crea videojuegos desde cero,99 €,16 h,Juan Gabriel Gomila,4.5
-Aprende C# creando un juego en Unity 5: de cero a experto,99 €,12 h,Juan Gabriel Gomila,4.6
-Crea un API RESTful con Slim PHP y aprende a usarla con AJAX,20 €,2 h,Víctor Robles,4.4
+Curso Maestro de C++ - Aprende desde Cero,20 €,10 h,Lucas Bazilio,4
+Curso de Linux: todo lo necesario para ser administrador,100 €,9 h,Proyecto Oforte,4.5
 Desarrolla Aplicaciones en Android - completo y actualizado,99 €,20 h,Jose Javier Villena Martínez,4.4
 Crea sitios web Responsive en Bootstrap sin programar,15 €,3 h,Raul Martinez,4.3
-Machine learning y datascience con Python con sklearn y pyspark,60 €,14 h,José Manuel Ortega Candel,4.4
 Crea tu Primera Web Gratis con Django,19 €,3 h,Christian Medina,4
 Iniciación a Angular 9. App desde 0,10 €,2 h,Paco Gomez Arnal,4.8
 "Curso de Desarrollo Web con Spring Boot 2, Spring Framework 5, Java 11 y MySQL 8 (Actualización 2020)",100 €,17 h,Ivan Eliseo Tinajero Díaz,5
@@ -225,7 +622,9 @@ WordPress 2020: Crea un sitio web profesional y llamativo,20 €,1 h,Emilio Jos�
 Certificación Microsoft ASP NET MVC 5 (OWIN + KATANA),12 €,5 h,Rick  Lennie,0
 Master en Bootstrap 4 de Cero a 100,99 €,15 h,render2web Cursos y tutoriales de alta calidad,5
 Arduino e Impresión 3D: crea tu propio Robot,15 €,8 h,Christian Olmedo Regalado Sarmiento,4.8
+Machine Learning Express con Python,49 €,3 h,Iván Pinar Domínguez,4.9
 Aprende a crear Servicios RestFul con programación reactiva,25 €,2 h,Alex Salomé Pastrana,5
+Machine learning y datascience con Python con sklearn y pyspark,60 €,14 h,José Manuel Ortega Candel,4.4
 Unreal Engine 4: crea videojuegos desde cero,99 €,16 h,Juan Gabriel Gomila,4.5
 Aprende C# creando un juego en Unity 5: de cero a experto,99 €,12 h,Juan Gabriel Gomila,4.6
 Curso Completo de Desarrollo Responsive + Proyectos Prácticos,30 €,8 h,render2web Cursos y tutoriales de alta calidad,4.8

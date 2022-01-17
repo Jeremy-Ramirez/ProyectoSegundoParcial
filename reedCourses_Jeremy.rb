@@ -15,7 +15,7 @@ class CursosReedCourses
     CSV.open('reedCourses.csv', 'wb') do |csv|
       conf=0;
       csv << %w[TítuloCurso Precio Duración Autor Calificación]
-      puts "Scrapeando la url"
+      
         
       pagina=1
 
@@ -23,6 +23,7 @@ class CursosReedCourses
 
 
       while(pagina<=8)
+        puts "Scrapeando la url https://www.reed.co.uk/courses/?pageno=#{pagina}&keywords=programming"
         link="https://www.reed.co.uk/courses/?pageno=#{pagina}&keywords=programming"
         #link ="https://www.reed.co.uk/courses/?keywords=programming"
         udemyHTML= URI.open(link)

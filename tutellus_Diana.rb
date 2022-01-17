@@ -24,25 +24,25 @@ class Tutellus
                 inf_container = parsed_content.css('.m-equalboxes-wrapper')
                 inf_container.css('.equalboxes-item').each do |curso|
                     titulo=curso.css('h3>a.darkblack').inner_text[0..-1]
-                    puts(titulo)
+                    #puts(titulo)
                     precio=curso.css('.final-price').inner_text[0..-1]
-                    puts(precio)
+                    #puts(precio)
                     #precio2=curso.css('.currency').inner_text[0..-1]
                     #puts(precio2)
                     calificacion=curso.css('.ion-android-star').inner_text[0..-1]
-                    puts calificacion
+                    #puts calificacion
                     duracion=curso.css('div.course-time>strong').inner_text[0..-1]
-                    puts duracion
+                    #puts duracion
                     autor=""
                     autorImg=curso.css('img.user-img').each do |img|
                         autor=img['alt']
-                        puts autor
+                        #puts autor
                     end
 
                     csv << [titulo.to_s, precio.to_s, duracion.to_s, autor.to_s,calificacion.to_s]
                     
                 end
-                puts " "
+                #puts " "
                     
 
                 pagina+=1
