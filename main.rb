@@ -14,13 +14,15 @@ cursoDiana.extraer
 
 cursoJeremy= CursosReedCourses.new()
 cursoJeremy.extraer
+cursoSandy= Netzun.new()
+cursoSandy.extraer
 
 
 def csv_headers
   ["TítuloCurso", "Precio", "Duración","Autor","Calificación"]
 end
 
-files = Dir["tutellus.csv","reedCourses.csv"].sort_by { |f| "if you want to sort the files" }
+files = Dir["tutellus.csv","reedCourses.csv","netzun.csv"].sort_by { |f| "if you want to sort the files" }
 file_contents = files.map { |f| CSV.read(f) }
 
 csv_string = CSV.generate do |csv|
