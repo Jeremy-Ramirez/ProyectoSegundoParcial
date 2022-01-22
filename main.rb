@@ -20,7 +20,7 @@ cursoSandy.extraer
 
 
 def csv_headers
-  ["TítuloCurso", "Precio", "Duración","Autor","Calificación"]
+  ["TituloCurso", "Precio", "Duracion","Autor","Calificacion"]
 end
 
 files = Dir["tutellus.csv","reedCourses.csv","netzun.csv"].sort_by { |f| "if you want to sort the files" }
