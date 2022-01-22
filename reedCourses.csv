@@ -1,193 +1,982 @@
 TítuloCurso,Precio,Duración,Autor,Calificación
-Java Programming,£10,15.2 hours,Next Learn Academy,2
+Java Programming,£10,15.2 hours,Next Learn Academy,0
 SQL Programming: The SQL Database Programming Essential Training 2022,£10,3.5 hours ,Ahmed Ibrahim,3
-Programming,£10,7 hours   ,Course Cloud,0
-C# Programming: The C# Coding Essential Training in 2022,£10,3.9 hours ,Ahmed Ibrahim,0
-SQL Programming,£10,2 hours   ,Suprio Dutta,3
+Programming,£10,7 hours   ,Course Cloud,1
+C# Programming: The C# Coding Essential Training in 2022,£10,3.9 hours ,Ahmed Ibrahim,4
+SQL Programming,£10,2 hours   ,Suprio Dutta,2
 Python Programming: Building Real Apps with Python Programming 2022,£10,3.5 hours ,Ahmed Ibrahim,4
-C# Programming with Ado.net,£10,2.6 hours ,Suprio Dutta,5
-C# Programming-Beginners To Advanced,£10,5.1 hours ,Suprio Dutta,4
+C# Programming with Ado.net,£10,2.6 hours ,Suprio Dutta,2
+C# Programming-Beginners To Advanced,£10,5.1 hours ,Suprio Dutta,2
 Python Programming Certification Training,£11,29.4 hours,Uplatz,4
 Python Programming for Beginners | Python Ultimate Bootcamp 2022,£10,6 hours   ,Ahmed Ibrahim,5
-F# Programming,£71,5 hours   ,Ed-Next (Consult +),5
-Java Programming Training Courses,£19,3.4 hours ,EduOlc Team,1
-Coding (Computer Programming),£53,97 hours  ,Apex Learning,1
-SAS Programming,£10,12 hours  ,Course Cloud,1
-Python Programming Course,£140,8.3 hours ,Upskillist,3
-PLC Programming,£13,7 hours   ,Course Cloud,2
+F# Programming,£71,5 hours   ,Ed-Next (Consult +),4
+Java Programming Training Courses,£19,3.4 hours ,EduOlc Team,5
+Coding (Computer Programming),£53,97 hours  ,Apex Learning,0
+SAS Programming,£10,12 hours  ,Course Cloud,0
+Python Programming Course,£140,8.3 hours ,Upskillist,4
+PLC Programming,£13,7 hours   ,Course Cloud,1
 JavaScript Programming for Beginners,£19,2.3 hours ,Zenva Academy,4
 GUI Programming in Python using Tkinter Certification Training,£11,25.3 hours,Uplatz,1
 C++ Programming Course,£35,10 hours  ,Ed-Next (Consult +),4
 Java Programming ,£150,3.4 hours ,Numoni,5
-3D Programming Crash Course ,£89,1.2 hours ,Sonar Systems,3
+3D Programming Crash Course ,£89,1.2 hours ,Sonar Systems,2
 PLC Programming,£10,7 hours   ,Janets,5
-R Programming,£59,4.9 hours ,Earn & Excel,0
+R Programming,£59,4.9 hours ,Earn & Excel,5
 Data Science: Python Programming for Data Analysis 2022 Complete Bootcamp,£10,6.3 hours ,Ahmed Ibrahim,4
-Programming in Android,£200,30 hours  ,IT Academy,4
+Programming in Android,£200,30 hours  ,IT Academy,5
 Python Programming,£59,4.7 hours ,Earn & Excel,3
-Python Programming From A-Z: Beginner To Expert Course,£11.99,15.5 hours,Lunes Online Learning,4
-Ruby Programming Training,£71,32 hours  ,Ed-Next (Consult +),5
-Scala Programming,£71,9 hours   ,Ed-Next (Consult +),3
-Python Programming for Beginners,£19,2.8 hours ,Zenva Academy,5
-F# Programming Training Course,£99,4 hours   ,EduCBA,5
-SAS Programming,£10,12 hours  ,Amaar School,2
-C# Programming,£15,5 hours   ,The Teachers Training,2
-Java Programming,£10,4 hours   ,Amaar School,2
-Assembly Programming,£10,2 hours   ,Amaar School,0
-Dart Programming,£10,4 hours   ,Amaar School,0
-Python Programming,£21.76,8 hours   ,Simpliv LLC,5
+Python Programming From A-Z: Beginner To Expert Course,£11.99,15.5 hours,Lunes Online Learning,2
+Ruby Programming Training,£71,32 hours  ,Ed-Next (Consult +),2
+Scala Programming,£71,9 hours   ,Ed-Next (Consult +),1
+Python Programming for Beginners,£19,2.8 hours ,Zenva Academy,3
+F# Programming Training Course,£99,4 hours   ,EduCBA,4
+SAS Programming,£10,12 hours  ,Amaar School,4
+C# Programming,£15,5 hours   ,The Teachers Training,0
+Java Programming,£10,4 hours   ,Amaar School,0
+Assembly Programming,£10,2 hours   ,Amaar School,3
+Dart Programming,£10,4 hours   ,Amaar School,1
+Python Programming,£21.76,8 hours   ,Simpliv LLC,1
 Mind Programming,£10,1 hour    ,Amaar School,3
-C++ Programming Course,£99,          ,EduCBA,0
-Coding (Computer Programming),£100,102 hours ,StudyHub,5
-R Programming Certification Training,£11,20.8 hours,Uplatz,0
-Julia Programming,£10,4 hours   ,Janets,5
-Java Programming,"£2,100",5 days · F,Verhoef Training Ltd,4
+C++ Programming Course,£99,          ,EduCBA,1
+Coding (Computer Programming),£100,102 hours ,StudyHub,0
+R Programming Certification Training,£11,20.8 hours,Uplatz,1
+Julia Programming,£10,4 hours   ,Janets,2
+Java Programming,"£2,100",5 days · F,Verhoef Training Ltd,5
 Java Programming,"£2,100",5 days · F,Verhoef Training Ltd,1
-Python Programming,£10,6 hours   ,Janets,0
-Python Programming,£10,6 hours   ,Janets,1
-C Programming Course,£99,          ,EduCBA,3
+Python Programming,£10,6 hours   ,Janets,2
+Python Programming,£10,6 hours   ,Janets,5
+C Programming Course,£99,          ,EduCBA,5
 Data Science: The R Programming For Data Science Complete Bootcamp 2022,£10,5.1 hours ,Ahmed Ibrahim,3
-Scala Programming,£99,          ,EduCBA,0
-Python Programming,£21.77,18 hours  ,Simpliv LLC,0
+Scala Programming,£99,          ,EduCBA,1
+Python Programming,£21.77,18 hours  ,Simpliv LLC,5
 Python Programming,£21.77,18 hours  ,Simpliv LLC,2
-Java Programming Course,£129,14 hours  ,Course Correct Limited,1
-C Programming Course,£35,10 hours  ,Ed-Next (Consult +),4
-Introduction To Programming,£29,          ,Skill Success,1
-Julia Programming,£10,4 hours   ,One Education,2
-AutoLISP Programming,£10,7 hours   ,One Education,5
-Scala Programming,£99,          ,EduCBA,4
-PLC Programming,£100,101 hours ,StudyHub,5
-Java Programming,£10,9 hours   ,Janets,3
-Java Programming,£99,1 year    ,"",3
-AutoCAD Programming,£29,32 hours  ,Course Cloud,3
-Java Programming Course,£39,12 months ,Study247,0
-Programming Fundamentals,£119,15 hours  ,eTrain,3
-Python Programming,£21.76,23 hours  ,Simpliv LLC,1
-Python Programming,£21.76,20 hours  ,Simpliv LLC,3
+Java Programming Course,£129,14 hours  ,Course Correct Limited,2
+C Programming Course,£35,10 hours  ,Ed-Next (Consult +),3
+Introduction To Programming,£29,          ,Skill Success,4
+Julia Programming,£10,4 hours   ,One Education,1
+AutoLISP Programming,£10,7 hours   ,One Education,0
+Scala Programming,£99,          ,EduCBA,5
+PLC Programming,£100,101 hours ,StudyHub,0
+Java Programming,£10,9 hours   ,Janets,0
+Java Programming,£99,1 year    ,"",0
+AutoCAD Programming,£29,32 hours  ,Course Cloud,4
+Java Programming Course,£39,12 months ,Study247,4
+Programming Fundamentals,£119,15 hours  ,eTrain,4
+Python Programming,£21.76,23 hours  ,Simpliv LLC,0
+Python Programming,£21.76,20 hours  ,Simpliv LLC,4
 Python Programming,£21.77,9 hours   ,Simpliv LLC,0
 Scheme Programming,£99,          ,EduCBA,2
-Scheme Programming,£99,          ,EduCBA,4
-Python Programming,£21.76,40 hours  ,Simpliv LLC,2
-Python Programming,£21.76,22 hours  ,Simpliv LLC,1
-Python Programming,£10,16 hours  ,Course Central,2
-Programming for Beginners,£55,30 hours  ,Course Cloud,3
-C# Programming Course,£29,          ,Skill Success,2
-Python Programming,£119,564 hours ,One Education,0
-Computer Programming,£55,67 hours  ,One Education,3
-F# Programming,£99,4 hours   ,EduCBA,5
-Python Programming,£21.76,11 hours  ,Simpliv LLC,1
-PERL Programming,£99,5 hours   ,EduCBA,4
-Python Programming,£13,6 hours   ,Course Cloud,0
-Haskell Programming,£99,          ,EduCBA,3
-Python Programming: Advanced and Important Concepts for Python Programmers,£10,4 hours   ,Ahmed Ibrahim,0
-Neuro Linguistic Programming (NLP),£12,0.3 hours ,STUDY CRUISE PRIVATE LTD,5
-PHP Programming,£21.64,20 hours  ,Simpliv LLC,0
- PHP Programming,£36.07,19 hours  ,Simpliv LLC,4
+Scheme Programming,£99,          ,EduCBA,5
+Python Programming,£21.76,40 hours  ,Simpliv LLC,5
+Python Programming,£21.76,22 hours  ,Simpliv LLC,5
+Python Programming,£10,16 hours  ,Course Central,5
+Programming for Beginners,£55,30 hours  ,Course Cloud,5
+C# Programming Course,£29,          ,Skill Success,5
+Python Programming,£119,564 hours ,One Education,5
+Computer Programming,£55,67 hours  ,One Education,1
+F# Programming,£99,4 hours   ,EduCBA,4
+Python Programming,£21.76,11 hours  ,Simpliv LLC,4
+PERL Programming,£99,5 hours   ,EduCBA,1
+Python Programming,£13,6 hours   ,Course Cloud,3
+Haskell Programming,£99,          ,EduCBA,2
+Python Programming: Advanced and Important Concepts for Python Programmers,£10,4 hours   ,Ahmed Ibrahim,3
+Neuro Linguistic Programming (NLP),£12,0.3 hours ,STUDY CRUISE PRIVATE LTD,0
+PHP Programming,£21.64,20 hours  ,Simpliv LLC,2
+ PHP Programming,£36.07,19 hours  ,Simpliv LLC,1
 PERL Programming Training Course,£99,5 hours   ,EduCBA,4
-Python Programming,£21.77,25 hours  ,Simpliv LLC,0
-Python Programming,£21.77,18 hours  ,Simpliv LLC,3
-SAS : SAS Programming,£10,4 hours   ,Janets,5
-R Programming,£10,29 hours  ,Course Central,2
+Python Programming,£21.77,25 hours  ,Simpliv LLC,4
+Python Programming,£21.77,18 hours  ,Simpliv LLC,0
+SAS : SAS Programming,£10,4 hours   ,Janets,1
+R Programming,£10,29 hours  ,Course Central,5
 Ruby Programming Training,£99,          ,EduCBA,3
-Python Programming,£10,          ,Lead Academy,2
-Shells and Shell Programming Certification Training,£11,10.6 hours,Uplatz,2
-PERL Programming,£53,8 hours   ,Ed-Next (Consult +),3
-PLC Programming,£15,36 hours  ,Course Cloud,1
+Python Programming,£10,          ,Lead Academy,1
+Shells and Shell Programming Certification Training,£11,10.6 hours,Uplatz,4
+PERL Programming,£53,8 hours   ,Ed-Next (Consult +),4
+PLC Programming,£15,36 hours  ,Course Cloud,2
 Java Programming,£22,15 hours  ,Next Learn Academy,3
-Assembly Programming,£13,2 hours   ,Course Cloud,5
-PHP Programming,£29,          ,Skill Success,2
-Python Programming Course,£129,9 hours   ,Course Correct Limited,3
-R Programming Courses,£149,76 hours  ,EduCBA,1
-Scheme Programming Training Course,£169,12 hours  ,EduCBA,3
-Python Programming,"£1,560",3 days · F,Verhoef Training Ltd,1
-Python Programming,"£1,560",3 days · F,Verhoef Training Ltd,3
+Assembly Programming,£13,2 hours   ,Course Cloud,2
 Neuro-Linguistic Programming (NLP) Complete Course ,Free,8.4 hours ,Frontier Education,4
+PHP Programming,£29,          ,Skill Success,1
+Python Programming Course,£129,9 hours   ,Course Correct Limited,5
+R Programming Courses,£149,76 hours  ,EduCBA,0
+Scheme Programming Training Course,£169,12 hours  ,EduCBA,1
+Python Programming,"£1,560",3 days · F,Verhoef Training Ltd,0
+Python Programming,"£1,560",3 days · F,Verhoef Training Ltd,4
 Introduction to Programming,£149,12 hours  ,eTrain,4
-Programming Basics Course,£99,1 month   ,StudyOnline247,4
+Programming Basics Course,£99,1 month   ,StudyOnline247,3
 R For Beginners: Learn R Programming from Scratch,£15,2.8 hours ,Oak Academy,1
-Modern C++ Programming,£10,1.3 hours ,EduOlc Team,5
-Coding in Java Programming,£10,0.9 hours ,EduOlc Team,0
+Modern C++ Programming,£10,1.3 hours ,EduOlc Team,2
+Coding in Java Programming,£10,0.9 hours ,EduOlc Team,5
 Functional Programming In Java,£10,1.1 hours ,EduOlc Team,1
 Microsoft 70-483: Programming in C# .NET,£99,26 hours  ,eTrain,5
-Computer Programming Complete Bundle,£15,80 hours  ,Janets,3
-R For Beginners: Learn R Programming from Scratch,£10,2.8 hours ,Oak Academy,3
-C++ Computer Programming,£10,1.3 hours ,EduOlc Team,4
-SAS DS2 Programming,£71,5 hours   ,Ed-Next (Consult +),0
-C Programming For Beginners,£49.99,5 hours   ,Dragon Zap,5
-C++ Programming Fundamentals,£19,2.8 hours ,EduOlc Team,4
-Neuro Linguistic Programming,£10,50 hours  ,Brentwood Open learning College,3
+Computer Programming Complete Bundle,£15,80 hours  ,Janets,0
+R For Beginners: Learn R Programming from Scratch,£10,2.8 hours ,Oak Academy,4
+C++ Computer Programming,£10,1.3 hours ,EduOlc Team,0
+SAS DS2 Programming,£71,5 hours   ,Ed-Next (Consult +),1
+C Programming For Beginners,£49.99,5 hours   ,Dragon Zap,0
+C++ Programming Fundamentals,£19,2.8 hours ,EduOlc Team,0
+Neuro Linguistic Programming,£10,50 hours  ,Brentwood Open learning College,0
 Computer Science and Programming,£119,420 hours ,Janets,5
-C++ for Competitive Programming,£10,2.8 hours ,EduOlc Team,2
+C++ for Competitive Programming,£10,2.8 hours ,EduOlc Team,5
 Computer Science & Programming,£32,13 hours  ,StudyHub,0
 Coding : Computer Programming,£75,90 hours  ,StudyHub,2
-Bundle Multi (2-in-1) - R Programming,£15,29.4 hours,Uplatz,1
-AutoCAD: AutoCAD Programming,£53,69 hours  ,Apex Learning,5
-Python 3 Programming,£10,          ,Knowledge Door,5
-Programming Language Training Bundle Course,£99,44 hours  ,EduCBA,1
-Learn Programming in C++,£10,1.5 hours ,EduOlc Team,3
-Mastering C++ Programming,£10,2.8 hours ,EduOlc Team,3
+Bundle Multi (2-in-1) - R Programming,£15,29.4 hours,Uplatz,0
+AutoCAD: AutoCAD Programming,£53,69 hours  ,Apex Learning,1
+Python 3 Programming,£10,          ,Knowledge Door,1
+Programming Language Training Bundle Course,£99,44 hours  ,EduCBA,0
+Learn Programming in C++,£10,1.5 hours ,EduOlc Team,5
+Mastering C++ Programming,£10,2.8 hours ,EduOlc Team,1
 Programming Language Training Bundle,£71,61 hours  ,Ed-Next (Consult +),3
-IT : Online R Programming Course | R Programming Language,£10,69 hours  ,Simpliv LLC,1
-The Complete Introduction to C++ Programming,£12,5 hours   ,Yassin Marco,0
+IT : Online R Programming Course | R Programming Language,£10,69 hours  ,Simpliv LLC,5
+The Complete Introduction to C++ Programming,£12,5 hours   ,Yassin Marco,4
 Complete Java Programming,£35,10 hours  ,Ed-Next (Consult +),4
 Coding Courses : Computer Programming,£30,40 hours  ,Janets,5
-.NET Programming,£499,          ,Fortray Networks Ltd,5
-HTML5 Programming Course,£10,1 hour    ,Edplx,3
-Python Programming,£119,10 hours  ,eTrain,3
-"Python Programming: Databases with Python | Learn MySQL, SQLite & MongoDB ",£10,3.2 hours ,Ahmed Ibrahim,2
-Programming Language Training Bundle,£99,          ,EduCBA,5
-Python: Python Programming,£15,16 hours  ,Janets,2
-Computer Programming Diploma,£10,6 hours   ,Academy for Health & Fitness,5
-R Programming Basics,£10,2.2 hours ,T.Hema,0
-Python Programming - Comprehensive Training,£71,29 hours  ,Ed-Next (Consult +),1
-Python Programming for Beginners Certification Training,£11,30.8 hours,Uplatz,3
-C# Programming Crash Course,£10,9.7 hours ,Stone River eLearning,0
+.NET Programming,£499,          ,Fortray Networks Ltd,2
+HTML5 Programming Course,£10,1 hour    ,Edplx,2
+Python Programming,£119,10 hours  ,eTrain,5
+"Python Programming: Databases with Python | Learn MySQL, SQLite & MongoDB ",£10,3.2 hours ,Ahmed Ibrahim,4
+Programming Language Training Bundle,£99,          ,EduCBA,2
+Python: Python Programming,£15,16 hours  ,Janets,0
+Computer Programming Diploma,£10,6 hours   ,Academy for Health & Fitness,3
+R Programming Basics,£10,2.2 hours ,T.Hema,3
+Python Programming - Comprehensive Training,£71,29 hours  ,Ed-Next (Consult +),0
+Python Programming for Beginners Certification Training,£11,30.8 hours,Uplatz,4
+C# Programming Crash Course,£10,9.7 hours ,Stone River eLearning,4
 C# Basics for Beginners: Introduction to Programming with C#,£10,1.8 hours ,Victor Gorinov,1
-SQL : SQL Programming,£10,625 hours ,Janets,5
-Advanced C++ Programming,£10,3 hours   ,Guardian Academy,5
-Advanced SAS programming ,£10,4 hours   ,Amaar School,0
+SQL : SQL Programming,£10,625 hours ,Janets,4
+Advanced C++ Programming,£10,3 hours   ,Guardian Academy,3
+Advanced SAS programming ,£10,4 hours   ,Amaar School,5
 VR Programming Tutorial ,£10,2 hours   ,Amaar School,0
-Dart Masterclass Programming Course,£10,4 hours   ,Guardian Academy,4
-SQL- The Complete Introduction to SQL programming,£12,3.4 hours ,Yassin Marco,5
-Neuro-Linguistic Programming,£35,10 hours  ,Ed-Next (Consult +),4
+Dart Masterclass Programming Course,£10,4 hours   ,Guardian Academy,2
+SQL- The Complete Introduction to SQL programming,£12,3.4 hours ,Yassin Marco,1
+Neuro-Linguistic Programming,£35,10 hours  ,Ed-Next (Consult +),1
 Python Programming for Beginners,£250,10 hours ·,London Academy of IT,0
-Functional Programming In JavaScript,£29,          ,Skill Success,5
+Functional Programming In JavaScript,£29,          ,Skill Success,1
 Java AWT Programming,£10,2 hours   ,Guardian Academy,3
-Java Programming Language,£10,4 hours   ,Guardian Academy,0
+Java Programming Language,£10,4 hours   ,Guardian Academy,4
+Learn Python Programming from A-Z,Free,15.6 hours,Frontier Education,4
 Embedded Systems and MATLAB Programming Certification Training,£11,28.2 hours,Uplatz,1
-Computer Science and Programming,£18,325 hours ,Janets,2
-Learn Python Programming from A-Z,Free,15.6 hours,Frontier Education,2
-R Programming Comprehensive Training Course,£369,22 hours  ,EduCBA,0
-C++ Programming Online Course,£99,          ,EduCBA,5
-Computer Programming and Python,£16,15 hours  ,Academy for Health & Fitness,5
-Statistics - Programming in R,£600 - £833,2 days · F,Royal Statistical Society,5
+Computer Science and Programming,£18,325 hours ,Janets,0
+R Programming Comprehensive Training Course,£369,22 hours  ,EduCBA,2
+C++ Programming Online Course,£99,          ,EduCBA,4
+Computer Programming and Python,£16,15 hours  ,Academy for Health & Fitness,2
+Statistics - Programming in R,£600 - £833,2 days · F,Royal Statistical Society,0
 Haskell Programming online Training Course,£149,7 hours   ,EduCBA,1
-Ruby Programming Fundamentals  ,£37,6 hours   ,Study365,1
-Python Programming - Comprehensive Training,£99,          ,EduCBA,4
-Python Programming Online Courses,£99,          ,EduCBA,1
-Programming for Data Science,"£1,150",3 months  ,Udacity,3
- Introduction To Ruby Programming,£29,          ,Skill Success,3
-AutoCAD VBA Programming,£10,4 hours   ,Janets,3
-C Programming Online Course,£99,          ,EduCBA,1
-IT: C Programming For Beginners,£49.99,8.7 hours ,Dark Neon,1
-Python Programming for Beginners,£27.95,2 hours   ,e-courses4you,0
-SQL : SQL Programming,£119,697 hours ,Janets,0
-C Programming 101,£25,21 hours  ,Ed-Next (Consult +),3
-Python Programming for Beginners,£299,4 hours   ,Stone River eLearning,1
-Java Programming Fundamentals,£37,5 hours   ,Study365,5
-Haskell Programming Online Training,£99,7 hours   ,EduCBA,1
-Introduction to Programming Nanodegree,"£1,192",4 months  ,Udacity,2
-SQL Programming with MySQL Database Certification Training,£11,8 hours   ,Uplatz,4
-Computer Programming Diploma,£19,7 hours   ,One Education,0
-Python Programming : Beginner,£39,4 hours   ,Study365,4
-AutoCAD VBA Programming,£10,4 hours   ,One Education,4
+Ruby Programming Fundamentals  ,£37,6 hours   ,Study365,2
+Python Programming - Comprehensive Training,£99,          ,EduCBA,1
+Python Programming Online Courses,£99,          ,EduCBA,3
+Programming for Data Science,"£1,150",3 months  ,Udacity,4
+ Introduction To Ruby Programming,£29,          ,Skill Success,2
+AutoCAD VBA Programming,£10,4 hours   ,Janets,1
+C Programming Online Course,£99,          ,EduCBA,2
+IT: C Programming For Beginners,£49.99,8.7 hours ,Dark Neon,2
+Python Programming for Beginners,£27.95,2 hours   ,e-courses4you,1
+SQL : SQL Programming,£119,697 hours ,Janets,2
+C Programming 101,£25,21 hours  ,Ed-Next (Consult +),5
+Python Programming for Beginners,£299,4 hours   ,Stone River eLearning,3
+Java Programming Fundamentals,£37,5 hours   ,Study365,3
+Haskell Programming Online Training,£99,7 hours   ,EduCBA,3
+Introduction to Programming Nanodegree,"£1,192",4 months  ,Udacity,4
+SQL Programming with MySQL Database Certification Training,£11,8 hours   ,Uplatz,3
+Computer Programming Diploma,£19,7 hours   ,One Education,4
+Python Programming : Beginner,£39,4 hours   ,Study365,1
+AutoCAD VBA Programming,£10,4 hours   ,One Education,3
 Online Courses To Learn Go programming Language- Golang Programming,£99,          ,EduCBA,4
-Advanced Python Programming with NumPy Certification Training,£10,24.5 hours,Uplatz,2
+Advanced Python Programming with NumPy Certification Training,£10,24.5 hours,Uplatz,1
 Statistics - Programming with SAS,£10,12 hours  ,One Education,4
-Java programming online training course,£149,1 hour    ,Online Courses Learning,3
-Ruby Programming For Everyone,£29,          ,Skill Success,0
-Python 3 Programming,£10,17 hours  ,One Education,5
-Python Programming for Beginners,£99,3 hours   ,eTrain,3
-Bundle Course - Programming Languages,£15,250 hours ,Uplatz,4
-C++ Programming for Beginners,£10,3 hours   ,Course Cloud,3
-Python : Python Programming,£10,6 hours   ,Course Cloud,1
+Java programming online training course,£149,1 hour    ,Online Courses Learning,1
+Ruby Programming For Everyone,£29,          ,Skill Success,5
+Python 3 Programming,£10,17 hours  ,One Education,0
+Python Programming for Beginners,£99,3 hours   ,eTrain,1
+Bundle Course - Programming Languages,£15,250 hours ,Uplatz,5
+C++ Programming for Beginners,£10,3 hours   ,Course Cloud,5
+Python : Python Programming,£10,6 hours   ,Course Cloud,3
+Coding (Computer Programming),£89,87 hours  ,Skill Up,2
+Learning spark programming,£99,          ,EduCBA,3
+Scratch Programming - Basic to Expert,£20,7.2 hours ,Abdullah Shabbir,1
+Swift Programming for Beginners  ,£39,4 hours   ,Study365,4
+Fundamentals of Java Programming,£299,4 hours   ,Stone River eLearning,0
+Java Programming Fundamentals Certification Training,£11,22.9 hours,Uplatz,1
+PLC Programming Diploma,£32,24 hours  ,StudyHub,5
+Complete Java Programming,£99,          ,EduCBA,4
+AutoCAD Programming - VB.NET,£10,12 hours  ,One Education,1
+Swift Programming for Beginners + The Rust Programming Language,£39,9 hours   ,Next Learn Academy,3
+Julia Programming Language,£37,3 hours   ,Study365,3
+Mastering SQL Programming,£10,11 hours  ,One Education,5
+PHP Programming For Everyone,£29,          ,Skill Success,0
+JavaScript Programming For Everyone,£29,          ,Skill Success,5
+Shell Programming on Cygwin,£99,4 hours   ,EduCBA,2
+Drum Programming Masterclass Part Three: Advanced Programming,£29,          ,Skill Success,2
+C Programming Online Training Course,£99,8 hours   ,EduCBA,3
+Microsoft Programming Training Bundle,£495,          ,My Training Academy,5
+Python Web Programming,£12,6 hours   ,Next Learn Academy,4
+Ruby Programming Fundamentals,£12,6 hours   ,Next Learn Academy,1
+The Rust Programming Language,£12,5 hours   ,Next Learn Academy,5
+Android Programming for Beginners,£21.84,18 hours  ,Simpliv LLC,3
+C# Programming Crash Course ,£39,9 hours   ,Study365,1
+Python Programming For Everyone,£29,          ,Skill Success,1
+Scala Programming Language,£299,5 hours   ,Stone River eLearning,0
+Java programming online training course,£99,20 hours  ,Online Courses For Job,2
+PHP Programming Diploma,£17,16 hours  ,Janets,5
+C++ Programming For Beginners,£29,          ,Skill Success,2
+C++ Programming Fundamentals,£99,4 hours   ,eTrain,0
+Python Programming for Beginners,£29,1 year    ,Blue Mountain,1
+C# Programming Crash Course,£12,9 hours   ,Next Learn Academy,0
+Scala Programming Language,£37,10 hours  ,Study365,0
+Coding (Computer Programming),£100,112 hours ,Course Cloud,0
+Complete Java Programming,£10,4 hours   ,Course Cloud,2
+The Rust Programming Language,£37,10 hours  ,Study365,4
+Python Web Programming,£299,6 hours   ,Stone River eLearning,5
+Python Web Programming,£99,6 hours   ,eTrain,0
+Introduction to PHP Programming,£18,5 hours   ,Ed-Next (Consult +),2
+Python Programming for Beginners,£12,4 hours   ,Next Learn Academy,2
+Scala Programming Language,£12,5 hours   ,Next Learn Academy,4
+Level-4 Julia Programming Course,£13,4 hours   ,Course Cloud,3
+PHP Programming Bundle,£25.25,15 hours  ,Simpliv LLC,0
+Ruby Programming Online Training,£99,12 hours  ,EduCBA,0
+Complete Programming Bundle,£149,70 hours  ,Online Courses Learning,3
+Advanced AutoLISP Programming,£13,7 hours   ,Course Cloud,4
+The Rust Programming Language,£99,5 hours   ,eTrain,5
+C Programming For Beginners,£29,          ,Skill Success,1
+The Rust Programming Language,£299,5 hours   ,Stone River eLearning,4
+SAS Programming Tutorial: Complete SAS Programming Language Course,£29,          ,Skill Success,4
+Computer Programming Diploma Level 3 with PHP Programming Diploma,£27,39 hours  ,Janets,4
+Swift Programming for Beginners,£29,1 year    ,Blue Mountain,5
+Perl Programming for Beginners,£12,8 hours   ,Next Learn Academy,1
+Swift Programming for Beginners,£12,4 hours   ,Next Learn Academy,3
+Swift Programming for Beginners,£30,1 year    ,e-Careers.Lifestyle,4
+IT : R Programming Course,£10,29 hours  ,Course Central,1
+The Complete Programming Diploma,£49,          ,Be-a.co.uk,5
+Coding (Computer Programming),£150,615 hours ,Imperial Academy,4
+Java Programming Online Course,£59,          ,Learning 247,1
+Scala Programming Language,£99,5 hours   ,eTrain,3
+Ruby Programming Fundamentals,£299,6 hours   ,Stone River eLearning,5
+SAS DS2 Programming,£99,          ,EduCBA,2
+Fundamentals of Java Programming,£99,4 hours   ,eTrain,2
+Microsoft Programming Training Course Bundle,£149.99,12 months ,Study247,3
+Python 3 Programming,£99,30 hours  ,ITonlinelearning,0
+Swift Programming Tutorial,£99,7 hours   ,EduCBA,0
+Javascript & Python Programming,£200,365 hours ,Thames College,5
+Linux and Shell Programming Certification Training,£11,24.1 hours,Uplatz,0
+Ruby Programming Fundamentals,£99,6 hours   ,eTrain,2
+Julia Programming Language,£12,3 hours   ,Next Learn Academy,2
+Level-4 Java Programming Course,£13,9 hours   ,Course Cloud,4
+Javascript Coding (Computer Programming),£10,2 hours   ,One Education,4
+IT : Online R Programming Course | Mastering R Programming,£119.90,5 hours   ,Simpliv LLC,2
+Neuro Linguistic Programming ,£10,200 hours ,CPD Courses,3
+Scheme Programming Online Training,£99,12 hours  ,EduCBA,3
+C++ Programming Fundamentals,£14,3 hours   ,Next Learn Academy,0
+Coding (Computer Programming),£79,102 hours ,Apex Learning,5
+C Programming Language: Learn Programming Techniques,£29,          ,Skill Success,2
+Practical Projects of Python Programming,£71,4 hours   ,Ed-Next (Consult +),0
+C Programming 101,£99,          ,EduCBA,0
+HTML Programming For Everyone,£29,          ,Skill Success,2
+Python Programming: Beginner To Expert,£15,15 hours  ,Janets,0
+Perl Programming for Beginners,£99,8 hours   ,eTrain,2
+Perl Programming for Beginners,£299,8 hours   ,Stone River eLearning,4
+Introduction to R Programming,£99,5 hours   ,eTrain,0
+Intermediate C++ Programming,£99,5 hours   ,eTrain,5
+Online Programming with C# course,£708,2 days · F,Impartica IT Training,1
+Erlang Programming for Beginners,£299,3 hours   ,Stone River eLearning,0
+Neuro-Linguistic Programming,£99,          ,EduCBA,3
+SAS Advanced Programming,£99,          ,EduCBA,3
+Ruby Programming Fundamentals,£99,20 hours  ,Online Courses For Job,4
+Advanced PHP Programming  ,£29,6 hours   ,Stream Skill,0
+Blockchain Coding (Computer Programming),£10,370 hours ,One Education,1
+Neuro-Linguistic Programming,£99,8 hours   ,EduCBA,2
+Learn Python GUI Programming Using PyQt5 | GUI Python 2021,£10,7.9 hours ,Oak Academy,5
+Intro to Ruby Programming,£29,21 hours  ,GoSkills,3
+PHP Programming Bundle ,£21.64,30 hours  ,Simpliv LLC,2
+Technical Programming for Marketers Course ,£14,6 hours   ,Excel with Business,4
+Learn C++ Programming from Beginning to OOP,£19,13 hours  ,Sandeep Thakur,4
+"Python Programming: Machine Learning, Deep Learning | Python",£10,11 hours  ,Oak Academy,4
+SQL Programming Bundle ,£79,12 months ,Simply Cert,4
+SQL Programming Bundle,£99,12 months ,Career Match Training Ltd,0
+C# Programming Crash Course,£99,9 hours   ,eTrain,4
+ PHP Programming for Beginners ,£29,6 hours   ,Stream Skill,2
+Java AWT Programming Project,£10,2 hours   ,EduOlc Team,5
+Blockchain Coding (Computer Programming),£10,4 hours   ,Institute of Mental Health,2
+Data Science with R Programming,£10,          ,Lead Academy,3
+Neuro-linguistic Programming (NLP),£10,8 hours   ,Course Central,4
+x86 Assembly Language Programming Masters Course ,£49.99,3.5 hours ,Dragon Zap,0
+R Programming for Data Science,£15,7 hours   ,Janets,2
+C# Programming (Module #1) – Intermediate Training,£99,5 hours   ,EduCBA,4
+ASP.NET MVC Programming,"£1,800",5 days · F,Verhoef Training Ltd,4
+ASP.NET MVC Programming,"£1,800",5 days · F,Verhoef Training Ltd,2
+Advanced SAS Programming With MacrosSQL,£10,4 hours   ,Course Cloud,4
+C# For Beginners: Learn C# Programming From Scratch,£18,3.2 hours ,Oak Academy,5
+C# OOP: C# Object Oriented Programming on Real C# Projects,£20,7.2 hours ,Oak Academy,4
+The Ultimate Python Programming - Novice to Ninja,£71,29 hours  ,Ed-Next (Consult +),2
+Neuro Linguistic Programming (NLP),£10,2 hours   ,Janets,5
+IT : Development | Learn Programming Fundamentals,£10,1 hour    ,Simpliv LLC,2
+IT: Online Python Programming Course | Object Oriented Programming With Python,£10,2 hours   ,Simpliv LLC,1
+Apple Watch programming for Beginners,£10,2 hours   ,Janets,4
+A-Frame Web VR Programming,£10,1 hour    ,Janets,5
+C# Programming (Module #1) – Intermediate,£99,5 hours   ,EduCBA,5
+IT : Python | Learn Python Programming,£16.34,4 hours   ,Simpliv LLC,2
+IT : JavaScript | Computer Programming for Beginners,£10,          ,Simpliv LLC,3
+IT : Python | Introduction To Programming With Python,£40.99,3 hours   ,Simpliv LLC,4
+Bash Scripting and Shell Programming (Linux Command Line),£11.99,4 hours   ,Linux Training Academy / Jason Cannon,0
+Dart Masterclass Programming Course: iOS/Android Bible,£59.99,4.2 hours ,Sonar Systems,2
+Python Programming Master Bundle,£95,          ,Learning 247,4
+Ultimate Neuro Linguistic Programming,£10,          ,Lead Academy,5
+Three.js & WebGL 3D Programming Crash Course,£10,2 hours   ,Guardian Academy,5
+Golang - Google's Go Programming,£71,9 hours   ,Ed-Next (Consult +),2
+Kotlin Masterclass Programming Course: Android Coding Bible,£59.99,5.7 hours ,Sonar Systems,0
+IT : Coding | CUDA Programming Fundamentals,£119.90,2 hours   ,Simpliv LLC,2
+Apple Watch programming for Beginners,£10,2 hours   ,One Education,1
+Bash Scripting and Shell Programming,£10,2 hours   ,One Education,4
+Three.js & WebGL 3D Programming Crash Course,£10,2 hours   ,One Education,2
+"Assembly Programming For All Platforms, Learn To Code",£59.99,2.1 hours ,Sonar Systems,2
+IT : Python | Reactive Programming In Python,£119.90,4 hours   ,Simpliv LLC,0
+Computer Science Programming Languages Course Bundle,£46.95,56 hours  ,e-courses4you,1
+JavaScript YouTube Application Programming Interface Course,£29,          ,Skill Success,5
+Build a Login System + Programming Fundamentals (PHP Object Oriented Programming),£39,7 hours   ,Next Learn Academy,3
+Java programming – intermediate & advanced online training course,£149,5 hours   ,Online Courses Learning,1
+Assembly Programming For All Platforms ,£10,2 hours   ,One Education,1
+A-Frame Web VR Programming,£10,1 hour    ,One Education,5
+Scala Programming Masterclass Online Training,£99,2 hours   ,EduCBA,5
+R Programming Comprehensive Online Training Bundle Course,£369,22 hours  ,EduCBA,0
+The Ultimate Python Programming - Novice to Ninja,£99,          ,EduCBA,5
+Python Programming - Novice to Ninja Online Course ,£99,          ,EduCBA,0
+150+ Exercises - Object Oriented Programming in Python - OOP,£19.99,5.1 hours ,e-smartdata,0
+C# Programming (Module #1) - Intermediate,£35,7 hours   ,Ed-Next (Consult +),0
+IT: Python GUI Programming Solutions,£80.72,6 hours   ,Simpliv LLC,5
+Python Programming for Beginners Online Training Course,£29,          ,Learning 247,2
+Mastering Complete C++ Programming,£10,3 hours   ,Guardian Academy,2
+Python Network Programming Complete Masterclass,£10,15 hours  ,Guardian Academy,5
+Assembly Programming For All Platforms,£10,2 hours   ,Guardian Academy,2
+IT: Python Programming | Python Programming for Absolute Beginners: Quickly learn python,£10,          ,Simpliv LLC,4
+IT : Online Java Programming Course | Learning Java 9 - Functional Programming,£119.90,          ,Simpliv LLC,4
+"Bash Scripting, Linux and Shell Programming Complete Guide",£59.99,3 hours   ,Sonar Systems,5
+Python Network Programming Masterclass,£10,15 hours  ,Amaar School,2
+IT : C++ Programming By Example,£119.90,6 hours   ,Simpliv LLC,0
+Java Programming: Learn the Basics,£29,          ,Skill Success,2
+Ubuntu:11 - Using Programming Languages,£71,1 hour    ,Ed-Next (Consult +),1
+Ubuntu:12 - Programming Tools,£71,2 hours   ,Ed-Next (Consult +),4
+Java Programming – Intermediate & Advanced Online Training Course,£29,          ,Learning 247,0
+C++ programming fundamentals online training course,£149,7 hours   ,Online Courses Learning,1
+Python web programming online training course,£149,1 hour    ,Online Courses Learning,4
+Python programming master bundle,£149,1 hour    ,Online Courses Learning,2
+Ruby programming introduction online training course,£149,1 hour    ,Online Courses Learning,3
+AutoCAD to Excel – VBA Programming Hands-On!,£15,2 hours   ,Janets,1
+Rust Programming Language Online Training Course,£29,          ,Learning 247,5
+Scala Programming Language Online Training Course,£29,          ,Learning 247,0
+R Programming Comprehensive Bundle Course,£99,22 hours  ,EduCBA,1
+Programming for Data Science with R Syllabus,"£1,150",3 months  ,Udacity,5
+Maths : Linear Programming For Data Science,£10,5 hours   ,Simpliv LLC,0
+R Programming Comprehensive Bundle,£71,23 hours  ,Ed-Next (Consult +),5
+Core Java Programming for Beginners,£99,9 hours   ,EduCBA,1
+Core Java Programming Revisited Online Training Course,£99,9 hours   ,EduCBA,0
+The Ultimate Python Programming – Novice to Ninja Training Course,£99,2 hours   ,EduCBA,2
+Statistics - Advanced Programming in R,£600 - £833,2 days · F,Royal Statistical Society,1
+SQL Programming at QLS Level 7,£22,625 hours ,Janets,3
+HMI Panelview 800 Configuring and Programming,£10,3 hours   ,One Education,2
+R Programming Comprehensive Bundle,£99,          ,EduCBA,1
+C Programming Comprehensive Training Bundle Course,£99,21 hours  ,EduCBA,5
+Java AWT Programming Project,£10,2 hours   ,Course Cloud,4
+C Programming - Learn from Scratch + C# Programming Crash Course,£39,14 hours  ,Next Learn Academy,0
+SQL Programming at QLS Level 7,£101,625 hours ,Janets,0
+C Programming Comprehensive Training Bundle,£99,          ,EduCBA,5
+Scheme Programming Series  The Fundamentals Online Training Course,£99,          ,EduCBA,3
+Ruby Programming:01 – The Concepts Training,£99,1 hour    ,EduCBA,1
+Ubuntu:12 – Programming Tools Online Training Course,£99,1 hour    ,EduCBA,1
+A to Z SQL Programming,£18,22 hours  ,Janets,4
+Google Go Programming for Beginners ,£39,4 hours   ,Study365,1
+Learn Pascal Programming from Scratch  ,£39,9 hours   ,Study365,2
+R Programming Comprehensive Bundle,£99,          ,EduCBA,0
+WebGL Programming And Graphics Rendering For The Web,£29,          ,Skill Success,5
+Programming in Swift 4 for iOS Development,£99,2 hours   ,EduCBA,3
+C# programming crash course online training,£149,9 hours   ,Online Courses Learning,2
+Java programming fundamentals online training course,£149,5 hours   ,Online Courses Learning,4
+Python programming for beginners online training course,£149,1 hour    ,Online Courses Learning,3
+HTML Fundamentals + Java Programming Fundamentals ,£12,9 hours   ,Next Learn Academy,1
+Ubuntu:11 – Using Programming Languages,£99,          ,EduCBA,2
+Neuro-Linguistic Programming (NPL),£13,1 hour    ,Course Cloud,1
+Julia Programming Language Online Training Course,£29,          ,Learning 247,4
+C Programming Comprehensive Online Training ,£99,21 hours  ,EduCBA,2
+IT : Programming in C - The Complete Course,£10,9 hours   ,Simpliv LLC,2
+Python Programming for Non Programmers,£10,6 hours   ,One Education,5
+Clinical Data Management with SAS Programming,£10,2 hours   ,One Education,3
+C# Programming (Module #2) – Beyond Intermediate,£99,5 hours   ,EduCBA,5
+Computer Science Programming Languages 2020,£34.95,60 hours  ,e-courses4you,2
+Learn Java Programming From Scratch,£25,1 year    ,e-Careers.Lifestyle,4
+R Programming Comprehensive Training Bundle,£99,22 hours  ,EduCBA,4
+PLC Programming Using Logixpro Simulator,£14,7 hours   ,One Education,3
+AutoCAD to Microsoft Excel - VBA Programming,£10,2 hours   ,One Education,4
+AutoCAD Programming with VB.NET & Windows Forms,£10,10 hours  ,One Education,1
+Statistics - SAS Programming Using MacrosSQL,£10,4 hours   ,One Education,0
+Java Coding (Computer Programming),£10,370 hours ,One Education,3
+130+ Exercises - Python Programming - Data Science - Pandas,£19.99,4.5 hours ,e-smartdata,3
+Programming AutoCAD to Excel using VB.NET,£10,10 hours  ,One Education,2
+Ruby Programming:01 – The Concepts,£99,1 hour    ,EduCBA,0
+C++ Programming – From Beginners to Beyond Training Course,£99,14 hours  ,EduCBA,4
+Introduction to Programming Using Python,£119,10 hours  ,eTrain,5
+Introduction to Programming Using Python,£119,10 hours  ,eTrain,0
+PHP Programming Online Training Bundle,£95,200 hours ,Learning 247,4
+SharePoint:05 – Tasks and Programming Lists,£99,3 hours   ,EduCBA,5
+REBT - The Science Of Programming Your Mind!,£12.99,1.4 hours ,Advanced Ideas,1
+C Programming & Data Structures,£89,          ,Edureka,4
+Neuro-linguistic Programming (NLP),£119,375 hours ,One Education,5
+Python Web Programming Online Training Course,£29,          ,Learning 247,1
+Database Support & Network Programming,£99,          ,EduCBA,0
+NLP - Neuro Linguistic Programming,£21,22 hours  ,Course Central,2
+NLP - Neuro Linguistic Programming,£29,36 hours  ,Course Central,2
+"Bash Scripting, Linux and Shell Programming",£10,3 hours   ,One Education,5
+Elixir And Phoenix: Functional Programming,£29,          ,Skill Success,0
+C# (C Sharp) Programming Online Course,£25.25,10 hours  ,Simpliv LLC,3
+C# (C Sharp) Programming Online Course,£50.50,27 hours  ,Simpliv LLC,2
+Python Programming at QLS Level 7,£100,600 hours ,One Education,5
+C# Programming (Module #2) – Beyond Intermediate Training Course,£99,5 hours   ,EduCBA,0
+C# (C-Sharp) Coding (Computer Programming),£10,5 hours   ,Institute of Mental Health,0
+IT: Python Programming & Data Handling - Simpliv,£34.49,4 hours   ,Simpliv LLC,5
+WebGL 2D/3D Programming and Graphics Rendering For The Web,£59.99,4.1 hours ,Sonar Systems,4
+Java Programming: Learn Core Java and Improve Java Skills,£18,8.1 hours ,Oak Academy,5
+100+ Exercises - Python Programming - Data Science - NumPy,£19.99,3.5 hours ,e-smartdata,0
+Java Programming Fundamentals Online Training Course,£29,          ,Learning 247,4
+C++ Programming – From Beginners to Beyond,£99,          ,EduCBA,5
+Julia programming language online training course,£149,1 hour    ,Online Courses Learning,5
+Rust programming language online training course,£149,1 hour    ,Online Courses Learning,1
+Scala programming language online training course,£149,1 hour    ,Online Courses Learning,0
+IT : Python Programming - Basic To Advanced,£10,          ,Simpliv LLC,5
+Intermediate and Advanced Java Programming Training,£24,          ,Blue Mountain,5
+Intermediate and Advanced Java Programming,£30,1 year    ,e-Careers.Lifestyle,3
+NLP - Neuro Linguistic Programming,£10,2 hours   ,Course Central,3
+IT Administrator : Computer Science and Programming,£20,41 days   ,Janets,3
+Secure Programming of Web Applications,£13,1 hour    ,Course Cloud,4
+SharePoint:05 – Tasks and Programming Lists Training Course,£99,3 hours   ,EduCBA,2
+C# (C Sharp) Programming Online Course,£21.64,7 hours   ,Simpliv LLC,4
+Bundle Multi (4-in-1) - Python Programming,£15,120 hours ,Uplatz,4
+C Programming Comprehensive Training Bundle,£71,29 hours  ,Ed-Next (Consult +),1
+Ruby Programming:03 - Operators and Exceptions,£99,          ,EduCBA,0
+Ubuntu:12 – Programming Tools,£99,1 hour    ,EduCBA,0
+IT : Coding | Data Programming With F#,£119.90,          ,Simpliv LLC,3
+Complete Java Programming Online Course ,£99,          ,EduCBA,2
+Google Go Programming for Beginners,£22,4 hours   ,Next Learn Academy,5
+Perl Programming for Beginners Online Training Course,£29,          ,Learning 247,4
+PHP Object Oriented Programming Fundamentals,£37,5 hours   ,Study365,2
+C# Programming (Module #3) – Advanced Optimization Techniques Training Course,£99,          ,EduCBA,0
+Neuro Linguistic Programming (NLP),£12,2 hours   ,Skill Express,2
+Basic Apple Watch programming,£13,2 hours   ,Course Cloud,0
+C Programming Comprehensive Online Training Bundle,£99,21 hours  ,EduCBA,1
+Programming AutoCAD to Excel using VB.NET,£129,485 hours ,One Education,4
+Programming Certification Level 1,£99,20 hours  ,Online Courses For Job,3
+Programming Certification Level 1,£149,25 hours  ,Online Courses Learning,0
+Ruby Programming Introduction Online Training Course,£29,          ,Learning 247,4
+C Programming Comprehensive Training Bundle ,£269,21 hours  ,EduCBA,1
+Ruby Programming:02 – Variables and Arrays,£99,1 hour    ,EduCBA,4
+"C++, PHP and Python Programming Diploma",£35,30 hours  ,Janets,2
+Ruby Programming:02 - Variables and Arrays,£10,          ,EduCBA,0
+SharePoint:05 - Tasks and Programming Lists,£99,          ,EduCBA,3
+Variables and Arrays - Ruby Programming training ,£99,1 hour    ,EduCBA,3
+Learning spark programming online Training,£99,6 hours   ,EduCBA,1
+IT : Coding | Introduction To Kotlin Programming,£80.72,4 hours   ,Simpliv LLC,0
+C# Programming (Module #2) - Beyond Intermediate,£35,6 hours   ,Ed-Next (Consult +),3
+200+ Exercises - Programming in Python - from A to Z,£10,6.9 hours ,e-smartdata,4
+Perl programming for beginners online training course,£149,7 hours   ,Online Courses Learning,2
+Swift programming for beginners online training course,£149,4 hours   ,Online Courses Learning,2
+Neuro-Linguistic Programming Certification,£149,3 hours   ,Online Courses Learning,4
+Three.js & WebGL 3D Programming Course for Beginners,£13,1 hour    ,Course Cloud,1
+Neuro-Linguistic Programming Training Online,£99,8 hours   ,EduCBA,5
+Python Object Oriented Programming Fundamentals,£12,4 hours   ,Next Learn Academy,4
+Handling Arrays in C Programming,£17,2 hours   ,Ed-Next (Consult +),1
+Swift Programming for Beginners Online Training Course,£29,          ,Learning 247,5
+C++ Programming Fundamentals Online Training Course,£29,          ,Learning 247,5
+Java programming – intermediate & advanced online training course,£99,20 hours  ,Online Courses For Job,5
+Java programming fundamentals online training course,£99,20 hours  ,Online Courses For Job,5
+Python for Beginners: Learn Python Programming (Python 3),£11.99,3.8 hours ,Linux Training Academy / Jason Cannon,3
+Google Go Programming for Beginners (Golang),£299,4 hours   ,Stone River eLearning,3
+Python Programming : Beginner to Advanced,£19,16 hours  ,Course Central,2
+AutoCAD Programming Using C#.NET,£10,17 hours  ,One Education,3
+C# Programming (Module #3) – Advanced Optimization Techniques,£10,          ,EduCBA,1
+Introduction to Neuro Linguistic Programming,£24,4 hours   ,Churchill Square Training and Development,1
+IT : JavaScript | Reactive JavaScript Programming,£119.90,3 hours   ,Simpliv LLC,5
+Intermediate & Advanced Java Programming,£299,5 hours   ,Stone River eLearning,3
+SharePoint:05 - Tasks and Programming Lists,£99,          ,EduCBA,1
+SharePoint : Tasks and Programming Lists,£10,          ,EduCBA,0
+Scheme Programming Series (Module #2),£99,3 hours   ,EduCBA,0
+R Programming online tutor-led training,£425,30 hours ·,Uplatz,4
+Secure Programming of Web Applications,£53,49 hours  ,Apex Learning,1
+C Programming - Learn from Scratch,£12,5 hours   ,Next Learn Academy,1
+Google Go Programming for Beginners (Golang),£14,4 hours   ,Next Learn Academy,5
+Intermediate iOS 9 Programming ,£21.95,6 hours   ,e-courses4you,5
+C Programming - Learn from Scratch,£39,5 hours   ,Study365,4
+R Programming for Data Science Training Online,£99,6 hours   ,EduCBA,0
+Google Go Programming for Beginners (Golang),£99,4 hours   ,eTrain,5
+Python Object Oriented Programming,£99,4 hours   ,eTrain,4
+Python Object Oriented Programming Fundamentals,£299,4 hours   ,Stone River eLearning,2
+R Programming online tutor-led training,£425,40 hours ·,Uplatz,0
+C# (C Sharp) Programming Online Course,£21.64,10 hours  ,Simpliv LLC,2
+Neuro Linguistic Programming Diploma,£22,6 months  ,Elearn College,3
+Ruby Programming Bundle for Beginners,£36.95,13 hours  ,e-courses4you,0
+AutoCAD Programming Using C#.NET,£32,22 hours  ,StudyHub,0
+Shell Programming on Cygwin Online Training Course,£99,4 hours   ,EduCBA,4
+Certificate in Introduction to C# Programming Online Course,£299,          ,Courses for Success,1
+Python Programming & Ethical Hacking,£20,28 hours  ,Skill Up,0
+C# Programming (Module #3) - Advanced Optimization Techniques,£18,1 hour    ,Ed-Next (Consult +),1
+Java Programming - Intermediate & Advanced,£12,5 hours   ,Next Learn Academy,1
+C# Programming Crash Course Online Training,£29,          ,Learning 247,5
+Bash Scripting and Shell Programming Masterclass,£13,2 hours   ,Course Cloud,1
+Practical Projects of Python Programming,£99,3 hours   ,EduCBA,1
+C# (C Sharp) Programming Online Course,£25.25,14 hours  ,Simpliv LLC,2
+IT : C++ | C Programming Language for Beginners,£10,4 hours   ,Simpliv LLC,2
+SQL :  SQL Programming SQL Masterclass,£13,11 hours  ,Course Cloud,5
+R Programming for Data Science,£10,29 hours  ,Course Central,4
+R Programming for Data Science,£10,29 hours  ,Course Central,5
+Data Science with R Programming,£10,29 hours  ,Course Central,1
+Data Science : R Programming,£10,29 hours  ,Course Central,3
+IT : Development | Introduction to Programming,£10,13 hours  ,Simpliv LLC,4
+Python Programming & Ethical Hacking,£19,28 hours  ,Course Central,0
+Python Programming - Beginner to Expert,£10,          ,Lead Academy,5
+Master Angular 8 Programming,£10,2.6 hours ,EduOlc Team,5
+IT : JAVA GUI Programming With Swing,£10,2 hours   ,Simpliv LLC,2
+Python Programming Beginner to Expert Course,£13,15 hours  ,Course Cloud,3
+JavaScript Objects and OOP Programming with JavaScript,£10,2 hours   ,Stone River eLearning,1
+Ruby programming fundamentals online training,£149,1 hour    ,Online Courses Learning,2
+Ruby programming intermediate online training,£149,1 hour    ,Online Courses Learning,3
+SWIFT Programming Step by Step,£99,6 hours   ,EduCBA,5
+C# C Sharp Programming Course,£99,8 hours   ,EduCBA,3
+XHTML Server Side Programming with PHP Training Course,£99,3 hours   ,EduCBA,2
+AI Programming with Python Nanodegree,£894,3 months  ,Udacity,4
+IT : Development | Fatek PLC Programming Basic Course In English,£10,2 hours   ,Simpliv LLC,1
+Online Intermediate C# Programming course,£708,2 days · F,Impartica IT Training,4
+The Ultimate Python Programming Fundamental Course,£21.95,5 hours   ,e-courses4you,5
+Web Programming eLearning course bundle,£495,12 months ,CMIT Learning,3
+MATLAB Programming for Chemical Engineering,"£4,560",5 days    ,London Training For Excellence,3
+Intermediate & Advanced Java Programming,£149,4 hours   ,eTrain,0
+Neuro-Linguistic Programming Certification,£99,3 hours   ,Online Courses For Job,1
+Python Programming - For Non Programmers,£10,6 hours   ,Skill Up,1
+SAS DS2 Programming Online Training,£99,5 hours   ,EduCBA,1
+Three.js And WebGL 3D Programming Crash Course,£29,          ,Skill Success,5
+Neuro-Linguistic Programming (NLP) Diploma,£431,160 hours ,NCC Home Learning,1
+PHP Object Oriented Programming Fundamentals,£12,5 hours   ,Next Learn Academy,4
+Python Programming: From Beginner to Intermediate,£12,11 hours  ,Next Learn Academy,1
+WebGL 2D/3D Programming and Graphics Rendering,£13,4 hours   ,Course Cloud,3
+Dart Programming: iOS/Android Bible,£13,4 hours   ,Course Cloud,5
+C# C Sharp Programming Online Course ,£99,8 hours   ,EduCBA,2
+C# (C Sharp) Programming Online Course,£36.07,11 hours  ,Simpliv LLC,4
+SQL Programming Complete Bundle,£53,8 hours   ,Apex Learning,2
+Intermediate iOS 9 Programming,£99,6 hours   ,eTrain,0
+Learn Pascal Programming from Scratch,£12,9 hours   ,Next Learn Academy,2
+IT : Java | Hands-On JAVA Object Oriented Programming,£10,1 hour    ,Simpliv LLC,0
+IT : Start a Programming Career Military Style,£12.31,2 hours   ,Simpliv LLC,5
+Learn Pascal Programming from Scratch,£299,9 hours   ,Stone River eLearning,4
+Intermediate iOS 9 Programming,£299,6 hours   ,Stone River eLearning,4
+Python Programming Beginner to Advanced,£19,16 hours  ,Study365,3
+Python 3 Programming Complete Course,£15,10 hours  ,Edplx,4
+"Coding, Programming & Publishing Bundle by Total Training",£432,1 year    ,Ed-Next (Consult +),4
+Learn C Programming from Scratch,£299,5 hours   ,Stone River eLearning,1
+SWIFT Programming Step by Step Online Training Course,£99,6 hours   ,EduCBA,4
+Certificate in Introduction to Java Programming Online Course,£299,          ,Courses for Success,5
+HP QTP/UFT Descriptive Programming,£99,3 hours   ,EduCBA,0
+Agile Extreme Programming (XP),£99,1 year    ,"",2
+Learn Pascal Programming from Scratch,£99,9 hours   ,eTrain,0
+JavaScript Objects and OOP Programming with JavaScript,£99,2 hours   ,eTrain,2
+Microsoft .NET 4.5 Programming with HTML5,£59,1 month   ,StudyOnline247,4
+Flex 2: Advanced Visual Programming  ,£39,10 hours  ,Study365,0
+Bash Scripting and Shell Programming,£299,2 hours   ,Stone River eLearning,0
+C# programming crash course online training,£99,20 hours  ,Online Courses For Job,3
+Julia programming language online training course,£99,20 hours  ,Online Courses For Job,4
+Ruby programming intermediate online training,£99,20 hours  ,Online Courses For Job,5
+Neuro-Linguistic Programming Online Course ,£99,          ,EduCBA,0
+C Programming Comprehensive Online Training Bundle,£99,21 hours  ,EduCBA,5
+C# (C Sharp) Programming Online Course,£18.04,19 hours  ,Simpliv LLC,1
+Advanced Server-Side Programming with Node.js,£49,6 hours   ,Global Edulink,4
+WebGL 3D (WebGL 3D Programming Crash Course),£10,2 hours · ,Amaar School,4
+Certificate in Introduction to Programming Online Course,£299,          ,Courses for Success,3
+R Programming A-Z (Part #1) - Datatypes and Basic Operations,£99,          ,EduCBA,0
+Python Programming and Linux Administration,£53,18 hours  ,Ed-Next (Consult +),1
+Python Programming from Zero,£99,          ,EduCBA,2
+SAS Advanced Programming online Training,£99,11 hours  ,EduCBA,0
+Unity 5 Shader Programming – Advanced Training Course,£99,1 hour    ,EduCBA,4
+Programming Best Practice and Design Patterns,"£1,800",4 days · F,Verhoef Training Ltd,0
+Programming Best Practice and Design Patterns,"£1,800",4 days · F,Verhoef Training Ltd,4
+Learn C Programming from Scratch,£99,5 hours   ,eTrain,4
+Certificate in Introduction to C++ Programming Online Course,£299,          ,Courses for Success,5
+IT : Software Engineering | Object Oriented Programming Fundamentals,£10,1 hour    ,Simpliv LLC,5
+PHP Object Oriented Programming Fundamentals,£99,5 hours   ,eTrain,3
+PHP Object Oriented Programming Fundamentals,£299,5 hours   ,Stone River eLearning,3
+Practical Projects of Python Programming,£99,3 hours   ,EduCBA,0
+C# C Sharp Programming  Online Training Course,£99,8 hours   ,EduCBA,4
+Secure Programming of Web Applications – Developers and TPMs,£10,1 hour    ,One Education,4
+The Ultimate Python Programming – Novice to Ninja,£99,21 hours  ,EduCBA,2
+Online Programming with Transact-SQL course,£708,2 days · F,Impartica IT Training,1
+iOS 9 Programming - Intermediate,£12,6 hours   ,Next Learn Academy,0
+Python Programming online tutor-led training,£425,30 hours ·,Uplatz,5
+ Intermediate Python For Next Level Programming Expertise,£29,          ,Skill Success,4
+Online Programming with Visual Basic course,£708,2 days · F,Impartica IT Training,3
+C++ programming fundamentals online training course,£99,20 hours  ,Online Courses For Job,3
+Microsoft SQL Server Programming,"£1,980",4 days · F,Acudemy,4
+Discover Python Programming With Hands-On Bootcamp,£29,          ,Skill Success,1
+NLP – Neuro Linguistic Programming – The Ultimate NLP Guide,£10,3 hours   ,Guardian Academy,4
+C Programming 101 Online Training,£99,          ,EduCBA,0
+XHTML Server Side Programming with PHP,£99,3 hours   ,EduCBA,3
+IT : Python Basics Programming For Freshers And Developers,£34.49,1 hour    ,Simpliv LLC,2
+Python object oriented programming fundamentals online training course,£149,1 hour    ,Online Courses Learning,2
+Certificate in Intermediate Java Programming Online Course ,£299,          ,Courses for Success,2
+The Ultimate Python Programming - From Beginner to Expert,£99,          ,EduCBA,2
+Certificate in Intermediate C# Programming Online Course,£299,          ,Courses for Success,4
+Complete R Programming for Data Science,£13,6 hours   ,Course Cloud,4
+Computer Science and Programming at QLS Level 5,£100,325 hours ,Janets,3
+"Coding & Programming : Python, SQL, JavaScript & C++",£40,40 hours  ,Janets,3
+Bash Scripting and Shell Programming,£99,2 hours   ,eTrain,2
+The Ultimate Python Programming - From Beginner to Expert,£71,29 hours  ,Ed-Next (Consult +),5
+Kotlin Masterclass Programming Course: Android Coding Bible,£10,6 hours   ,Guardian Academy,4
+The Simplest Guide to Advanced SAS Programming -Macros-SQL,£10,4 hours   ,Guardian Academy,2
+"Programming Mega Bundle (C++, Python, Django, PHP)",£19,72 hours  ,Janets,0
+"Bash Scripting, Linux and Shell Programming Complete Guide",£10,3 hours   ,Guardian Academy,1
+Python Programming for Data Science & Machine Learning ,£15,25 hours  ,Janets,5
+Unity 5 Shader Programming - Beginner,£99,          ,EduCBA,0
+Unity 5 Shader Programming - Intermediate,£99,          ,EduCBA,2
+Neuro-Linguistic Programming (NLP),£375,120 hours ,Oxbridge,4
+Ruby on Rails for Beginners + Ruby Programming Fundamentals,£39,11 hours  ,Next Learn Academy,0
+"Bash Scripting, Linux and Shell Programming Complete Guide",£10,3 hours   ,Amaar School,4
+The Ultimate Python Programming (Module #1) - Python Fundamentals,£18,5 hours   ,Ed-Next (Consult +),3
+"Ruby Programming:06 - Symbols, FileIO, Gem and Debugging",£99,          ,EduCBA,0
+AutoCAD Programming using C# with Windows Forms,£15,9 hours   ,Janets,4
+Python Object Oriented Programming Fundamentals Online Training Course,£29,          ,Learning 247,2
+"Scala Programming Masterclass – Functions, Abstraction and Inheritance Training Course",£99,3 hours   ,EduCBA,0
+IT : Java | COMPLETE Java Programming Bundle- 2020,£10,6 hours   ,Simpliv LLC,0
+IT : Coding | Fundamentals Of Practical Haskell Programming,£119.90,3 hours   ,Simpliv LLC,0
+Design : Learn AutoCAD Programming Using VB.NET - Hands On!,£40.99,12 hours  ,Simpliv LLC,1
+IT : Development | Scratch Programming for Raspberry Pi,£10,1 hour    ,Simpliv LLC,4
+IT : Coding | Complete Python And Java Programming BUNDLE,£10,11 hours  ,Simpliv LLC,3
+WebGL 2D/3D Programming and Graphics Rendering for The Web,£10,4 hours   ,Academy for Health & Fitness,0
+VFD 120 Volt Powerflex 4M Configuring and Programming,£10,3 hours   ,One Education,0
+Ruby Programming Fundamentals Online Training,£79,          ,Learning 247,5
+Ruby Programming Intermediate Online Training,£79,          ,Learning 247,0
+Online Programming with PL/SQL course ,£708,2 days · F,Impartica IT Training,2
+NLP (Neuro-Linguistic Programming),£10,2 hours   ,One Education,3
+R Programming A-Z (Part #3) - Loop Functions and Simulation,£99,          ,EduCBA,0
+R Programming A-Z (Part #4) - DateTime and Classes,£99,          ,EduCBA,4
+IT : Python Programming: Learn Python With 100+ Practicals,£10,6 hours   ,Simpliv LLC,3
+Java Programming For Complete Beginners Using Eclipse IDE,£299,7 hours   ,Stone River eLearning,2
+Python 3 Programming at QLS Level 3,£89,167 hours ,One Education,4
+Ubuntu:11 – Using Programming Languages Online Course,£99,          ,EduCBA,4
+Google Go Programming for Beginners (Golang) Online Training Course,£29,          ,Learning 247,3
+R Programming - Practical Data Science Using R,£99,          ,EduCBA,2
+Learn pascal programming from scratch online training course,£149,1 hour    ,Online Courses Learning,2
+Google go programming for beginners (golang) online training course,£149,4 hours   ,Online Courses Learning,2
+Php object oriented programming fundamentals online training course,£149,1 hour    ,Online Courses Learning,1
+Scheme Programming Series (Module #1) – The Fundamentals,£99,3 hours   ,EduCBA,1
+IT : C++ Programming Language From Scratch,£10,5 hours   ,Simpliv LLC,1
+Data Science: R Programming for Data Science,£10,6 hours   ,One Education,5
+AutoCAD Programming using C# with Windows Forms,£10,9 hours   ,One Education,5
+Scala Programming Masterclass (Series #1) – The Fundamentals,£99,2 hours   ,EduCBA,0
+MATLAB – Advance Your Career with MATLAB Programming Online Course,£99,7 hours   ,EduCBA,3
+Kotlin Masterclass Programming Course: Android Coding Bible,£10,6 hours   ,One Education,4
+Dart Masterclass Programming Course: iOS/Android Bible,£10,4 hours   ,One Education,4
+"Scheme Programming Series – Internal Definitions, Procedures and Bindings Training",£99,          ,EduCBA,5
+Scheme Programming Series (Module #1) – The Fundamentals Training Course,£99,3 hours   ,EduCBA,0
+WebGL 2D/3D Programming and Graphics Rendering For The Web,£10,4 hours   ,One Education,0
+C++ Programming – From Beginners to Beyond Online Training Course,£99,14 hours  ,EduCBA,3
+Business : Data Analysis | Data Visualization With R Programming,£10,6 days    ,Simpliv LLC,1
+PHP Object Oriented Programming Fundamentals Online Training Course,£29,          ,Learning 247,5
+Ruby Programming:02 – Variables and Arrays Online Training,£99,1 hour    ,EduCBA,1
+MATLAB – Advance Your Career with MATLAB Programming Training Course,£99,6 hours   ,EduCBA,0
+Learn Pascal Programming from Scratch Online Training Course,£29,          ,Learning 247,3
+Computer Science and Programming at QLS Level 5,£25,325 hours ,Janets,0
+Diploma in Python Programming at QLS Level 5,£100,528 hours ,One Education,5
+Ruby Programming (Module #2) - Learn Variables and Arrays,£18,3 hours   ,Ed-Next (Consult +),2
+VB.NET - A Guide to Visual Basics .NET Programming,£99,          ,EduCBA,3
+MATLAB - Advance Your Career with MATLAB Programming,£99,          ,EduCBA,0
+MATLAB - Advance Your Career with MATLAB Programming,£99,          ,EduCBA,3
+C programming : learn from scratch online training course,£149,5 hours   ,Online Courses Learning,2
+Android app development : easy & quick programming online training course,£149,9 hours   ,Online Courses Learning,4
+IT : Game Development | C Programming For Beginners,£10,15 hours  ,Simpliv LLC,3
+Microsoft .NET 4.5 Programming with HTML 5,£99,1 year    ,"",5
+C Programming : Learn From Scratch Online Training Course,£29,          ,Learning 247,5
+SharePoint:05 – Tasks and Programming Lists Online Training,£99,3 hours   ,EduCBA,0
+IT: Python Certification Course | Python Programming Tutorials For Beginners,£10,          ,Simpliv LLC,3
+IT : Coding | COMPLETE PERL Programming 2020,£10,          ,Simpliv LLC,0
+IT : Web Development | Learning Haskell Programming,£119.90,          ,Simpliv LLC,3
+IT : Java Programming for Complete Beginners in 250 Steps,£10,26 hours  ,Simpliv LLC,3
+R Programming A-Z (Part #4) – DateTime and Classes Online Training,£99,1 hour    ,EduCBA,1
+Python - Learn Python Programming from A-Z,£10,16 hours  ,Guardian Academy,3
+HMI Panelview 800 Configuring and Programming Level 3,£10,5 hours   ,Course Cloud,5
+"Ruby Programming:04 - Statements, Loops and Break Concepts",£99,          ,EduCBA,1
+MATLAB – Advance Your Career with MATLAB Programming Training Course,£99,          ,EduCBA,3
+IT : Coding | SAS Programming In 7 Steps,£119.90,          ,Simpliv LLC,5
+IT : Coding | Scala Beginner Programming Recipes,£119.90,4 hours   ,Simpliv LLC,0
+C# (C-Sharp) Coding (Computer Programming),£12,5 hours   ,One Education,0
+Java Programming For Complete Beginners Using Eclipse IDE,£99,7 hours   ,eTrain,4
+Programming With jQuery - JavaScript And AJAX Tutorial Series,£29,          ,Skill Success,5
+IT : Python In 3 Hours: Python Programming For Beginners,£23.99,2 hours   ,Simpliv LLC,5
+CAD : AutoCAD to Excel - VBA Programming MasterClass,£10,2 hours   ,Course Cloud,0
+Hello Julia: Learn the New Julia Programming Language,£99,3 hours   ,eTrain,2
+Programming in HTML5 with JavaScript and CSS3 – Exam 70 – 480 ,£59,15 hours  ,Global Edulink,1
+IT : C++ | Object Oriented Programming In C++,£80.72,12 hours  ,Simpliv LLC,3
+R Programming - Practical Data Science Using R,£99,          ,EduCBA,3
+"Ruby Programming:05 – Methods, Classes and Objects",£99,2 hours   ,EduCBA,4
+"Ruby Programming:05 – Methods, Classes and Objects Training Course",£99,2 hours   ,EduCBA,5
+IT : Data Analytics using R Programming,£10,69 hours  ,Simpliv LLC,0
+IT : C++ | C Programming From Scratch To Master,£10,19 hours  ,Simpliv LLC,1
+XHTML Advanced Server Side Programming with PHP Training Online ,£99,2 hours   ,EduCBA,0
+IT: Online Python Programming Course | Python For Beginners With Exercises,£10,          ,Simpliv LLC,5
+Fundamentals of PLC Programming Using Logixpro Simulator ,£15,7 hours   ,Study365,4
+IT : JavaScript | Mastering TypeScript Programming Techniques,£119.90,5 hours   ,Simpliv LLC,0
+Learn JavaScript With Objects And Object Oriented Programming,£29,          ,Skill Success,4
+R Programming A-Z (Part #3) – Loop Functions and Simulation Online Training,£99,2 hours   ,EduCBA,2
+R Programming A-Z (Part #1) – Datatypes and Basic Operations Online Training,£99,          ,EduCBA,0
+Web Design : Web Design Programming and Web Design,£10,15 hours  ,Course Cloud,1
+HP QTP/UFT:03 - Descriptive Programming,£71,3 hours   ,Ed-Next (Consult +),3
+Android app development easy & quick programming online training course,£99,20 hours  ,Online Courses For Job,0
+Google go programming for beginners (golang) online training course,£99,20 hours  ,Online Courses For Job,3
+Learn pascal programming from scratch online training course,£99,20 hours  ,Online Courses For Job,1
+Google Analytics + Google Go Programming for Beginners,£39,9 hours   ,Next Learn Academy,0
+IT : Beginning C++ Game Programming - Part 1,£119.90,6 hours   ,Simpliv LLC,4
+Microsoft .NET 4.5 Programming with HTML 5 ,£59,8 hours   ,Global Edulink,1
+JavaScript Accordion JavaScript Programming Exercise,£99,1 hour    ,eTrain,1
+"The Ultimate Coding, Developing & Programming Bundle",£69.95,62 hours  ,e-courses4you,5
+SAS - Advanced SAS Programming,£35,8 hours   ,Ed-Next (Consult +),4
+SAS - SAS Programming for Beginners,£46,13 hours  ,Ed-Next (Consult +),2
+JavaScript Accordion JavaScript Programming Exercise,£10,1 hour    ,Stone River eLearning,0
+Unity 5 Shader Programming - Beginner,£71,6 hours   ,Ed-Next (Consult +),4
+Unity 5 Shader Programming - Intermediate,£71,7 hours   ,Ed-Next (Consult +),0
+Unity 5 Shader Programming - Advanced,£71,1 hour    ,Ed-Next (Consult +),4
+Unity 5 Shader Programming - Advanced,£99,          ,EduCBA,3
+VB.NET - Visual Basics .NET Programming,£99,          ,EduCBA,3
+Design : AutoCAD VBA Programming - Beginner Course,£10,3 hours   ,Simpliv LLC,3
+IT : C++ | GUI Programming With C++,£119.90,1 hour    ,Simpliv LLC,5
+C++ Programming for Non Programmers,£10,3 hours   ,Guardian Academy,0
+Beginners Guide to Web Development and Programming,£29.95,4 hours   ,e-courses4you,1
+AutoCAD Programming using VB.NET with Windows Forms MasterClass,£10,10 hours  ,Course Cloud,4
+VB.NET - A Guide to Visual Basics .NET Programming,£71,41 hours  ,Ed-Next (Consult +),1
+VB.NET - A Guide to Visual Basics .NET Programming,£71,41 hours  ,Ed-Next (Consult +),2
+Neuro Linguistic Programming (NLP) Complete Bundle,£33,9 hours   ,Janets,4
+C To Master Skill: Learn C Programming Technique,£10,17 hours  ,Simpliv LLC,2
+ Unix (Module #3) – Unix Networking and Shell Programming Training Course,£99,7 hours   ,EduCBA,2
+IT: Python Programming Course | COMPLETE Python Bootcamp 2020,£10,6 hours   ,Simpliv LLC,2
+Drum Programming Masterclass Part One: Rhythms And Patterns,£29,          ,Skill Success,3
+Drum Programming Masterclass Part Two: Samplers And Sequencing,£29,          ,Skill Success,3
+IT: Online Python Course | Python Programming With Data Science,£10,          ,Simpliv LLC,5
+A-Frame Web Virtual Reality Programming,£29,          ,Skill Success,1
+"Engineering : Arduino Meets LabVIEW - Wiring, Installation & Programming",£16.34,8 hours   ,Simpliv LLC,5
+VB.NET - A Guide to Visual Basics .NET Programming,£99,          ,EduCBA,5
+Hello Julia: Learn the New Julia Programming Language,£299,3 hours   ,Stone River eLearning,3
+R Programming A-Z (Part #3) – Loop Functions and Simulation Online Training Course,£99,          ,EduCBA,0
+ Programming A-Z (Part #1) – Datatypes and Basic Operations Online Training,£10,          ,EduCBA,0
+IT : Coding | Mastering Swift 2 Programming,£80.72,          ,Simpliv LLC,2
+IT : C++ | C Programming Unchained (Learn From Scratch),£10,15 hours  ,Simpliv LLC,1
+Ruby Programming (Module #1) - Ruby Fundamentals,£18,3 hours   ,Ed-Next (Consult +),1
+Learn 2D Game Development with Unity and C# Programming,£10,3 hours   ,Stone River eLearning,0
+Microsoft .net 4.5 programming with html 5 online course,£149,1 hour    ,Online Courses Learning,2
+Unity 5 Shader Programming – Beginner To Beyond,£99,5 hours   ,EduCBA,4
+IT : Development | Practical AutoLISP Programming - Beginner to Advanced,£10,7 hours   ,Simpliv LLC,0
+Beginner Object Oriented Programming In C# And .NET Core,£29,          ,Skill Success,1
+Diploma in AutoCAD Programming Using C#.NET,£10,17 hours  ,Course Cloud,3
+IT : Java | Functional Programming With Streams In Java 9,£119.90,5 hours   ,Simpliv LLC,2
+XHTML Advanced Server Side Programming with PHP,£99,2 hours   ,EduCBA,4
+IT : Coding | Mastering Swift 5 Programming,£119.99,          ,Simpliv LLC,1
+Coding for Kids – Learn Programming From Scratch,£12,3 hours   ,OfCourse,0
+IT : Python | Guide to Python Programming Language - Simpliv,£40.99,2 hours   ,Simpliv LLC,1
+Python GUI Programming using Tkinter and Python Training Online,£99,4 hours   ,EduCBA,0
+IT : Development | Android SQLite Programming for Beginners,£10,2 hours   ,Simpliv LLC,0
+Design : AutoCAD to Excel - VBA Programming Hands-On!,£10,3 hours   ,Simpliv LLC,1
+Neuro Linguistic Programming (NLP) Course Bundle (2 courses),£149,8 hours   ,Hudson,1
+Machine Learning – Python Programming: From Beginner to Intermediate,£39,12 hours  ,Study365,5
+VLSI Digital Design – Chip Design and Verilog Programming,£99,8 hours   ,EduCBA,5
+Beginning C++ Programming - From Beginner to Beyond,£29.95,10 hours  ,e-courses4you,0
+"Google Go Golang Programming Series (Module #2) – Strings, Controls and Functions",£99,3 hours   ,EduCBA,3
+R Programming for Data Science | A Complete Courses to Learn,£99,          ,EduCBA,0
+Python Programming: From Beginner to Intermediate Online Course,£29,          ,Learning 247,4
+Complete AutoCAD Programming using C# with Windows Forms,£10,9 hours   ,Course Cloud,5
+"Bash Scripting, Linux and Shell Programming Complete Guide",£13,3 hours   ,Course Cloud,4
+Neuro Linguistic Programming (NLP) - Level 3,£19,2 hours   ,Study365,2
+Certificate in Introduction to Python 3 Programming Online Course,£299,          ,Courses for Success,5
+Microsoft .NET 4.5 Programming With HTML 5,£39,12 hours  ,Study247,1
+Microsoft 70-480: Programming in HTML5 with JavaScript and CSS3,£49,18 hours  ,Study365,4
+VLSI Digital Design - Chip Design and Verilog Programming,£99,          ,EduCBA,0
+IT : Coding | The Complete Google Go Programming Course For Beginners,£119.90,6 hours   ,Simpliv LLC,0
+C programming learn from scratch online training course,£99,2 hours   ,Online Courses For Job,0
+Microsoft .net 4.5 programming with html 5 online course,£99,20 hours  ,Online Courses For Job,1
+Android App Development : Easy & Quick Programming Online Training Course,£29,          ,Learning 247,3
+Python GUI Programming using Tkinter and Python,£99,4 hours   ,EduCBA,4
+"The Ultimate Python Programming (Module #4) - Learn Libraries, GUI, Database & Networking",£18,4 hours   ,Ed-Next (Consult +),3
+"The Ultimate Python Programming (Module #5) - Advanced GUI, Networking and Web",£18,5 hours   ,Ed-Next (Consult +),3
+IT : Python | 3 Days Live Training on Python Programming In-Depth,£213.01,15 hours ·,Simpliv LLC,4
+Microsoft SharePoint 2013 (Module #5) -Common Developer Tasks and Programming Lists,£18,4 hours   ,Ed-Next (Consult +),1
+Become a Programmer (Pack of 4 Programming Courses) - Certificate Included,£25,61 hours  ,Janets,5
+"Certificate in Mac, iPhone, and iPad Programming Online Course",£299,          ,Courses for Success,2
+Google Go Golang Programming Series (Module #1) – Golang Fundamentals Online Training,£99,3 hours   ,EduCBA,4
+"Scala Programming Masterclass (Series #2) – Operations, Control Structures Online Training",£99,3 hours   ,EduCBA,5
+Certificate in Introduction to Python 2.5 Programming Online Course,£299,          ,Courses for Success,3
+R Programming for Data Science Online Course Bundle,£99,          ,EduCBA,4
+Android App Development - Easy & Quick Programming,£12,9 hours   ,Next Learn Academy,3
+HP QTP/UFT:03 - Descriptive Programming,£99,3 hours   ,EduCBA,5
+Advanced Visual Programming Techniques with Flex 2 ,£10,10 hours  ,1 Training,4
+Neuro Linguistic Programming (NLP) + Psychotherapy Bundle,£17,9 hours   ,Course Cloud,5
+IT : Python GUI Programming Recipes Using PyQt5,£119.90,5 hours   ,Simpliv LLC,4
+NLP: The Ultimate Guide To Neuro Linguistic Programming,£29,          ,Skill Success,5
+IT : SQL For Advanced SAS Programming : Learn Hand-On,£10,2 hours   ,Simpliv LLC,2
+Complete Programming AutoCAD to Excel using VB.NET,£10,9 hours   ,Course Cloud,4
+IT : Approach To Python Object Oriented Programming ( OOPS) For Freshers And Developers,£40.99,1 hour    ,Simpliv LLC,3
+"Scala Programming Masterclass (Series #2) - Operations, Objects and Control Structures",£99,          ,EduCBA,2
+"Google Go Golang Programming Series (Module #3) – Arrays, Maps and Packages",£99,3 hours   ,EduCBA,3
+"Scala Programming Masterclass (Series #2) – Operations, Objects and Control Structures",£99,3 hours   ,EduCBA,2
+IT : C++ | Learn C Programming Language: Basics To Advanced Concepts,£10,14 hours  ,Simpliv LLC,4
+IT : Beginner Object Oriented Programming In C# And .NET Core,£12.31,4 hours   ,Simpliv LLC,0
+"IT, CompTIA Network, CompTIA Security & Programming- Complete Bundle",£39,151 hours ,Janets,4
+"Python Programming Bible | Networking, GUI, Email, XML, CGI",£10,6 hours   ,Guardian Academy,2
+The Simplest Guide to SAS Programming- SAS Base-SAS Advanced,£10,12 hours  ,Guardian Academy,0
+Microsoft 70-480: Programming in HTML5 with JavaScript and CSS3,£39,3 months  ,StudyOnline247,1
+VLSI Digital Design – Chip Design and Verilog Programming Training Course,£99,          ,EduCBA,2
+VLSI Digital Design – Chip Design and Verilog Programming Training Course,£149,8 hours   ,EduCBA,5
+"Scheme Programming Series – Multiple Values, Objects and Boolean Online Training Course",£99,3 hours   ,EduCBA,0
+"Google Go Golang Programming Series – Arrays, Maps and Packages Online Training Course",£99,3 hours   ,EduCBA,3
+Python 3 Network Programming (Sequel) – Build 5 More Apps,£10,4 hours   ,Guardian Academy,2
+Oracle PL-SQL Programming online tutor-led training,£425,40 hours ·,Uplatz,2
+Android App Development: Easy and Quick Programming,£299,9 hours   ,Stone River eLearning,5
+"The Ultimate Python Programming (Module #2) - Learn Dictionaries, Conditions and Loops",£18,5 hours   ,Ed-Next (Consult +),1
+"Ultimate Python Programming (Module #3) - Mastering Abstraction, Exceptions and Iterations",£35,8 hours   ,Ed-Next (Consult +),0
+"The Ultimate Python Programming (Module #6) -Testing, Extending Python and Packaging",£18,4 hours   ,Ed-Next (Consult +),5
+IT : C# | AutoCAD Programming Using C#.NET - Beginner Course,£40.99,17 hours  ,Simpliv LLC,4
+The Complete Unix (Module #3) - Unix Networking and Shell Programming,£35,10 hours  ,Ed-Next (Consult +),0
+"Scheme Programming Series (Module #4) - Numbers, Bitwise and Strings",£99,          ,EduCBA,2
+IT: Python Programming | Learn Python In A Day With 6 Projects,£10,4 hours   ,Simpliv LLC,4
+Android APP Development: Easy & Quick Programming,£26.95,9 hours   ,e-courses4you,4
+Microsoft .NET 4.5 Programming with HTML 5,£39,12 months ,Career Match Training Ltd,0
+Microsoft .NET 4.5 Programming with HTML 5 Online Training,£59,12 months ,Learning 247,0
+Microsoft 70-480: Programming in HTML5 with JavaScript and CSS3,£99,8 hours   ,eTrain,0
+A-Frame Web VR Programming Tutorial Series (Virtual Reality),£10,2 hours   ,Guardian Academy,0
+IT: Python GUI Programming Projects using Tkinter and Python 3 - Simpliv,£239.99,7 hours   ,Simpliv LLC,1
+IT : Python | Mastering Python API's Programming For Freshers And Developers,£80.72,1 hour    ,Simpliv LLC,2
+R Programming A-Z (Part #1) - Datatypes and Basic Operations,£99,          ,EduCBA,3
+R Programming – Practical Data Science Using R Online Training,£99,4 hours   ,EduCBA,0
+Neuro-linguistic Programming (NLP) Diploma at QLS Level 5,£100,360 hours ,One Education,0
+Microsoft .NET 4.5 Programming with HTML 5,£29,12 months ,Simply Cert,1
+Php object oriented programming - build a login system online training course,£149,1 hour    ,Online Courses Learning,1
+"Scheme Programming Series (Module #3) – Multiple Values, Objects and Boolean",£99,3 hours   ,EduCBA,3
+IT: Python Training Online | GUI Programming With Python Tkinter And Java Swing,£10,4 hours   ,Simpliv LLC,0
+IT: Best way to learn python- Python Programming For Beginners : Learn Python From Scratch,£10,3 hours   ,Simpliv LLC,0
+Rendering AutoCAD Drawing in Photoshop & AutoCAD VBA Programming to Excel,£21,13 hours  ,Janets,1
+Android App Development: Easy and Quick Programming,£99,9 hours   ,eTrain,1
+"Python Programming Bible | Networking, GUI, Email, XML, CGI",£10,6 hours   ,One Education,4
+"Python Programming Bible - Networking, Email, GUI, XML, CGI",£29,          ,Skill Success,5
+Google Go Golang Programming Series (Module #1) - Golang Fundamentals,£99,          ,EduCBA,1
+"Scala Programming Masterclass (Series #3) – Functions, Abstraction and Inheritance",£99,3 hours   ,EduCBA,3
+IT : Game Design | Python Graphics Programming and Game Development,£10,1 hour    ,Simpliv LLC,1
+"Scheme Programming Series (Module #4) – Numbers, Bitwise and Strings",£99,4 hours   ,EduCBA,0
+"The Ultimate Python Programming (Module #4) – Learn Libraries, GUI, Database & Networking",£99,3 hours   ,EduCBA,3
+IT : Online Python Programming Course | Pack of 5 - Python Mastery Course Bundle,£159.29,28 hours  ,Simpliv LLC,4
+"Ruby Programming:04 – Statements, Loops and Break Concepts Online Training  Course",£99,1 hour    ,EduCBA,0
+"IT : Java | Learn Java Programming -Live Free,Learn To Code",£10,17 hours  ,Simpliv LLC,3
+Programming AutoCAD to Excel using VB.NET at QLS Level 6,£100,456 hours ,One Education,3
+"Ruby Programming (Module #4) - Statements, Loops and Break Concepts",£18,5 hours   ,Ed-Next (Consult +),2
+IT : Python GUI Programming course | Learn Python GUI with Tkinter: The Complete Guide,£10,2 hours   ,Simpliv LLC,4
+IT : Software Engineering | Create Your Calculator - Learn R Programming Fast,£10,1 hour    ,Simpliv LLC,4
+IT : Java | Learn Java Programming Using JShell Now! Java Development Course,£10,3 hours   ,Simpliv LLC,1
+Health & care : Mental Health | NLP - Neuro Linguistic Programming - The Ultimate ,£10,2 hours   ,Simpliv LLC,5
+IT : Development | Learn : Android Programming Developing For Advanced Using Basic4Android,£10,1 hour    ,Simpliv LLC,2
+Google Go Golang Programming Series (Module #1) – Golang Fundamentals,£99,3 hours   ,EduCBA,2
+IT : C# | Hands-On Parallel Programming With C# 8 And .NET Core 3.0,£119.90,1 hour    ,Simpliv LLC,4
+IT : Dynamic Programming Problems: Top 10 Algorithms Asked In Interview Questions,£12.31,1 hour    ,Simpliv LLC,0
+IT : Java | Crack Programming And Coding Interviews in 1st Attempt,£10,20 hours  ,Simpliv LLC,1
+IT : Python Programming | Python for Beginners: A Python Mega Course with 10 Projects,£10,          ,Simpliv LLC,1
+IT : Python | Learning Path: Python: Programming For Python Users,£34.49,12 hours  ,Simpliv LLC,5
+Linux Programming - Bash Scripting And Shell Scripting Complete Guide,£29,          ,Skill Success,4
+VFD 120 Volt Powerflex 4M Configuring and Programming Level 2,£10,5 hours   ,Course Cloud,5
+IT : Development | The Complete LabVIEW Programming 2020: Beginner To Advanced,£10,7 hours   ,Simpliv LLC,3
+Learn Pascal Programming from Scratch + Learn Python Django From Scratch,£39,16 hours  ,Next Learn Academy,3
+"Ruby Programming:06 – Symbols, FileIO, Gem and Debugging Online Training",£99,3 hours   ,EduCBA,2
+"Scheme Programming Series (Module #4) – Numbers, Bitwise and Strings Online Training",£99,4 hours   ,EduCBA,3
+IT : C to Master Skill: Learn C Programming Technique,£10,16 hours  ,Simpliv LLC,1
+PHP Object Oriented Programming - Build a Login System Online Training Course,£29,          ,Learning 247,4
+IT : Python | NEW Python 3.7 Mastery course [FAST TRACK] - Programming language,£10,1 hour    ,Simpliv LLC,0
+IT : Python | Create Your Calculator: Learn Python Programming Basics Fast,£10,1 hour    ,Simpliv LLC,0
+IT : C# | Create Your Calculator: Learn C# Programming Basics Fast,£10,2 hours   ,Simpliv LLC,0
+IT : Coding | Learn ELIXIR Programming From ZERO To HERO,£10,          ,Simpliv LLC,5
+PHP Object Oriented Programming - Build a Login System,£37,2 hours   ,Study365,1
+Ruby Programming (Module #3) - Operators and Exceptions,£18,6 hours   ,Ed-Next (Consult +),4
+"Ruby Programming (Module #5) - Methods, Classes and Objectsprog",£18,6 hours   ,Ed-Next (Consult +),5
+Total Training™ for Adobe® Flex 2: Advanced Visual Programming,£80,1 year    ,Ed-Next (Consult +),4
+IT : Python Programming | Spark for Data Science with Python,£10,8 hours   ,Simpliv LLC,1
+IT : Coding | Linux Shell Programming For Beginners,£80.72,10 hours  ,Simpliv LLC,1
+"R Programming A-Z (Part #2) - Reading Data, Functions and Scoping",£99,          ,EduCBA,1
+The Complete Unix (Module #3) – Unix Networking and Shell Programming,£99,7 hours   ,EduCBA,1
+Maths : Statistics | R Programming With Statistics For Data Science : Learn Hands-On,£10,8 hours   ,Simpliv LLC,2
+IT : C++ | C Programming Basics For Microcontrollers & Embedded System,£10,3 hours   ,Simpliv LLC,2
+IT : Java | Learning Java 9 - Object Oriented Programming,£119.90,2 hours   ,Simpliv LLC,3
+R Programming for Data Science | A Complete Online Courses to Learn,£99,6 hours   ,EduCBA,1
+A-Frame Web VR Programming Tutorial Series (Virtual Reality),£13,1 hour    ,Course Cloud,4
+Cognitive Behavioural Therapy (CBT) and Neuro Linguistic Programming (NLP) Bundle,£39,20 hours  ,OfCourse,5
+REBT – Rational Emotive Behavioral Therapy – The Science Of Programming Your Mind!,£10,4 hours   ,Guardian Academy,3
+IT: Online Python Course | Learn Programming with Python in 100 Steps,£10,11 hours  ,Simpliv LLC,0
+IT : Coding | Bash Scripting And Shell Programming (Linux Command Line),£10,2 hours   ,Simpliv LLC,1
+IT : C++ | Learn C++ Programming From Beginner To Expert,£10,28 hours  ,Simpliv LLC,1
+Machine learning : python programming - from beginner to intermediate online course,£149,1 hour    ,Online Courses Learning,5
+IT : Development | Learn Android Programming Using Basic4Android (Beginners),£10,1 hour    ,Simpliv LLC,4
+PHP Object Oriented Programming - Build a Login System,£12,2 hours   ,Next Learn Academy,2
+Python Programming: From Beginner to Intermediate + Twitter Sentiment Analysis in Python ,£12,16 hours  ,Next Learn Academy,1
+IT : Python | Python For Beginners: Learn Python Programming (Python 3),£10,2 hours   ,Simpliv LLC,1
+IT : Learn Python Programming From A-Z: Beginner To Expert Course,£10,12 hours  ,Simpliv LLC,5
+IT : Python Course Online | Learn Python Programming - Easy as Pie,£10,10 hours  ,Simpliv LLC,4
+Web Development with Ruby – Learn Ruby Programming and Ruby on Rails Framework,£99,14 hours  ,EduCBA,1
+IT: Python Programming Bible: Hands-On Python 3 with 10 Projects,£10,12 hours  ,Simpliv LLC,2
+IT : JavaScript | Learning Path: Learn Functional Programming With JavaScript,£34.49,7 hours   ,Simpliv LLC,0
+IT : Cyber Security | Secure Programming Of Web Applications - Developers And TPMs,£24.75,2 hours   ,Simpliv LLC,2
+Machine learning python programming - from beginner to intermediate online course,£99,20 hours  ,Online Courses For Job,0
+Web Development with Ruby - Learn Ruby Programming and Ruby on Rails Framework,£99,          ,EduCBA,4
+Programming in HTML5 with JavaScript and CSS3 + Developing ASP.NET MVC Web Applications,£39,36 hours  ,Next Learn Academy,4
+IT : Java | Fundamentals of Java Programming for Text Mining and NLP,£10,4 hours   ,Simpliv LLC,0
+IT : Cyber Security | Network Socket Programming In Python 3 Practical Way,£10,2 hours   ,Simpliv LLC,1
+IT : Online Python Programming Course | Python 1200: Practice for BEGINNERS,£10,          ,Simpliv LLC,3
+IT : Bare Metal Embedded Firmware Programming Using Kinetis KL25 ARM,£40.99,10 hours  ,Simpliv LLC,1
+R Programming for Data Science | A Complete Courses to Learn Online,£99,          ,EduCBA,3
+IT : Python | Learning Path: From Python Programming To Data Science,£34.49,21 hours  ,Simpliv LLC,4
+Flex 2: Advanced Visual Programming + Flex 2: Rich Internet Applications,£39,18 hours  ,Next Learn Academy,0
+IT : OMRON HMI Design With PLC Programming Using CX-ONE,£12.31,3 hours   ,Simpliv LLC,1
+IT : PHP | Learn Complete PHP & MYSQL Programming From Scratch - Simpliv,£12.31,10 hours  ,Simpliv LLC,3
+Web Development with Ruby – Learn Ruby Programming and Ruby on Rails Framework Training,£99,14 hours  ,EduCBA,3
+IT : Development | Learn Node Red Programming in 48 Hours,£10,2 hours   ,Simpliv LLC,5
+IT : Game Development | Unreal Development Kit Game Programming With UnrealScript,£80.72,3 hours   ,Simpliv LLC,1
+PHP Object Oriented Programming: Build a Login System,£99,2 hours   ,eTrain,3
+Business : Data Analysis | Data Visualization Using R Programming,£10,10 hours  ,Simpliv LLC,3
+IT : Online R Programming Course | Mastering Data Analysis With R,£119.90,4 hours   ,Simpliv LLC,0
+IT : Web Development | OpenCV Computer Vision Application Programming,£80.72,          ,Simpliv LLC,1
+Microsoft Excel Programming with VBA (3 Days) & CPD Certificate - Onsite/In-Company,£720,3 days · F,Infero Training Ltd,4
+Microsoft Excel Programming with VBA (3 Days) & CPD Certificate - Nottingham,£658,3 days · F,Infero Training Ltd,4
+Microsoft Excel Programming with VBA (3 Days) & CPD Certificate - Manchester,£720,3 days · F,Infero Training Ltd,0
+Microsoft Excel Programming with VBA (3 Days) & CPD Certificate - Leeds,£720,3 days · F,Infero Training Ltd,0
+Microsoft Excel Programming with VBA (3 Days) & CPD Certificate - London,£720,Full-time ,Infero Training Ltd,4
+Microsoft Excel Programming with VBA (3 Days) & CPD Certificate - Birmingham,£720,3 days · F,Infero Training Ltd,2
+Microsoft Excel Programming with VBA (3 Days) & CPD Certificate - Liverpool,£720,3 days · F,Infero Training Ltd,4
+Microsoft Excel Programming with VBA (3 Days) & CPD Certificate - Bristol,£720,3 days · F,Infero Training Ltd,4
+Microsoft Excel Programming with VBA (3 Days) & CPD Certificate - Milton Keynes,£720,3 days · F,Infero Training Ltd,5
+"Personal Development : Programm your self-image for Success, strong, self-confident",£10,1 hour    ,Simpliv LLC,5
+"R Programming A-Z (Part #2) – Reading Data, Functions and Scoping Online Training",£99,1 hour    ,EduCBA,0
+IT: Online Python Programming | Learn Python From Basic To Advance With Projects In A Day,£10,4 hours   ,Simpliv LLC,1
+C# Programming Advanced - Learn the Art of Writing Clean Code,£46,14 hours  ,Ed-Next (Consult +),5
+"Ruby Programming (Module #6) - Learn Symbols, FileIO, Gem and Debugging",£35,9 hours   ,Ed-Next (Consult +),2
+Java and .Net Comparison (Part#4) - Object Oriented Programming,£25,21 hours  ,Ed-Next (Consult +),1
+IT : Online R Programming Course | Exploratory Data Analysis With R,£119.90,5 hours   ,Simpliv LLC,1
+Web Development with Ruby - Learn Ruby Programming and Ruby on Rails Framework,£71,14 hours  ,Ed-Next (Consult +),1
+IT : Online Java Programming Course | Spring Boot Microservices with JPA,£10,5 hours   ,Simpliv LLC,4
+IT : Java Programming Basics With Jaspersoft Studio And Jasper Reports,£10,2 hours   ,Simpliv LLC,0
+IT : JavaScript | Learning Path: Server-Side Programming With Node.Js,£34.49,9 hours   ,Simpliv LLC,3
+IT : Online R Programming Course| CNN For Computer Vision With Keras And TensorFlow In R,£10,6 hours   ,Simpliv LLC,0
+IT : Software Engineering | Arduino With Ardublockly: Block Based Arduino Programming,£40.99,3 hours   ,Simpliv LLC,3
+Python 3 for beginners,£10,9.5 hours ,LearningWhilePracticing,5
+IT : Online R Programming Course | Learn Data Science And Machine Learning With R From A-Z,£10,23 hours  ,Simpliv LLC,5
+IT : R Programming  | Hands on Machine learning & Data science with R- Over 10 projects,£40.99,13 hours  ,Simpliv LLC,5
+Performing Arts : Music Production | Drum Programming 101 - Create Today's Drum Beats ,£10,2 hours   ,Simpliv LLC,5
+IT : Web Development | Learn How to Build a Website Using WordPress without Programming,£10,5 hours   ,Simpliv LLC,3
+IT : Online R Programming Course | Learning Path: R: Powerful Data Analysis With R,£34.49,10 hours  ,Simpliv LLC,5
+"IT : Java Programming | Java EE: From Zero To Expert (EJB, JPA, Web Services, JSF)",£34.49,54 hours  ,Simpliv LLC,0
+IT : R Programming Course | Neural Networks (ANN) In R Studio Using Keras & TensorFlow,£10,8 hours   ,Simpliv LLC,0
+Java Basics for Beginners: Learn Coding with Java,£10,1.9 hours ,Victor Gorinov,4
+Master all the MS Excel Macros and the basics of Excel VBA,£12,3.8 hours ,Yassin Marco,3
+Computing & Information Technology,£10,8 hours   ,Global Edulink,0
+"Machine Learning, Pattern Recognition & Applied Statistics with Python",£12.99,22.5 hours,Sai Acuity Institute of Learning,0
+C# Basics for Beginners: Learn Coding with C#,£10,2.8 hours ,Victor Gorinov,5
+HTML Web Development Crash Course,£19.99,1.7 hours ,Sonar Systems,3
+Kotlin & Java: Learn Kotlin and Java With This Course,£20,14.5 hours,Oak Academy,2
+The Complete Dart Language Guide for Google Flutter | Dart,£15,4.1 hours ,Oak Academy,4
+Kotlin For Android Development: Learn Kotlin From Scratch,£10,6.6 hours ,Oak Academy,2
+Unix and Shell Scripting Certification Training,£11,2.8 hours ,Uplatz,3
+Data Science for Beginners: Data Science Intro Course,£59.99,2.8 hours ,"",0
+Learn to Code with Python 3!,£10,17.6 hours,Joseph Delgadillo,4
+Ultimate PHP & MySQL Web Development Course & OOP Coding,£59.99,10.1 hours,Sonar Systems,4
+Introduction to Data Structures & Algorithms,£29,17 hours  ,Swastik Arora,1
+"VLSI, PLC, Microcontrollers, and Assembly Language Certification Training",£11,22.6 hours,Uplatz,1
+Management Accounting,£12,2.2 hours ,Global Edulink,1
