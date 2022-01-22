@@ -22,7 +22,7 @@ class CursosReedCourses
 
 
 
-      while(pagina<=40)
+      while(pagina<=60)
         puts "Scrapeando la url https://www.reed.co.uk/courses/?pageno=#{pagina}&keywords=programming"
         link="https://www.reed.co.uk/courses/?pageno=#{pagina}&keywords=programming"
         #link ="https://www.reed.co.uk/courses/?keywords=programming"
