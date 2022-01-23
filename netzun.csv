@@ -1,4 +1,5 @@
 T√≠tuloCurso,Precio,Duraci√≥n,Autor,Calificaci√≥n
+<<<<<<< Updated upstream
 Introducci√≥n a Web Scraping,US$ 23.90,1hr 45mins,Nephtal√≠ Garrido - Consultor de Ciencia de Datos e Inteligencia Artificial,5.0
 Introducci√≥n al Deep Learning,US$ 23.90,1hr 29mins,Nephtal√≠ Garrido - Consultor de Ciencia de Datos e Inteligencia Artificial,5.0
 Introducci√≥n a Python para ciencia de datos,US$ 9.90 ,1hr 47mins,Tanya Ramirez - Cient√≠fica de datos,4.5
@@ -23,3 +24,29 @@ Introducci√≥n a HTML,US$ 9.90 ,4hrs 18min,Daniel Salamanca - Profesor Asociado d
 SQL Para Principiantes,US$ 9.90 ,4hrs 32min,Sebastien Polis - Cient√≠fico de Datos,4.5
 Big Data y Monetizaci√≥n,US$ 9.90 ,2hrs 46min,Carlos Calderon - CEO,4.6
 Transformaci√≥n Digital,US$ 9.90 ,3hrs 18min,Gonzalo Martin - Socio Director - Good Rebels,4.5
+=======
+IntroducciÛn a Web Scraping,US$ 23.90,1hr 45mins,NephtalÌ Garrido - Consultor de Ciencia de Datos e Inteligencia Artificial,5.0
+IntroducciÛn al Deep Learning,US$ 23.90,1hr 29mins,NephtalÌ Garrido - Consultor de Ciencia de Datos e Inteligencia Artificial,5.0
+IntroducciÛn a Python para ciencia de datos,US$ 9.90 ,1hr 47mins,Tanya Ramirez - CientÌfica de datos,4.5
+Cybersecurity Ethical Hacker Fundamentals,US$ 9.90 ,1hr 10mins,Luis Fernando Estrada - Head of Network Security,4.5
+Zero Trust,US$ 9.90 ,1hr 12mins,Nicolas Reyes - Consultor,4.5
+Cybersecurity Fundamentals,US$ 9.90 ,1hr 27mins,Nicolas Reyes - Consultor,5.0
+DiseÒa tu futuro exponencial,US$ 17.90,7hrs 4.569,Agustina Paz - Cofundadora,569
+IntroducciÛn a las tecnologÌas exponenciales,US$ 17.90,7hrs 5.066,Agustina Paz - Cofundadora,066
+IntroducciÛn al Mindset Exponencial,US$ 17.90,7hrs 4.766,Agustina Paz - Cofundadora,766
+IntroducciÛn a Blockchain,US$ 17.90,7hrs 5.067,Carlos Bittrich RamÌrez - Asesor en TecnologÌas Emergentes,067
+Edge Computing: Acercando la Nube al Usuario,US$ 17.90,7hrs 5.066,Carlos Bittrich RamÌrez - Asesor en TecnologÌas Emergentes,066
+"IOT: Conectando cosas,US$ 17.90,7hrs 5.067,""Hayashi Mateo - Ing. MecatrÛnico, especialista en patentes e investigador"",067"
+Smart Manufacturing,US$ 17.90,7hrs 5.067,Benito Ju·rez - Presidente,067
+Quantum Computing,US$ 17.90,7hrs 5.067,Natalie Gil - Gerente Corporativa de Arquitectura y estrategia de AUNA,067
+Fabricando mis ideas,US$ 17.90,7hrs 5.066,Henry S·nchez - Creador Educativo,066
+CSS Intermedio,US$ 9.90 ,4hrs 03min,Daniel Salamanca - Profesor Asociado de DiseÒo Interactivo,5.0
+CSS B·sico,US$ 9.90 ,3hrs 38min,Daniel Salamanca - Profesor Asociado de DiseÒo Interactivo,5.0
+Big Data Fundamentals,US$ 9.90 ,1hr 49mins,Jumled LeÛn - Big Data Architect Senior,4.7
+Business Analytics en Big Data,US$ 9.90 ,1hr 38mins,Jumled LeÛn - Big Data Architect Senior,4.6
+Tendencias y tecnologÌas disruptivas,Obtener gratisOb,1hr 32mins,Jumled LeÛn - Big Data Architect Senior,4.6
+IntroducciÛn a HTML,US$ 9.90 ,4hrs 18min,Daniel Salamanca - Profesor Asociado de DiseÒo Interactivo,4.8
+SQL Para Principiantes,US$ 9.90 ,4hrs 32min,Sebastien Polis - CientÌfico de Datos,4.5
+Big Data y MonetizaciÛn,US$ 9.90 ,2hrs 46min,Carlos Calderon - CEO,4.6
+TransformaciÛn Digital,US$ 9.90 ,3hrs 18min,Gonzalo Martin - Socio Director - Good Rebels,4.5
+>>>>>>> Stashed changes
