@@ -52,7 +52,7 @@ resumen<- data.frame(
   "Lenguajes" = len, 
   "Plataformas" = Plataformas 
 )
-resumen
+View(resumen)
 
 ggplot(resumen,mapping=aes(x=len,y=cantidad,fill=Plataformas))+
   geom_bar(stat = "Identity",position = 'dodge')+
