@@ -24,6 +24,8 @@ titulocursoreed  <- reed$TÃ.tuloCurso
 titulocursotutellus <- tutellus$TÃ.tuloCurso
 
 str_to_upper(titulocursonetzun)
+str_to_upper(titulocursoreed)
+str_to_upper(titulocursotutellus)
 
 cantenguajes<-length(lenguajes) 
 
