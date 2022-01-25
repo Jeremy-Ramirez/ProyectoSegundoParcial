@@ -7,7 +7,7 @@ library(stringr)
 library(agricolae) 
 
 
-archivo=read.csv("C:/Users/PC/Documents/GitHub/ProyectoSegundoParcial/CursosGeneral.csv", 
+archivo=read.csv("CursosGeneral.csv", 
                  header = TRUE, sep = ",", dec = ".",encoding = "UTF-8")
 
 print(archivo)
