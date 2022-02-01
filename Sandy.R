@@ -6,16 +6,17 @@ library(readr)
 library(tidyverse)
 
 netzun<- read.csv(file.choose())
-names(netzun)
-#rename(netzun, c(T�.tuloCurso=TituloCurso,Duración=Duracion,Calificación=Calificacion))
 View(netzun)
-
 
 reed<- read.csv(file.choose())
 View(reed)
 
 tutellus<- read.csv(file.choose())
 View(tutellus)
+
+names(tutellus)
+names(reed)
+names(netzun)
 
 lenguajes <- c("PHP", "Ruby", "Dart", "Java", "Python", "Javascript", "Typescript", "C++", "C#", "CSS", "HTML", "SQL","Angular", "Django", "Vue", "Rails", "Express", "Laravel", "Spring") 
 str_to_upper(lenguajes)
@@ -63,5 +64,50 @@ ggplot(resumen,mapping=aes(x=len,y=cantidad,fill=Plataformas))+
   ggtitle("Cantidad de cursos de diversos lenguajes y \n frameworks por plataforma")+
   ggeasy::easy_center_title()+
   labs(x = "Lenguajes y Frameworks",y = "Cantidad de cursos")
+
+ennetzun<- data.frame(
+  "Cantidad" = cantnetzun,
+  "Lenguajes" = lenguajes
+)
+View(ennetzun)
+ggplot(ennetzun,mapping=aes(x=lenguajes,y=cantnetzun))+
+  geom_bar(stat = "Identity",position = 'dodge')+
+  theme_ipsum()+
+  coord_flip()+
+  ggtitle("Cantidad de cursos de diversos lenguajes y \n frameworks en Netzun")+
+  ggeasy::easy_center_title()+
+  labs(x = "Lenguajes y Frameworks",y = "Cantidad de cursos")
+
+enreed<- data.frame(
+  "Cantidad" = cantreed,
+  "Lenguajes" = lenguajes
+)
+View(enreed)
+ggplot(enreed,mapping=aes(x=lenguajes,y=cantreed))+
+  geom_bar(stat = "Identity",position = 'dodge')+
+  theme_ipsum()+
+  coord_flip()+
+  ggtitle("Cantidad de cursos de diversos lenguajes y \n frameworks en Reed Courses")+
+  ggeasy::easy_center_title()+
+  labs(x = "Lenguajes y Frameworks",y = "Cantidad de cursos")
+
+
+entutellus<- data.frame(
+  "Cantidad" = canttute,
+  "Lenguajes" = lenguajes
+)
+View(entutellus)
+ggplot(entutellus,mapping=aes(x=lenguajes,y=canttute))+
+  geom_bar(stat = "Identity",position = 'dodge')+
+  theme_ipsum()+
+  coord_flip()+
+  ggtitle("Cantidad de cursos de diversos lenguajes y \n frameworks en Tutellus")+
+  ggeasy::easy_center_title()+
+  labs(x = "Lenguajes y Frameworks",y = "Cantidad de cursos")
+
+
+
+
+
 
 
