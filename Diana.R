@@ -36,7 +36,7 @@ row(tablajavascript)
 print(tablajavascript)
 tablajavascript
 
-#CURSOS POR CATEGORÍA DE PRECIOS
+#CURSOS POR CATEGORIA DE PRECIOS
 #0-25
 tablajavascript
 categoria1=filter(tablajavascript, javascriptpreciofinal<=25.00)
@@ -92,7 +92,7 @@ row(tablapython)
 print(tablapython)
 tablapython
 
-#CURSOS POR CATEGORÍA DE PRECIOS
+#CURSOS POR CATEGORIA DE PRECIOS
 #0-25
 tablapython
 categoria1=filter(tablapython, pythonpreciofinal<=25.00)
@@ -147,7 +147,7 @@ row(tablajava)
 print(tablajava)
 tablajava
 
-#CURSOS POR CATEGORÍA DE PRECIOS
+#CURSOS POR CATEGORIA DE PRECIOS
 #0-25
 tablajava
 categoria1=filter(tablajava, javapreciofinal<=25.00)
@@ -202,7 +202,7 @@ row(tablaruby)
 print(tablaruby)
 tablaruby
 
-#CURSOS POR CATEGORÍA DE PRECIOS
+#CURSOS POR CATEGORIA DE PRECIOS
 #0-25
 tablaruby
 categoria1=filter(tablaruby, rubypreciofinal<=25.00)
@@ -257,7 +257,7 @@ row(tablasql)
 print(tablasql)
 tablasql
 
-#CURSOS POR CATEGORÍA DE PRECIOS
+#CURSOS POR CATEGORIA DE PRECIOS
 #0-25
 tablasql
 categoria1=filter(tablasql, sqlpreciofinal<=25.00)
@@ -313,7 +313,7 @@ row(tablaphp)
 print(tablaphp)
 tablaphp
 
-#CURSOS POR CATEGORÍA DE PRECIOS
+#CURSOS POR CATEGORIA DE PRECIOS
 #0-25
 tablaphp
 categoria1=filter(tablaphp, phppreciofinal<=25.00)
@@ -370,7 +370,7 @@ row(tablac1)
 print(tablac1)
 tablac1
 
-#CURSOS POR CATEGORÍA DE PRECIOS
+#CURSOS POR CATEGORIA DE PRECIOS
 #0-25
 tablac1
 categoria1=filter(tablac1, C1preciofinal<=25.00)
@@ -428,7 +428,7 @@ row(tablac2)
 print(tablac2)
 tablac2
 
-#CURSOS POR CATEGORÍA DE PRECIOS
+#CURSOS POR CATEGORIA DE PRECIOS
 #0-25
 tablac2
 categoria1=filter(tablac2, C2preciofinal<=25.00)
@@ -484,7 +484,7 @@ row(tablascala)
 print(tablascala)
 tablascala
 
-#CURSOS POR CATEGORÍA DE PRECIOS
+#CURSOS POR CATEGORIA DE PRECIOS
 #0-25
 tablascala
 categoria1=filter(tablascala, scalapreciofinal<=25.00)
@@ -541,7 +541,7 @@ row(tablamatlab)
 print(tablamatlab)
 tablamatlab
 
-#CURSOS POR CATEGORÍA DE PRECIOS
+#CURSOS POR CATEGORIA DE PRECIOS
 #0-25
 tablamatlab
 categoria1=filter(tablamatlab, matlabpreciofinal<=25.00)
@@ -598,7 +598,7 @@ row(tablageneral)
 print(tablageneral)
 tablageneral
 
-#CURSOS POR CATEGORÍA DE PRECIOS
+#CURSOS POR CATEGORIA DE PRECIOS
 #0-25
 tablageneral
 categoria1=filter(tablageneral, generalpreciofinal<=25.00)
